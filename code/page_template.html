@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Turnpikes and Coaching Towns</title>
+<meta name="description" content="England's {{trusts.unique|int}} turnpike trusts, the {{traces.total|int}} milestones, mileposts and toll houses that survive, and whether the turnpike made the town grow.">
+<meta property="og:title" content="Turnpikes and coaching towns: did the turnpike make the town?">
+<meta property="og:description" content="{{trusts.unique|int}} turnpike trusts, a founding boom in the 1750s, {{traces.total|int}} surviving milestones and toll houses, and a careful look at whether turnpike towns grew faster.">
+<meta property="og:image" content="https://tristan-hotham.github.io/turnpike-towns/header.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+/* Road-map parchment. Coaching green = early turnpike. Ochre = late. Stone grey = surviving milestone. Red = toll house. */
+:root{
+  --bg:#F3EEE2; --panel:#E9E2D1; --fg:#232A24; --muted:#66665A; --rule:#D9D0BC; --card:#FBF8F0; --border:#C7BCA3;
+  --green:#2E5E4A; --greenl:#8FB3A0; --ochre:#C08A2E; --red:#A33B2B; --stone:#7E7A6E; --ink:#2F4A6B; --sea:#ECE6D6;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#1A1D1A; --panel:#232722; --fg:#E9E6DA; --muted:#A9A795; --rule:#363A33; --card:#20241F; --border:#474B40;
+  --green:#7FBF9E; --greenl:#3F6B57; --ochre:#E0B060; --red:#E2735F; --stone:#A5A195; --ink:#8FB0D8; --sea:#161815; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1A1D1A; --panel:#232722; --fg:#E9E6DA; --muted:#A9A795; --rule:#363A33; --card:#20241F; --border:#474B40;
+  --green:#7FBF9E; --greenl:#3F6B57; --ochre:#E0B060; --red:#E2735F; --stone:#A5A195; --ink:#8FB0D8; --sea:#161815; color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 18px/1.62 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));overflow-x:hidden}
+.wrap{max-width:680px;margin:0 auto;padding-block:28px 64px}
+.wrap .bleed{width:min(1080px,calc(100vw - 32px));margin-left:calc((100% - min(1080px,100vw - 32px))/2);margin-right:0}
+a{color:inherit;text-decoration-color:var(--green);text-underline-offset:3px}
+.kicker{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.kicker b{background:var(--green);color:var(--bg);padding:5px 8px;font-weight:500}
+header.hero{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px 24px;align-items:end;border-bottom:6px double var(--fg);padding-bottom:22px;margin-top:18px}
+h1{font:900 clamp(50px,12vw,100px)/.9 var(--display);letter-spacing:-.02em;margin:0;font-variation-settings:"SOFT" 50;color:var(--fg)}
+h1 em{font-style:normal;color:var(--green)}
+.mark{width:clamp(84px,20vw,150px);height:auto;display:block}
+.dek{grid-column:1/-1;font-size:21px;line-height:1.42;margin:8px 0 0;max-width:46ch}
+.byline{font:400 13px/1.4 var(--mono);color:var(--muted);margin-top:14px}
+h2{font:800 34px/1.04 var(--display);letter-spacing:-.01em;margin:52px 0 10px;text-wrap:balance}
+h2 .n{font:500 13px/1 var(--mono);color:var(--green);display:block;letter-spacing:.1em;margin-bottom:10px}
+h3{font:600 20px/1.25 var(--display);margin:28px 0 6px}
+p{margin:0 0 16px}
+.lede::first-letter{font:900 72px/.8 var(--display);float:left;margin:6px 10px 0 0;color:var(--green)}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule);margin:26px 0 8px}
+.stats div{background:var(--card);padding:14px 12px}
+.stats b{display:block;font:900 clamp(28px,6vw,40px)/1 var(--display);color:var(--fg)}
+.stats b.g{color:var(--green)}.stats b.o{color:var(--ochre)}.stats b.r{color:var(--red)}
+.stats span{font:400 12px/1.35 var(--mono);color:var(--muted);display:block;margin-top:6px}
+@media (max-width:600px){.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.figure{margin:26px 0 30px}
+.fig-h{font:600 19px/1.25 var(--display);margin:0 0 4px}
+.fig-sub{font:400 13px/1.45 var(--mono);color:var(--muted);margin:0 0 12px}
+.src{font:400 12px/1.45 var(--mono);color:var(--muted);margin-top:10px}
+.chart{width:100%;position:relative}
+.chart svg{display:block;width:100%;height:auto;overflow:visible}
+svg text{font-family:var(--mono);fill:var(--fg)}
+.lab{font-size:12px}.lab.m{fill:var(--muted)}.lab.b{font-weight:500}.lab.s{font-size:11px}
+.tip{position:absolute;pointer-events:none;background:var(--fg);color:var(--bg);font:400 12px/1.45 var(--mono);padding:8px 10px;border-radius:3px;max-width:280px;z-index:1000;transform:translate(-50%,calc(-100% - 12px));display:none}
+.tip b{font-weight:500}
+.controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0 0 10px}
+.btn{font:500 12px/1 var(--mono);background:var(--card);color:var(--fg);border:1px solid var(--border);border-radius:3px;padding:8px 10px;cursor:pointer;min-height:36px}
+.btn[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.btn[aria-pressed="false"].o{opacity:.55;text-decoration:line-through}
+.btn i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:-1px}
+.btn:focus-visible,input:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.slider{display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px;align-items:center;margin:0 0 8px}
+.slider input{width:100%;accent-color:var(--green)}
+.yr{font:800 26px/1.1 var(--display);margin:2px 0 8px}
+.yr small{font:400 13px/1.3 var(--mono);color:var(--muted);display:block;margin-top:4px}
+.search{display:flex;gap:8px;margin:0 0 10px;flex-wrap:wrap}
+.search input{font:400 14px/1 var(--mono);padding:9px 10px;border:1px solid var(--border);background:var(--card);color:var(--fg);border-radius:3px;flex:1 1 220px;min-width:0}
+.mapgrid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:18px;align-items:start}
+@media (max-width:820px){.mapgrid{grid-template-columns:1fr}}
+#map{height:clamp(440px,74vh,680px);border:1px solid var(--border);background:var(--sea);border-radius:2px;z-index:0}
+.legend{display:flex;gap:6px 14px;flex-wrap:wrap;font:400 12px/1.3 var(--mono);color:var(--muted);margin-top:8px;align-items:center}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:-1px}
+.ramp{display:inline-block;width:120px;height:10px;vertical-align:-1px;margin:0 6px;border-radius:2px}
+.side{display:flex;flex-direction:column;gap:12px}
+.card{background:var(--card);border:1px solid var(--border);border-left:4px solid var(--green);padding:12px 14px;font:400 13px/1.5 var(--mono)}
+.card.empty{border-left-color:var(--border);color:var(--muted)}
+.card b.t{font:600 18px/1.2 var(--display);display:block;margin-bottom:6px}
+.card dl{display:grid;grid-template-columns:auto 1fr;gap:2px 12px;margin:6px 0 8px}
+.card dt{color:var(--muted)}.card dd{margin:0;overflow-wrap:anywhere}
+.card ul{margin:4px 0 0;padding-left:18px}
+.pull{font:600 26px/1.25 var(--display);border-left:6px solid var(--green);padding:4px 0 4px 18px;margin:30px 0}
+.note{background:var(--panel);border:1px solid var(--rule);padding:14px 16px;font-size:16px;margin:22px 0}
+.note h3{margin-top:0}
+table.t{width:100%;border-collapse:collapse;font:400 13px/1.35 var(--mono)}
+table.t th{text-align:left;font-weight:500;color:var(--muted);border-bottom:2px solid var(--fg);padding:6px 8px 6px 0;vertical-align:bottom;cursor:pointer}
+table.t td{border-bottom:1px solid var(--rule);padding:7px 8px 7px 0;vertical-align:top}
+table.t td.num,table.t th.num{text-align:right}
+.tablewrap{overflow-x:auto;max-height:520px;overflow-y:auto;border-bottom:1px solid var(--rule)}
+.cta{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}
+.cta a{font:500 13px/1 var(--mono);text-decoration:none;border:1px solid var(--fg);padding:11px 14px;border-radius:3px}
+.cta a.p{background:var(--green);border-color:var(--green);color:var(--bg)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 18px;padding:0;list-style:none}
+.chips li{font:400 12.5px/1.3 var(--mono);border:1px solid var(--border);background:var(--card);padding:7px 9px;border-radius:14px;cursor:pointer}
+.chips li b{color:var(--green);font-weight:500}
+.flow{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:18px 0;font:400 12.5px/1.4 var(--mono)}
+.flow div{background:var(--card);border:1px solid var(--border);padding:12px}
+.flow b{display:block;font:900 30px/1 var(--display);margin-bottom:6px}
+@media (max-width:600px){.flow{grid-template-columns:1fr}}
+.timeline{list-style:none;margin:18px 0;padding:0;border-left:3px solid var(--green)}
+.timeline li{position:relative;padding:0 0 14px 18px;font-size:16.5px}
+.timeline li::before{content:"";position:absolute;left:-8px;top:7px;width:13px;height:13px;border-radius:50%;background:var(--bg);border:3px solid var(--green)}
+.timeline b{font:500 13px/1 var(--mono);color:var(--green);display:block;margin-bottom:2px;letter-spacing:.06em}
+footer{border-top:6px double var(--fg);margin-top:56px;padding-top:16px;font:400 13px/1.55 var(--mono);color:var(--muted)}
+footer p{margin:0 0 10px}
+.theme{position:fixed;right:12px;bottom:12px;z-index:1001}
+.leaflet-container{font:400 12px/1.4 var(--mono);background:var(--sea)}
+.leaflet-tooltip{font:400 12px/1.4 var(--mono)}
+.leaflet-control-attribution{background:color-mix(in srgb,var(--card) 85%,transparent)!important;color:var(--muted)!important;font-size:10px}
+.leaflet-control-attribution a{color:var(--fg)!important}
+.leaflet-bar a{background:var(--card);color:var(--fg);border-bottom-color:var(--border)}
+.leaflet-bar a:hover{background:var(--panel)}
+.leaflet-bar{border:1px solid var(--border)!important}
+@media print{.theme,.controls{display:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="kicker"><b>Data study</b><span>Roads × towns</span><span>England and Wales, 1663 to 1881</span></div>
+<header class="hero">
+  <h1>The <em>turnpike</em> towns</h1>
+  <svg class="mark" viewBox="-60 -80 120 160" aria-hidden="true"><g id="heroMark"></g></svg>
+  <p class="dek">From 1663 to the 1830s, more than a thousand turnpike trusts took over England's main roads, put up gates, charged tolls and mended the road with the money. Their milestones still stand on the verges. Did being on a turnpike make a town grow?</p>
+</header>
+<div class="byline">Dr Tristan Hotham, Independent researcher · October 2026 · Data: Wikipedia lists of turnpike trusts; Wikidata and OpenStreetMap milestones and toll houses; census populations 1801 to 1901 via Wikidata and A Vision of Britain through Time; OS Open Names</div>
+
+<div class="stats">
+  <div><b class="g">{{trusts.unique|int}}</b><span>turnpike trusts in Wikipedia's eight regional lists for England</span></div>
+  <div><b class="o">{{trusts.peak_n|int}}</b><span>trusts founded in the 1750s, the peak decade of "turnpike mania"</span></div>
+  <div><b>{{traces.total|int}}</b><span>milestones, mileposts and toll houses still recorded in Wikidata and OpenStreetMap</span></div>
+  <div><b class="r">{{models.g1801_1831.named1800.b|sf2}}</b><span>points a year: extra growth of turnpike-named places in 1801 to 1831, once size is allowed for (not significant)</span></div>
+</div>
+
+<p class="lede">In {{trusts.first_year|raw}} Parliament let the justices of Hertfordshire, Cambridgeshire and Huntingdonshire put up toll gates on the Great North Road, at Wadesmill, Caxton and Stilton, and spend the money on the road. It was the first turnpike. Over the next century and a half, local worthies petitioned Parliament for road after road, each run by its own trust: a body of trustees who could borrow, set up gates, collect tolls and pay surveyors. At their peak in the 1830s, Wikipedia's article says, over 1,000 trusts looked after some 30,000 miles of road in England and Wales.</p>
+<p>The turnpikes carried the coaching age. The first mail coach left Bristol for London in 1784; Telford's rebuilt Holyhead Road cut the London mail's journey from 45 hours to 27. Inns, ostlers and horse dealers lined the routes. Then the railways came, and the coaching towns emptied. So I asked a simple question with the data I could get: were the towns on the turnpikes the ones that grew?</p>
+<p>The honest short answer: turnpikes reached almost everywhere quickly, and once you allow for the fact that bigger places got them first, I can find little sign that being named in a turnpike trust made a place grow faster in the decades before the railway. The milestones tell a story of their own, though, and it is not quite the one you might expect.</p>
+
+<h2><span class="n">01 · The map</span>The turnpike web, and what is left of it</h2>
+<p>Each coloured dot is a town or village named in the title of a turnpike trust, coloured by the year of the first such trust: dark green for early, ochre for late. Grey dots are the milestones and mileposts that survive and are recorded today; red ones are toll houses. Drag the slider or press play to watch the trusts spread. Search for any town in England or Wales to see when it was first named in a trust and how close the nearest surviving milestone is.</p>
+<div class="figure bleed">
+  <div class="slider">
+    <button class="btn" id="play" aria-label="Play through the years">▶</button>
+    <input type="range" id="year" min="1660" max="1870" step="1" value="1870" aria-label="Year">
+  </div>
+  <div class="yr" id="yrLab"></div>
+  <div class="controls" id="layers" role="group" aria-label="Map layers"></div>
+  <div class="search"><input id="q" list="names" placeholder="Find a town, e.g. Towcester" aria-label="Find a town"><datalist id="names"></datalist><button class="btn" id="go">Show</button></div>
+  <div class="mapgrid">
+    <div>
+      <div id="map" role="application" aria-label="Map of places named in turnpike trusts, with surviving milestones and toll houses"></div>
+      <div class="legend" id="legend"></div>
+    </div>
+    <div class="side">
+      <div class="card empty" id="card">Tap a dot or search for a town to see the trusts that named it and the traces near it.</div>
+      <div class="fig-h" style="margin-top:4px">The great turnpike hubs</div>
+      <div class="fig-sub" style="margin:0">Places named in the most trust titles</div>
+      <ul class="chips" id="hubs" style="margin-top:0"></ul>
+    </div>
+  </div>
+  <div class="src">Trusts: Wikipedia's lists of turnpike trusts by region (CC BY-SA 4.0). A place appears when its name is in a trust's title; roads that ran through a town without naming it are not shown. Traces: Wikidata (CC0) and OpenStreetMap (© OpenStreetMap contributors, ODbL). Places: OS Open Names (OGL).</div>
+</div>
+
+<h2><span class="n">02 · Turnpike mania</span>A boom in the 1750s and 1760s</h2>
+<p>Wikipedia's eight regional lists name {{trusts.unique|int}} English turnpike trusts, {{trusts.with_year|int}} of them with the year of their first act. The lists are marked incomplete, and the Sussex trusts have no dates, but the shape is clear. After a slow start (just {{trusts.n_1700s|words}} new trusts in the ten years from 1700), trust-making took off in the 1750s: {{trusts.n_1750s|int}} trusts in that decade and {{trusts.n_1760s|int}} in the 1760s. Between 1750 and 1772 alone, {{trusts.n_1750_1772|int}} trusts were set up, {{trusts.share_1750_1772|pct0}} of all those with a date. By 1800, {{trusts.by1800|pct0}} of the trusts existed. Only {{trusts.after1830|int}} were founded after 1830, when the railways began.</p>
+<div class="figure">
+  <div class="fig-h">Turnpike trusts founded per decade, England</div>
+  <div class="fig-sub">Year of each trust's first act, as given in the Wikipedia lists. Shaded: 1750 to 1772.</div>
+  <div class="chart" id="decades"></div>
+  <div class="src">{{trusts.with_year|int}} trusts with a founding year. Median year {{trusts.median_year|raw}}; half were founded between {{trusts.q1|raw}} and {{trusts.q3|raw}}.</div>
+</div>
+<p>The trusts did not march out from London in a neat wave. The great roads out of London were turnpiked early, and towns named in trusts within 50 km of London had their first trust in a median year of {{wave.bands.0.median|raw}}. But beyond 200 km the median was {{wave.bands.3.median|raw}}, only about a decade later. Distance from London explains very little of the timing (Spearman rank correlation {{wave.rho|f2}} across {{wave.n_towns|int}} towns). The North West was the latecomer, with a median founding year of {{regions.7.median|raw}}: {{nw_1790_1829|pct0}} of its dated trusts were founded between 1790 and 1829, many of them for the roads between Lancashire's growing mill towns.</p>
+<div class="figure">
+  <div class="fig-h">When each region's trusts were founded</div>
+  <div class="fig-sub">Dot: median founding year. Bar: the region's earliest trust to its median. Number: trusts with a year.</div>
+  <div class="chart" id="regions"></div>
+</div>
+<p>Some towns were the hub of a whole web of trusts. {{named.hub_top.0.name|raw}} appears in the titles of {{named.hub_top.0.n|int}} trusts, {{named.hub_top.1.name|raw}} in {{named.hub_top.1.n|int}} and {{named.hub_top.2.name|raw}} in {{named.hub_top.2.n|int}}. In all, {{named.places|int}} places are named in at least one trust title, {{named.towns|int}} of them towns or cities on today's map. In England, {{validate.named|int}} of the {{validate.towns|int}} places that Ordnance Survey calls a town or city ({{validate.named_share|pct0}}) are named in a trust. The rest were mostly reached by roads named after their neighbours.</p>
+
+<h2><span class="n">03 · The coaching age</span>Faster roads, then the railway</h2>
+<p>The point of a turnpike was a better road, and the coaching trade made the most of it. These dates come from the Wikipedia articles on turnpike trusts, mail coaches and toll houses.</p>
+<ul class="timeline">
+  <li><b>1663</b>The first turnpike: toll gates on the Great North Road at Wadesmill, Caxton and Stilton, run by the county justices.</li>
+  <li><b>1706</b>The first true trust, for a stretch of the London to Chester road, under the Bedfordshire and Buckinghamshire Roads Act.</li>
+  <li><b>1750s to 1770s</b>"Turnpike mania": trusts for the cross-routes between the great roads, then for connecting roads, new bridges and the growing industrial districts.</li>
+  <li><b>1773</b>The Turnpike Roads Act makes statutory provision for milestones along turnpike roads.</li>
+  <li><b>1784</b>John Palmer's first mail coach runs from Bristol to London in 16 hours. By the end of 1785 mail coaches run to Norwich, Liverpool, Leeds, Dover, Portsmouth, Poole, Exeter, Gloucester, Worcester, Holyhead and Carlisle.</li>
+  <li><b>1815 to 1826</b>Telford rebuilds the Holyhead Road; the London mail's journey falls from 45 hours to 27.</li>
+  <li><b>1830s</b>The peak: over 1,000 trusts, around 30,000 miles of road, almost 8,000 toll gates and side bars. In 1840 there were over 5,000 toll houses in England.</li>
+  <li><b>1839 to 1843</b>The Rebecca Riots in Wales: rioters, often men dressed as women, break the hated toll gates.</li>
+  <li><b>1840s</b>The railway era "spelt disaster for most turnpike trusts". The Bolton and Blackburn trust took £3,998 in tolls in 1846; after the railway between the two towns opened, it took £1,185 in 1849.</li>
+  <li><b>1870s to 1888</b>Parliament closes the trusts one by one, and the toll houses are sold off. The Local Government Act 1888 hands main roads to the new county councils.</li>
+</ul>
+<p class="pull">The turnpikes were a private fix for a public problem: local people borrowed against future tolls to mend their own road.</p>
+
+<h2><span class="n">04 · What survives</span>{{traces.total|int}} milestones and toll houses</h2>
+<p>The trusts had to tell travellers how far they had come, and many of the stones and cast-iron posts they set up are still there. Wikidata and OpenStreetMap together record {{traces.milestones|int}} milestones, {{traces.mileposts|int}} mileposts, {{traces.guide|int}} guide stones and {{traces.tollhouses|int}} toll houses in the UK: {{traces.england|int}} in England, {{traces.wales|int}} in Wales, {{traces.scotland|int}} in Scotland and {{traces.ni|int}} in Northern Ireland. {{traces.listed|int}} are listed buildings or scheduled monuments.</p>
+<div class="flow">
+  <div><b style="color:var(--green)">{{traces.aroad_50|pct0}}</b>stand within 50 m of a modern A-road: the turnpikes became today's main roads</div>
+  <div><b style="color:var(--ochre)">{{traces.c19|int}}</b>are dated to the 19th century in Wikidata, against {{traces.c18|int}} to the 18th</div>
+  <div><b style="color:var(--red)">{{validate.named_trace2|pct0}}</b>of towns named in a trust have a surviving milestone within 2 km, against {{validate.other_trace2|pct0}} of other towns</div>
+</div>
+<p>Half the survivors stand within {{traces.aroad_median|int}} m of an A-road. Most are dated only to a century, and most of those to the 19th: the coaching age was when trusts replaced old stones and added cast-iron posts. Of the {{traces.exact_year|int}} with an exact year, the median is {{traces.exact_median|raw}}.</p>
+<p>Where they survive is uneven. West Yorkshire has {{counties.top.0.d|f1}} milestones or mileposts per 100 km², Staffordshire {{counties.top.1.d|f1}} and Cheshire {{counties.top.2.d|f1}}. Bedfordshire, which had some of the very first trusts, has just {{counties.bottom.5.d|f1}}, and Northamptonshire {{counties.bottom.4.d|f1}}. England as a whole has {{counties.england_density|f1}} per 100 km², Wales {{counties.wales_density|f1}} and Scotland {{counties.scotland_density|f1}}. Some of this is real loss to road widening and decay; much of it is recording. About half of the Wikidata milestones carry a listed-building designation, and how thoroughly the rest have been entered varies from county to county. Scotland's milestones are barely recorded here at all.</p>
+<div class="figure">
+  <div class="fig-h">Surviving milestones and mileposts by county</div>
+  <div class="fig-sub">Counties and unitary areas of Great Britain. Tap a heading to sort.</div>
+  <div class="tablewrap"><table class="t" id="countyT"></table></div>
+  <div class="src">Recorded in Wikidata or OpenStreetMap, October 2026. An OSM object within 40 m of a Wikidata object of the same kind is counted once.</div>
+</div>
+<p>Still, the survivors do follow the old network. Across {{grid.cells|int}} squares of 20 km by 20 km in England, squares with more places named in trusts also have more surviving milestones (Spearman correlation {{grid.rho|f2}}). Milestones are a fair if patchy trace of where the turnpikes ran, but a count of survivors, not of the roads.</p>
+
+<h2><span class="n">05 · Did the turnpike make the town?</span>Not that I can see</h2>
+<p>To test growth I need places with population counts from census to census. The best set I have is {{panel.n|int}} places in England and Wales with census figures for 1801, 1831 and 1851 ({{panel.n_wikidata|int}} from Wikidata, {{panel.n_vob|int}} inland towns from A Vision of Britain through Time). It is not a random sample: {{panel.fens|int}} of them are in Cambridgeshire, Huntingdonshire and the fens, and {{panel.southwest|int}} in Dorset, Somerset and Devon, because that is where Wikidata's editors have entered parish series. Most are villages: the median place had {{panel.median_pop1801|int}} people in 1801.</p>
+<p>I measured exposure to the turnpikes in two ways: whether the place is named in a trust founded by 1800 ({{panel.named1800|int}} places), and whether a surviving milestone, milepost or toll house stands within 1 km ({{panel.near|int}} places). Growth is the average yearly change in population, in percentage points.</p>
+<div class="figure">
+  <div class="fig-h">Median yearly growth, with and without a turnpike</div>
+  <div class="fig-sub">Filled dot: places with the feature. Open dot: places without it. Per cent a year.</div>
+  <div class="chart" id="growth"></div>
+</div>
+<p>At first sight the turnpike places did grow faster in the coaching heyday: from 1801 to 1831 the places named in a trust grew by a median {{compare.named1800.g1801_1831.yes|f2}}% a year, against {{compare.named1800.g1801_1831.no|f2}}% for the rest (Mann-Whitney {{compare.named1800.g1801_1831.p|p}}). But the named places were the bigger market towns, and bigger places grew faster everywhere. Once I allow for size in 1801 and for the region, the gap shrinks to {{models.g1801_1831.named1800.b|f2}} points a year, with a 95% interval from {{models.g1801_1831.named1800.lo|f2}} to {{models.g1801_1831.named1800.hi|f2}}. A milestone within 1 km makes no difference ({{models.g1801_1831.near.b|f2}} points, {{models.g1801_1831.near.lo|f2}} to {{models.g1801_1831.near.hi|f2}}).</p>
+<div class="figure">
+  <div class="fig-h">The turnpike effect on growth, allowing for size and region</div>
+  <div class="fig-sub">Difference in yearly growth (percentage points) from a regression with log population in 1801 and area. Line: 95% interval.</div>
+  <div class="chart" id="forest"></div>
+</div>
+<p>If anything, the turnpike places lost ground when the railways arrived. From 1831 to 1851 the named places grew {{models.g1831_1851.named1800.b|abs2}} points a year more slowly than similar places (interval {{models.g1831_1851.named1800.lo|f2}} to {{models.g1831_1851.named1800.hi|f2}}, {{models.g1831_1851.named1800.p|p}}), and their growth fell back by a median {{change.named|abs2}} points between the two periods, against {{change.other|abs2}} for the rest ({{change.p|p}}). That fits the coaching story, but it is a weak result from a small, lopsided sample, and I would not lean on it.</p>
+<div class="figure">
+  <div class="fig-h">Stilton: a Great North Road village, 1801 to 1901</div>
+  <div class="fig-sub">Population as a multiple of 1801. Green: Stilton. Grey: median of the {{panel.n|int}} places. Dashed: median of the places named in a trust by 1800.</div>
+  <div class="chart" id="index"></div>
+</div>
+<p>Stilton, on the first turnpike of all, shows the pattern people imagine. It had {{stilton.1801|int}} people in 1801 and {{stilton.1831|int}} in 1831, then stalled at {{stilton.1851|int}} in 1851 and fell to {{stilton.1881|int}} by 1881 and {{stilton.1901|int}} by 1901, back where it started. But most rural places in this sample peaked around 1851 and shrank after, coaching or not, as people left the land for the towns: {{peaks.other_by1851|pct0}} of the places not named in a trust were at their largest in 1851 or earlier. Stilton's fall is steeper than most, which is suggestive, not proof.</p>
+<p>The big towns tell the same story. {{big.named|int}} of the {{big.n|int}} largest towns of 1801 (London aside) are named in a trust title, so there is almost no contrast to test. Among the {{big.n_g|int}} with figures for both 1801 and 1861, neither an early first trust (Spearman {{big.rho_first|f2}}) nor the number of trusts naming the town ({{big.rho_hub|f2}}) is linked with faster growth. Manchester, Liverpool and Leeds grew for reasons of their own, and their turnpikes followed the traffic.</p>
+<div class="figure">
+  <div class="fig-h">England's largest towns of 1801 and their turnpikes</div>
+  <div class="fig-sub">Tap a heading to sort. Growth: per cent a year, 1801 to 1861 (blank where 1861 is not in the source table).</div>
+  <div class="tablewrap"><table class="t" id="bigT"></table></div>
+  <div class="src">Populations: Wikipedia, "List of towns and cities in England by historical population", as tabulated for my Canal Mania study. Railway: earliest Wikidata station opening within 3 km.</div>
+</div>
+
+<h2><span class="n">06 · Limits</span>What this can and cannot show</h2>
+<p><b>No map of the roads.</b> The best evidence would be a dated map of every turnpike road, and one exists: the turnpike road GIS for England and Wales, 1700 to 1838, by Rosevear, Bogart, Shaw-Taylor and Satchell (openICPSR 195126). I could not obtain it for this study. My code is written to use it if it is supplied. Without it, a place counts as "named" only if its name is in a trust's title, which misses every town that a turnpike ran through without naming.</p>
+<p><b>The lists are incomplete.</b> Wikipedia flags its turnpike lists as incomplete; {{trusts.sussex_no_year|int}} Sussex trusts have no date, and Wales and Scotland have no dated lists at all. Seven of the eight lists were read with an automated web reader; for the South East list, held on disk as wikitext, the reader matched all {{trusts.fidelity.n|int}} Berkshire and Kent rows I checked, name, year and act.</p>
+<p><b>Milestones are survivors.</b> They show where stones were set up, then kept, then recorded. Recording varies hugely between counties.</p>
+<p><b>A small, lopsided growth sample.</b> {{panel.n|int}} places, mostly villages in two regions, and populations on census parish boundaries that changed. Associations, not causes: trusts were set up on roads where traffic already was.</p>
+
+<div class="note" id="method">
+  <h3>How I did this</h3>
+  <p><b>Trusts.</b> I took the tables of Wikipedia's eight lists of turnpike trusts by English region: trust name, the year of its first act and that act's short title. Rows without a trust name (later acts of the same trust) were dropped and a trust listed under two counties was kept once, leaving {{trusts.unique|int}}. I split each trust's name into place words ("Ashbourne and Yoxall Bridge" gives Ashbourne and Yoxall Bridge) and matched each to an OS Open Names town, village or hamlet of exactly that name, preferring one in the trust's region, then a town, then the one nearest the trust's other places. {{trusts.placed|int}} trusts ({{trusts.placed_share|pct0}}) have at least one placed name.</p>
+  <p><b>Traces.</b> Wikidata items in the UK that are milestones or toll houses, and OpenStreetMap features tagged as historic milestones, mileposts, toll houses or toll gates, deduplicated within 40 m. Wikidata's dates of exactly 1701, 1801 or 1901 are century dates. Distances to A-roads use OpenStreetMap trunk and primary roads with an A number.</p>
+  <p><b>Growth.</b> Census figures for 1801, 1831, 1851 and 1881 from Wikidata (places with fewer than 50 people in 1801 left out) and A Vision of Britain through Time. Yearly growth is 100 × ln(P2/P1) divided by the years between. The regressions use ordinary least squares with robust standard errors, log population in 1801 and three areas (fens, south west, other).</p>
+</div>
+<div class="cta">
+  <a class="p" href="https://github.com/Tristan-Hotham/turnpike-towns">Data and code</a>
+  <a href="https://doi.org/10.5281/zenodo.23729648">Paper (Zenodo)</a>
+  <a href="https://tristan-hotham.github.io/canal-mania/">Canal Mania</a>
+  <a href="https://tristan-hotham.github.io/seaside-railways/">Did the railway invent the seaside?</a>
+  <a href="https://tristan-hotham.github.io/how-roman-is-your-road/">How Roman is your road?</a>
+  <a href="https://blog.tristanhotham.com/">More history data posts</a>
+</div>
+
+<footer>
+  <p>Dr Tristan Hotham, researcher on social media, campaigns and politics. Independent researcher. ORCID <a href="https://orcid.org/0000-0003-4931-9349">0000-0003-4931-9349</a>.</p>
+  <p>Cite as: Hotham, T. (2026) Turnpikes and coaching towns: England's turnpike trusts, their surviving milestones and the growth of towns. Zenodo. <a href="https://doi.org/10.5281/zenodo.23729648">https://doi.org/10.5281/zenodo.23729648</a></p>
+  <p>Turnpike trusts and the coaching-age story: Wikipedia, "Turnpike trusts in" South East England, the East of England, the East Midlands, the West Midlands, North East England, North West England, Yorkshire and South West England; "Turnpike trust"; "Mail coach"; "Tollhouse"; "Turnpike Roads Act 1773"; "Toll roads in Great Britain"; "Rebecca Riots"; retrieved 28 October 2026, CC BY-SA 4.0. Milestones and toll houses: Wikidata (CC0) and OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. Census populations: Wikidata (CC0) and A Vision of Britain through Time, University of Portsmouth. Railway stations: Wikidata (CC0). Places: OS Open Names, Ordnance Survey, Open Government Licence v3.0; contains OS data © Crown copyright and database right 2026. Counties: ONS boundaries, Open Government Licence v3.0. A-roads: OpenStreetMap (ODbL). Base map tiles © Esri. Map library: Leaflet.</p>
+  <p>The text and derived data are released under CC BY-SA 4.0, because they draw on Wikipedia; the milestone and toll house tables contain OpenStreetMap data and are released under the ODbL 1.0. Code is MIT.</p>
+  <p>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</p>
+</footer>
+</div>
+<div class="tip" id="tip"></div>
+<button class="btn theme" id="theme" aria-label="Toggle dark mode">◐</button>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+/*DATA*/
+const NS = "http://www.w3.org/2000/svg";
+const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const el = (t, a = {}, p) => { const e = document.createElementNS(NS, t); for (const k in a) e.setAttribute(k, a[k]); if (p) p.appendChild(e); return e; };
+const fmt = n => n == null ? "" : Math.round(n).toLocaleString("en-GB");
+const pc = (x, d = 0) => (x * 100).toFixed(d) + "%";
+const tip = document.getElementById("tip");
+function showTip(h, x, y) { tip.innerHTML = h; tip.style.display = "block"; const w = tip.offsetWidth; x = Math.max(w / 2 + 8, Math.min(innerWidth - w / 2 - 8, x)); tip.style.left = x + scrollX + "px"; tip.style.top = y + scrollY + "px"; }
+function hideTip() { tip.style.display = "none"; }
+function hover(node, h) { node.style.cursor = "pointer"; node.setAttribute("tabindex", "0"); const s = () => { const r = node.getBoundingClientRect(); showTip(h, r.left + r.width / 2, r.top); }; node.addEventListener("pointerenter", s); node.addEventListener("focus", s); node.addEventListener("pointerleave", hideTip); node.addEventListener("blur", hideTip); node.addEventListener("click", e => { e.stopPropagation(); s(); }); }
+document.addEventListener("click", hideTip);
+const redraws = [];
+function resp(box, render) { let last = 0; const go = (force) => { const w = Math.max(280, Math.round(box.clientWidth)); if (!force && Math.abs(w - last) < 4) return; last = w; box.innerHTML = ""; render(w, w < 560); }; new ResizeObserver(() => go()).observe(box); redraws.push(() => go(true)); go(); }
+const lbl = (svg, x, y, s, cls = "lab", anchor = "start") => { const t = el("text", { x, y, class: cls, "text-anchor": anchor }, svg); t.textContent = s; return t; };
+const R = D.R, P = D.P;
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const isDark = () => { const r = document.documentElement; return r.dataset.theme ? r.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; };
+document.getElementById("theme").onclick = () => { const r = document.documentElement; const dark = isDark(); r.dataset.theme = dark ? "light" : "dark"; redraws.forEach(f => f()); window.__restyle && window.__restyle(); };
+const KIND = ["milestone", "milepost", "guide stone", "toll house"];
+/* colour for a founding year: dark green (1700) to ochre (1840) */
+function yearCol(y) { const t = Math.max(0, Math.min(1, (y - 1700) / 140)); const a = isDark() ? [127, 191, 158] : [30, 84, 62], b = isDark() ? [232, 184, 96] : [214, 150, 40];
+  const c = a.map((v, i) => Math.round(v + (b[i] - v) * t)); return `rgb(${c.join(",")})`; }
+
+/* hero mark: a milestone */
+(() => { const g = document.getElementById("heroMark");
+  el("path", { d: "M-44 70V-30A44 44 0 0 1 44 -30V70Z", fill: "var(--card)", stroke: "var(--fg)", "stroke-width": 3 }, g);
+  el("path", { d: "M-44 70H44", stroke: "var(--green)", "stroke-width": 8 }, g);
+  el("rect", { x: -60, y: 70, width: 120, height: 10, fill: "var(--green)", opacity: .35 }, g);
+  const T = (y, s, size, w) => { const t = el("text", { x: 0, y, "text-anchor": "middle", style: `font:${w} ${size}px var(--display);fill:var(--fg);letter-spacing:.06em` }, g); t.textContent = s; };
+  T(-30, "TURNPIKE", 12, 800); T(8, "1663", 28, 900); T(34, "WADESMILL", 11, 700); T(52, "CAXTON · STILTON", 7.5, 600);
+})();
+
+/* ===== map ===== */
+(() => {
+  const card = document.getElementById("card"), slider = document.getElementById("year");
+  let year = 1870, show = { named: 1, stones: 1, toll: 1 }, sel = null;
+  const NAMED = P.named.map((r, i) => ({ i, name: r[0], lat: r[1], lon: r[2], y: r[3], n: r[4], town: r[5], trusts: P.named_trusts[i] }));
+  const TOWNS = P.towns.map(r => ({ name: r[0], county: r[1], lat: r[2], lon: r[3], y: r[4], n: r[5], km: r[6], n5: r[7] }));
+  if (!window.L) document.getElementById("map").innerHTML = '<p style="padding:16px;font:400 13px/1.5 var(--mono)">The map library did not load. The charts below still work.</p>';
+  const map = window.L ? L.map("map", { preferCanvas: true, scrollWheelZoom: false, zoomSnap: .25, minZoom: 5, maxZoom: 14 }).fitBounds([[50.0, -5.6], [55.8, 1.8]]) : null;
+  const CC = {}; const col = v => CC[v] || (CC[v] = css(v));
+  let tiles, lay, stoneLay;
+  const LAY = [["named", "Places named in a trust", "--green"], ["stones", "Surviving milestones and mileposts", "--stone"], ["toll", "Toll houses", "--red"]];
+  const lc = document.getElementById("layers");
+  lc.innerHTML = LAY.map(([k, l, c]) => `<button class="btn o" data-k="${k}" aria-pressed="true"><i style="background:var(${c})"></i>${l}</button>`).join("");
+  lc.querySelectorAll("button").forEach(b => b.onclick = () => { const k = b.dataset.k; show[k] = 1 - show[k]; b.setAttribute("aria-pressed", !!show[k]); drawStones(); draw(); });
+  if (map) {
+    map.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>');
+    map.on("focus", () => map.scrollWheelZoom.enable()); map.on("blur", () => map.scrollWheelZoom.disable());
+    const tileUrl = () => `https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/${isDark() ? "World_Dark_Gray_Base" : "World_Light_Gray_Base"}/MapServer/tile/{z}/{y}/{x}`;
+    tiles = L.tileLayer(tileUrl(), { maxZoom: 14, attribution: 'Tiles &copy; Esri · Trusts: Wikipedia (CC BY-SA) · Milestones: Wikidata, &copy; OpenStreetMap contributors (ODbL) · Places: OS Open Names (OGL)' }).addTo(map);
+    map.createPane("stones"); map.getPane("stones").style.zIndex = 420;
+    map.createPane("pts"); map.getPane("pts").style.zIndex = 430;
+    const rs = L.canvas({ pane: "stones", padding: .3, tolerance: 3 }), rr = L.canvas({ pane: "pts", padding: .3, tolerance: 4 });
+    stoneLay = L.layerGroup().addTo(map); lay = L.layerGroup().addTo(map);
+    window.__stones = () => { stoneLay.clearLayers(); const z = map.getZoom(), rad = z < 6 ? 1.1 : z < 8 ? 1.7 : 3;
+      P.traces.forEach(t => { const toll = t[2] === 3; if (toll ? !show.toll : !show.stones) return;
+        const m = L.circleMarker([t[0], t[1]], { renderer: rs, radius: toll ? rad + 1.4 : rad, weight: toll ? 1 : 0, color: col("--bg"), fillColor: toll ? col("--red") : col("--stone"), fillOpacity: toll ? .95 : .6 });
+        if (z >= 8) m.bindTooltip(`${KIND[t[2]]}${t[4] ? " · " + (t[4] < 0 ? -t[4] + "th century" : t[4]) : ""}${t[3] ? " · listed" : ""}`, { direction: "top" });
+        m.addTo(stoneLay); }); };
+    window.__draw = () => { lay.clearLayers(); if (!show.named) return; const z = map.getZoom(), zs = z < 6 ? .65 : z < 7 ? .85 : 1;
+      NAMED.filter(r => r.y != null && r.y <= year).sort((a, b) => b.y - a.y).forEach(r => {
+        const m = L.circleMarker([r.lat, r.lon], { renderer: rr, radius: (r.town ? 4.4 : 3) * zs + Math.min(r.n, 8) * .35, weight: .8, color: col("--fg"), opacity: .5, fillColor: yearCol(r.y), fillOpacity: .92 });
+        m.bindTooltip(`<b>${esc(r.name)}</b> · first named in a trust ${r.y} · ${r.n} trust${r.n > 1 ? "s" : ""}`, { direction: "top" }).on("click", () => showNamed(r.i)).addTo(lay); });
+      if (sel) L.circleMarker(sel, { renderer: rr, radius: 11, weight: 3, color: col("--ink"), fill: false, interactive: false }).addTo(lay); };
+    window.__restyle = () => { for (const k in CC) delete CC[k]; tiles.setUrl(tileUrl()); window.__stones(); window.__draw(); legend(); };
+    map.on("zoomend", () => { window.__stones(); window.__draw(); });
+    matchMedia("(prefers-color-scheme: dark)").addEventListener("change", window.__restyle);
+  }
+  function drawStones() { if (map) window.__stones(); }
+  function draw() { const n = NAMED.filter(r => r.y != null && r.y <= year).length;
+    const nt = P.named.length;
+    document.getElementById("yrLab").innerHTML = `${year >= 1870 ? "All trusts" : "By " + year} <small>${fmt(n)} places named in a trust${year >= 1870 ? " (plus " + fmt(NAMED.filter(r => r.y == null).length) + " whose only trusts have no year)" : ""} · grey dots are what survives today, whatever the year</small>`;
+    if (map) window.__draw(); }
+  function legend() { document.getElementById("legend").innerHTML = `<span>First named in a trust: 1700<span class="ramp" style="background:linear-gradient(90deg,${yearCol(1700)},${yearCol(1770)},${yearCol(1840)})"></span>1840</span><span><i style="background:var(--stone)"></i>Milestone or milepost</span><span><i style="background:var(--red)"></i>Toll house</span><span>Bigger dot: town, or named in more trusts</span>`; }
+  function nearestTrace(lat, lon) { let best = 1e9; const k = Math.cos(lat * Math.PI / 180); for (const t of P.traces) { const d = Math.hypot((t[0] - lat) * 111.2, (t[1] - lon) * 111.2 * k); if (d < best) best = d; } return best; }
+  function trustList(ts) { return ts.length ? `<ul>${ts.map(t => `<li>${esc(t[0].split(";")[0])}${t[1] ? " (" + t[1] + ")" : ""}</li>`).join("")}</ul>` : ""; }
+  function showNamed(i) { const r = NAMED[i]; sel = [r.lat, r.lon]; card.className = "card"; card.style.borderLeftColor = yearCol(r.y ?? 1840);
+    const km = nearestTrace(r.lat, r.lon);
+    card.innerHTML = `<b class="t">${esc(r.name)}</b><dl><dt>First trust</dt><dd>${r.y ?? "no year in the list"}</dd><dt>Trusts naming it</dt><dd>${r.n}</dd><dt>Nearest milestone</dt><dd>${km < 10 ? km.toFixed(1) + " km" : "more than 10 km"}</dd></dl><div style="color:var(--muted)">Trusts:</div>${trustList(r.trusts)}`;
+    if (map) window.__draw(); }
+  function showTown(t) { sel = [t.lat, t.lon]; card.className = "card"; card.style.borderLeftColor = t.y ? yearCol(t.y) : "var(--border)";
+    const nm = NAMED.find(r => r.name === t.name && Math.abs(r.lat - t.lat) < .02 && Math.abs(r.lon - t.lon) < .03);
+    card.innerHTML = `<b class="t">${esc(t.name)}</b><div style="color:var(--muted)">${esc(t.county)}</div><dl>` +
+      `<dt>Named in a trust</dt><dd>${t.n ? (t.y ? "from " + t.y : "yes, no year") + ` (${t.n} trust${t.n > 1 ? "s" : ""})` : "not in any trust title in the lists"}</dd>` +
+      `<dt>Nearest milestone</dt><dd>${t.km.toFixed(1)} km</dd><dt>Within 5 km</dt><dd>${t.n5} surviving milestones, mileposts or toll houses</dd></dl>` + (nm ? `<div style="color:var(--muted)">Trusts:</div>${trustList(nm.trusts)}` : "");
+    if (map) { year = 1870; slider.value = 1870; draw(); map.flyTo([t.lat, t.lon], 11, { duration: reduce ? 0 : .7 }); } }
+  window.__showNamed = (i) => { showNamed(i); if (map) map.flyTo([NAMED[i].lat, NAMED[i].lon], 10, { duration: reduce ? 0 : .7 }); document.getElementById("map").scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "center" }); };
+  slider.oninput = e => { year = +e.target.value; draw(); };
+  let timer = null; const play = document.getElementById("play");
+  play.onclick = () => { if (timer) { clearInterval(timer); timer = null; play.textContent = "▶"; return; } if (year >= 1870) year = 1660; play.textContent = "❚❚";
+    timer = setInterval(() => { year = Math.min(1870, year + 2); slider.value = year; draw(); if (year >= 1870) { clearInterval(timer); timer = null; play.textContent = "▶"; } }, reduce ? 500 : 90); };
+  const dl = document.getElementById("names"), key = t => `${t.name}, ${t.county}`;
+  dl.innerHTML = TOWNS.map(t => `<option value="${esc(key(t))}">`).join("");
+  const find = () => { const q = document.getElementById("q").value.trim().toLowerCase(); if (!q) return; let t = TOWNS.find(t => key(t).toLowerCase() === q) || TOWNS.find(t => t.name.toLowerCase() === q) || TOWNS.find(t => t.name.toLowerCase().startsWith(q));
+    if (t) { showTown(t); document.getElementById("map").scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "center" }); return; }
+    const r = NAMED.find(r => r.name.toLowerCase() === q) || NAMED.find(r => r.name.toLowerCase().startsWith(q)); if (r) window.__showNamed(r.i); };
+  document.getElementById("go").onclick = find; document.getElementById("q").addEventListener("keydown", e => { if (e.key === "Enter") find(); });
+  const hubs = [...NAMED].sort((a, b) => b.n - a.n).slice(0, 12);
+  const u = document.getElementById("hubs"); u.innerHTML = hubs.map(r => `<li data-i="${r.i}"><b>${esc(r.name)}</b> · ${r.n} trusts · from ${r.y}</li>`).join("");
+  u.querySelectorAll("li").forEach(li => li.onclick = () => window.__showNamed(+li.dataset.i));
+  legend(); drawStones(); draw();
+})();
+
+/* ===== trusts per decade ===== */
+resp(document.getElementById("decades"), (W, nar) => {
+  const V = R.decades, m = { l: 40, r: 10, t: 22, b: 34 }, Ht = nar ? 260 : 300, svg = el("svg", { viewBox: `0 0 ${W} ${Ht}`, role: "img", "aria-label": "Turnpike trusts founded per decade, 1660s to 1860s" }, document.getElementById("decades"));
+  const mx = 275, bw = (W - m.l - m.r) / V.length, Y = v => Ht - m.b - v / mx * (Ht - m.t - m.b), X = y => m.l + (y - 1660) / 10 * bw;
+  el("rect", { x: X(1750), y: m.t, width: X(1773) - X(1750), height: Ht - m.t - m.b, fill: "var(--ochre)", opacity: .12 }, svg);
+  [0, 50, 100, 150, 200, 250].forEach(t => { el("line", { x1: m.l, x2: W - m.r, y1: Y(t), y2: Y(t), stroke: "var(--rule)" }, svg); lbl(svg, m.l - 6, Y(t) + 4, t, "lab m s", "end"); });
+  V.forEach((d, i) => { const x = m.l + i * bw;
+    const b = el("rect", { x: x + bw * .14, y: Y(d.n), width: bw * .72, height: Y(0) - Y(d.n), fill: d.decade >= 1750 && d.decade < 1780 ? "var(--ochre)" : "var(--green)" }, svg);
+    hover(b, `<b>${d.decade}s</b><br>${d.n} trusts founded`);
+    if (d.decade % (nar ? 40 : 20) === 0) lbl(svg, x + bw / 2, Ht - m.b + 15, d.decade, "lab s m", "middle"); });
+  const pk = V.reduce((a, b) => b.n > a.n ? b : a); lbl(svg, X(pk.decade) + bw + 4, Y(pk.n) + 10, `${pk.decade}s: ${pk.n}`, "lab s b");
+  const mc = X(1784) + bw * .4; el("line", { x1: mc, x2: mc, y1: m.t + 30, y2: Ht - m.b, stroke: "var(--fg)", "stroke-dasharray": "4 3" }, svg);
+  lbl(svg, mc + 5, m.t + 40, "1784: first mail coach", "lab s");
+  lbl(svg, m.l, 10, "trusts founded per decade", "lab m s");
+});
+
+/* ===== regions ===== */
+resp(document.getElementById("regions"), (W, nar) => {
+  const V = R.regions, m = { l: nar ? 112 : 140, r: 52, t: 4, b: 28 }, rowH = 30, Ht = V.length * rowH + m.t + m.b;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${Ht}`, role: "img", "aria-label": "Median founding year of turnpike trusts by region" }, document.getElementById("regions")), X = v => m.l + (v - 1660) / 140 * (W - m.l - m.r);
+  [1660, 1700, 1750, 1800].forEach(t => { el("line", { x1: X(t), x2: X(t), y1: m.t, y2: Ht - m.b, stroke: "var(--rule)" }, svg); lbl(svg, X(t), Ht - 8, t, "lab m s", "middle"); });
+  V.forEach((v, i) => { const y = m.t + i * rowH + rowH / 2; lbl(svg, m.l - 8, y + 4, v.region, "lab s", "end");
+    el("line", { x1: X(v.first), x2: X(v.median), y1: y, y2: y, stroke: "var(--greenl)", "stroke-width": 4 }, svg);
+    const c = el("circle", { cx: X(v.median), cy: y, r: 6.5, fill: yearCol(v.median) }, svg);
+    hover(c, `<b>${esc(v.region)}</b><br>${v.n} trusts with a year<br>earliest ${v.first}: ${esc(v.first_name.split(";")[0])}<br>median ${v.median}`);
+    lbl(svg, X(v.median) + 10, y + 4, `${v.median} · ${v.n}`, "lab s"); });
+});
+
+/* ===== county table ===== */
+(() => { const t = document.getElementById("countyT"); let key = 5, dir = -1;
+  const cols = [["County", 0], ["Nation", 1], ["Area km²", 2, 1], ["Milestones and mileposts", 3, 1], ["Toll houses", 4, 1], ["Per 100 km²", 5, 1]];
+  const go = () => { const V = [...P.counties].sort((a, b) => (a[key] > b[key] ? 1 : a[key] < b[key] ? -1 : 0) * dir);
+    t.innerHTML = `<thead><tr>${cols.map(([l, k, n]) => `<th class="${n ? "num" : ""}" data-k="${k}">${l}${k === key ? (dir < 0 ? " ▼" : " ▲") : ""}</th>`).join("")}</tr></thead><tbody>` +
+      V.map(c => `<tr><td>${esc(c[0])}</td><td>${esc(c[1])}</td><td class="num">${fmt(c[2])}</td><td class="num">${fmt(c[3])}</td><td class="num">${fmt(c[4])}</td><td class="num">${c[5].toFixed(1)}</td></tr>`).join("") + "</tbody>";
+    t.querySelectorAll("th").forEach(th => th.onclick = () => { const k = +th.dataset.k; dir = k === key ? -dir : (k < 2 ? 1 : -1); key = k; go(); }); };
+  go();
+})();
+
+/* ===== growth dot plot ===== */
+resp(document.getElementById("growth"), (W, nar) => {
+  const G = [["g1801_1831", "1801 to 1831"], ["g1831_1851", "1831 to 1851"], ["g1851_1881", "1851 to 1881"]], C = [["named1800", "named in a trust by 1800"], ["near", "milestone within 1 km"]];
+  const rows = []; G.forEach(([g, gl]) => C.forEach(([c, cl]) => rows.push({ g, gl, c, cl, v: R.compare[c][g] })));
+  const m = { l: nar ? 150 : 290, r: 16, t: 6, b: 30 }, rowH = 28, Ht = rows.length * rowH + m.t + m.b + 12;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${Ht}`, role: "img", "aria-label": "Median yearly growth with and without turnpike measures" }, document.getElementById("growth")), X = v => m.l + (v + .6) / 2.4 * (W - m.l - m.r);
+  [-.5, 0, .5, 1, 1.5].forEach(t => { el("line", { x1: X(t), x2: X(t), y1: m.t, y2: Ht - m.b, stroke: t === 0 ? "var(--fg)" : "var(--rule)" }, svg); lbl(svg, X(t), Ht - 10, t.toFixed(1) + "%", "lab m s", "middle"); });
+  rows.forEach((r, i) => { const y = m.t + i * rowH + rowH / 2 + (i >= 2 ? 6 : 0) + (i >= 4 ? 6 : 0);
+    lbl(svg, m.l - 10, y + 4, nar ? `${r.gl.replace(" to ", "-").replace(/18/g, "")}: ${r.c === "near" ? "milestone 1 km" : "named"}` : `${r.gl}: ${r.cl}`, "lab s", "end");
+    el("line", { x1: X(r.v.no), x2: X(r.v.yes), y1: y, y2: y, stroke: "var(--muted)", "stroke-width": 2 }, svg);
+    el("circle", { cx: X(r.v.no), cy: y, r: 5.5, fill: "var(--bg)", stroke: r.c === "near" ? "var(--stone)" : "var(--green)", "stroke-width": 2 }, svg);
+    const c = el("circle", { cx: X(r.v.yes), cy: y, r: 6.5, fill: r.c === "near" ? "var(--stone)" : "var(--green)" }, svg);
+    hover(c, `<b>${r.gl}, ${r.cl}</b><br>with: ${r.v.yes.toFixed(2)}% a year (${r.v.n_yes} places)<br>without: ${r.v.no.toFixed(2)}% (${r.v.n_no})<br>Mann-Whitney p = ${r.v.p.toFixed(3)}`); });
+});
+
+/* ===== forest ===== */
+resp(document.getElementById("forest"), (W, nar) => {
+  const G = [["g1801_1831", "1801 to 1831"], ["g1831_1851", "1831 to 1851"], ["g1851_1881", "1851 to 1881"]], C = [["named1800", "Named in a trust by 1800"], ["near", "Milestone within 1 km"]];
+  const rows = []; G.forEach(([g, gl]) => C.forEach(([c, cl]) => rows.push({ gl, cl, c, v: R.models[g][c] })));
+  const m = { l: nar ? 150 : 290, r: 16, t: 6, b: 30 }, rowH = 28, Ht = rows.length * rowH + m.t + m.b;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${Ht}`, role: "img", "aria-label": "Regression estimates of the turnpike effect on growth" }, document.getElementById("forest")), X = v => m.l + (v + .8) / 1.6 * (W - m.l - m.r);
+  [-.8, -.4, 0, .4, .8].forEach(t => { el("line", { x1: X(t), x2: X(t), y1: m.t, y2: Ht - m.b, stroke: t === 0 ? "var(--fg)" : "var(--rule)" }, svg); lbl(svg, X(t), Ht - 10, (t > 0 ? "+" : "") + t.toFixed(1), "lab m s", "middle"); });
+  rows.forEach((r, i) => { const y = m.t + i * rowH + rowH / 2, sig = r.v.lo > 0 || r.v.hi < 0, colr = r.c === "near" ? "var(--stone)" : "var(--green)";
+    lbl(svg, m.l - 10, y + 4, nar ? `${r.gl.replace(" to ", "-").replace(/18/g, "")}: ${r.c === "near" ? "milestone" : "named"}` : `${r.gl}: ${r.cl.toLowerCase()}`, "lab s", "end");
+    el("line", { x1: X(Math.max(r.v.lo, -.8)), x2: X(Math.min(r.v.hi, .8)), y1: y, y2: y, stroke: colr, "stroke-width": 2 }, svg);
+    const c = el("circle", { cx: X(r.v.b), cy: y, r: 5.5, fill: sig ? colr : "var(--bg)", stroke: colr, "stroke-width": 2 }, svg);
+    hover(c, `<b>${r.gl}: ${r.cl.toLowerCase()}</b><br>${r.v.b >= 0 ? "+" : ""}${r.v.b.toFixed(2)} points a year<br>95% interval ${r.v.lo.toFixed(2)} to ${r.v.hi.toFixed(2)}<br>p = ${r.v.p.toFixed(3)}`); });
+});
+
+/* ===== Stilton index ===== */
+resp(document.getElementById("index"), (W, nar) => {
+  const Yr = [1801, 1811, 1821, 1831, 1841, 1851, 1881, 1901], m = { l: 44, r: nar ? 60 : 90, t: 14, b: 30 }, Ht = nar ? 240 : 270;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${Ht}`, role: "img", "aria-label": "Population index 1801 to 1901 for Stilton and the panel" }, document.getElementById("index"));
+  const X = y => m.l + (y - 1801) / 100 * (W - m.l - m.r), Y = v => Ht - m.b - (v - .9) / 1.1 * (Ht - m.t - m.b);
+  [1, 1.25, 1.5, 1.75, 2].forEach(t => { el("line", { x1: m.l, x2: W - m.r, y1: Y(t), y2: Y(t), stroke: "var(--rule)" }, svg); lbl(svg, m.l - 6, Y(t) + 4, t.toFixed(2), "lab m s", "end"); });
+  [1801, 1831, 1851, 1881, 1901].forEach(y => lbl(svg, X(y), Ht - 10, y, "lab m s", "middle"));
+  const line = (o, stroke, dash, w) => el("path", { d: Yr.map((y, i) => `${i ? "L" : "M"}${X(y).toFixed(1)} ${Y(o[y]).toFixed(1)}`).join(""), fill: "none", stroke, "stroke-width": w, "stroke-dasharray": dash || "" }, svg);
+  line(R.index, "var(--stone)", "", 2.5); line(R.index_named, "var(--green)", "5 4", 2); line(R.stilton_index, "var(--green)", "", 3.5);
+  Yr.forEach(y => { const c = el("circle", { cx: X(y), cy: Y(R.stilton_index[y]), r: 4.5, fill: "var(--green)" }, svg); hover(c, `<b>Stilton ${y}</b><br>${R.stilton[y] ? fmt(R.stilton[y]) + " people · " : ""}${R.stilton_index[y].toFixed(2)} × 1801`); });
+  lbl(svg, X(1901) + 6, Y(R.stilton_index[1901]) + 4, "Stilton", "lab s b");
+  lbl(svg, X(1901) + 6, Y(R.index[1901]) + 4, "all", "lab s m");
+  lbl(svg, X(1901) + 6, Y(R.index_named[1901]) + 4, "named", "lab s m");
+});
+
+/* ===== big towns ===== */
+(() => { const t = document.getElementById("bigT"); let key = 1, dir = -1;
+  const cols = [["Town", 0], ["1801", 1, 1], ["1861", 2, 1], ["First trust", 3, 1], ["Trusts", 4, 1], ["Growth", 5, 1], ["Railway", 6, 1]];
+  const go = () => { const V = [...P.big].sort((a, b) => ((a[key] ?? -1e9) > (b[key] ?? -1e9) ? 1 : (a[key] ?? -1e9) < (b[key] ?? -1e9) ? -1 : 0) * dir);
+    t.innerHTML = `<thead><tr>${cols.map(([l, k, n]) => `<th class="${n ? "num" : ""}" data-k="${k}">${l}${k === key ? (dir < 0 ? " ▼" : " ▲") : ""}</th>`).join("")}</tr></thead><tbody>` +
+      V.map(c => `<tr><td>${esc(c[0])}</td><td class="num">${fmt(c[1])}</td><td class="num">${c[2] ? fmt(c[2]) : ""}</td><td class="num">${c[3] ?? ""}</td><td class="num">${c[4]}</td><td class="num">${c[5] != null ? c[5].toFixed(2) + "%" : ""}</td><td class="num">${c[6] ?? ""}</td></tr>`).join("") + "</tbody>";
+    t.querySelectorAll("th").forEach(th => th.onclick = () => { const k = +th.dataset.k; dir = k === key ? -dir : (k === 0 ? 1 : -1); key = k; go(); }); };
+  go();
+})();
+</script>
+</body>
+</html>

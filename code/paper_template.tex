@@ -1,0 +1,211 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}
+\newfontfamily\headfont{Inter}[UprightFont=*-ExtraBold,BoldFont=*-ExtraBold,Extension=.otf,Path=/usr/share/fonts/opentype/inter/]
+\usepackage[a4paper,margin=2.3cm]{geometry}
+\usepackage{graphicx,booktabs,float,caption,array}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage{setspace}
+\setstretch{1.05}
+\renewcommand{\topfraction}{0.9}
+\renewcommand{\bottomfraction}{0.8}
+\renewcommand{\textfraction}{0.1}
+\renewcommand{\floatpagefraction}{0.75}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.55em}
+\titleformat{\section}{\headfont\Large}{\thesection}{0.8em}{}
+\titleformat{\subsection}{\headfont\large}{\thesubsection}{0.8em}{}
+\captionsetup{font=small,labelfont=bf}
+\urlstyle{same}
+\hypersetup{pdftitle={Turnpikes and Coaching Towns: England's Turnpike Trusts, Their Surviving Milestones and the Growth of Towns},pdfauthor={Tristan Hotham}}
+
+\begin{document}
+\begin{center}
+{\Large\bfseries Turnpikes and Coaching Towns: England's Turnpike Trusts,\\[2pt] Their Surviving Milestones and the Growth of Towns\par}
+\vspace{1.2em}
+{\large Tristan Hotham\par}
+\vspace{0.3em}
+{\small Independent researcher\\
+ORCID: 0000-0003-4931-9349\\
+DOI: \href{https://doi.org/10.5281/zenodo.23729648}{https://doi.org/10.5281/zenodo.23729648}\par}
+\vspace{0.8em}
+2026
+\end{center}
+
+\begin{quote}
+\small
+\begin{center}\textbf{Abstract}\end{center}
+Between 1663 and the 1830s, turnpike trusts took over the main roads of England and Wales, financing repairs from tolls. I combine three open sources. First, from Wikipedia's eight regional lists I build a gazetteer of {{trusts.unique|int}} English turnpike trusts, {{trusts.with_year|int}} with the year of their first act, and place the towns named in their titles. Trust formation peaked in the 1750s ({{trusts.n_1750s|int}} new trusts) and 1760s ({{trusts.n_1760s|int}}); {{trusts.share_1750_1772|pct0}} of dated trusts were founded in 1750 to 1772 and {{trusts.by1800|pct0}} by 1800. Timing varied little with distance from London (Spearman {{wave.rho|f2}}). Second, I combine Wikidata and OpenStreetMap records of {{traces.total|int}} surviving milestones, mileposts, guide stones and toll houses in the UK. {{traces.aroad_50|pct0}} stand within 50 m of a modern A-road; their recorded density varies twentyfold between English counties, and they are more common near towns named in trusts ({{validate.named_trace2|pct0}} of such towns have one within 2 km, against {{validate.other_trace2|pct0}} of other towns). Third, for {{panel.n|int}} places with census series I test whether turnpike places grew faster. Places named in a trust by 1800 grew faster in 1801 to 1831 in raw terms, but after allowing for initial size and region the difference is {{models.g1801_1831.named1800.b|f2}} percentage points a year (95\% interval {{models.g1801_1831.named1800.lo|f2}} to {{models.g1801_1831.named1800.hi|f2}}); a surviving milestone within 1 km shows no association. There is weak evidence that named places lost ground in 1831 to 1851, as railways spread. Turnpikes reached nearly every town quickly; on this evidence they did not by themselves sort winners from losers.
+
+\textbf{Keywords:} turnpike trusts; roads; milestones; coaching; transport history; urban growth; Wikidata; OpenStreetMap; England; Wales
+\end{quote}
+
+\section{Introduction}
+
+For two centuries the main roads of England and Wales were run by turnpike trusts. Each trust was created by its own Act of Parliament, which allowed a body of local trustees to borrow money, put up gates, charge tolls and spend the proceeds on repairing a named stretch of road. The first turnpike, authorised in 1663, put toll gates on the Great North Road in Hertfordshire, Cambridgeshire and Huntingdonshire under the county justices; the first true trust followed under an act of 1706 for part of the London to Chester road. At their peak in the 1830s, according to the standard account summarised on Wikipedia, over 1,000 trusts administered around 30,000 miles of road, taking tolls at almost 8,000 gates and side bars (Wikipedia 2026, citing Searle 1930). Standard histories of the system include Albert (1972), Pawson (1977) and, for its geography, Bogart (2017). The better roads carried the coaching age: the first mail coach ran from Bristol to London in 1784, and Telford's work on the Holyhead Road in the 1820s cut the London mail's journey from 45 hours to 27. Then the railways took the traffic, the trusts fell into debt, and Parliament wound them up from the 1870s, handing the main roads to the county councils in 1888.
+
+A popular picture of this history is the coaching town: a place on a great road that grew rich on inns, horses and passing trade, and declined when the railway passed it by. This note asks how far open data can test that picture. Did places that were named in turnpike trusts, or that stood on roads still marked by milestones, grow faster than other places in the decades before the railway, and did they lose that edge afterwards?
+
+The ideal evidence would be a dated digital map of every turnpike road, matched to towns. Such a map exists: the turnpike road GIS for England and Wales, 1700 to 1838, produced by Rosevear, Bogart, Shaw-Taylor and Satchell (openICPSR 195126). I could not obtain it for this study. Instead I use three open sources that can be combined at scale: Wikipedia's lists of turnpike trusts, the surviving milestones and toll houses recorded in Wikidata and OpenStreetMap, and census populations from Wikidata and A Vision of Britain through Time. The analysis code is written to use the turnpike road GIS if it is supplied.
+
+This is one of a series of open-data studies of transport and towns, after Canal Mania (Hotham 2026a) and a study of seaside resorts and the railway (Hotham 2026b). An interactive version, with a map of every trust-named place and surviving milestone and a search for any town in England and Wales, is at \url{https://tristan-hotham.github.io/turnpike-towns/}.
+
+\section{Data}
+
+\subsection{Turnpike trusts}
+
+Wikipedia has eight regional lists of English turnpike trusts, organised by historic county: South East England, the East of England, the East Midlands, the West Midlands, North East England, North West England, Yorkshire and South West England. Each gives the trust's name (sometimes with alternative names), the year it was founded (the year of its first act) and that act's citation and short title. The lists are flagged on Wikipedia as incomplete. Wales has only undated lists of trust names by county, and Scotland none, so the gazetteer covers England only.
+
+The South East list was available to me as wikitext from the Wikipedia API (retrieved 28 October 2026). The other seven lists were read with an automated web reader the same day and saved verbatim as text files. To check the reader, I read the Berkshire and Kent rows of the South East list in the same way and compared them with the wikitext: all {{trusts.fidelity.n|int}} rows matched on trust name, founding year and act title. After dropping rows without a trust name (these are later acts of the trust above) and keeping a trust listed under two counties once, the gazetteer has {{trusts.unique|int}} trusts, {{trusts.with_year|int}} of them with a founding year. The {{trusts.sussex_no_year|int}} Sussex trusts in the South East list have no dates.
+
+\subsection{Milestones, mileposts and toll houses}
+
+Surviving roadside traces come from a QLever query of Wikidata and OpenStreetMap run on 28 October 2026. From Wikidata I take every item in the United Kingdom whose class is milestone or toll house (CC0); from OpenStreetMap every feature inside the United Kingdom tagged \texttt{historic=milestone}, \texttt{milepost}, \texttt{toll\_house}, \texttt{turnpike} or \texttt{toll\_gate}, or \texttt{barrier=toll\_booth} (ODbL). An OpenStreetMap feature within 40 m of a Wikidata item of the same broad kind is treated as the same object: {{traces.osm_dups|int}} of the {{traces.osm_all|int}} OpenStreetMap features were duplicates in this sense. The result is {{traces.total|int}} traces: {{traces.milestones|int}} milestones, {{traces.mileposts|int}} mileposts (Wikidata items whose label begins ``Milepost''), {{traces.guide|int}} guide stones and {{traces.tollhouses|int}} toll houses. {{traces.listed|int}} carry a listed building or scheduled monument designation.
+
+Wikidata's inception dates for milestones are mostly century-precision values stored as the first year of the century: {{traces.c18|int}} items are dated 1701 (18th century) and {{traces.c19|int}} 1801 (19th century). I treat exactly 1701, 1801 and 1901 as century dates. {{traces.exact_year|int}} items carry another, presumably exact, year.
+
+\subsection{Populations}
+
+Two population sources are used. The census panel combines every place in England and Wales in a Wikidata extract of historic populations with census figures for 1801, 1831 and 1851 and at least 50 people in 1801 ({{panel.n_wikidata|int}} places), with {{panel.n_vob|int}} inland towns whose census series I transcribed from A Vision of Britain through Time for an earlier study (Hotham 2026b). The Wikidata series are concentrated where editors have entered parish series: {{panel.fens|int}} places are in Cambridgeshire, Huntingdonshire and the fens, {{panel.southwest|int}} in Dorset, Somerset and Devon, and {{panel.other|int}} elsewhere. The median place had {{panel.median_pop1801|int}} people in 1801. The second source is the ranking of England's largest towns in 1801 and 1861 from Wikipedia's ``List of towns and cities in England by historical population'', as tabulated for Canal Mania (Hotham 2026a): {{big.n|int}} towns other than London.
+
+\subsection{Other sources}
+
+OS Open Names provides the places. Railway arrival for each place is the earliest Wikidata opening date of a station within 3 km. County boundaries (counties and unitary areas of Great Britain) and OpenStreetMap trunk and primary roads with an A number come from my earlier study of Roman roads.
+
+\section{Methods}
+
+\subsection{Placing the trusts}
+
+Each trust name is split into place words at ``and'', ``to'', commas and similar joins, after removing words such as ``Turnpike Trust'', ``Road'' and ``District'' and anything in brackets: ``Ashbourne and Yoxall Bridge Turnpike Trust'' gives Ashbourne and Yoxall Bridge. Each word is matched exactly (ignoring case, hyphens and punctuation, and reading ``upon'' as ``on'') to an OS Open Names populated place. A short list of old spellings is translated (for example Brighthelmston to Brighton and Sarum to Salisbury). Where several places share a name, I prefer one in the modern region or regions that correspond to the trust's list, then a city or town, then the place nearest the trust's other matched places (within 60 km). {{trusts.placed|int}} trusts ({{trusts.placed_share|pct0}}) have at least one matched place, and {{named.places|int}} distinct places are named in at least one trust. For each place I record the founding year of the first trust that names it and the number of trusts that name it.
+
+Naming is not routing. A town through which a turnpike ran, but which is not in any trust's title, counts as not named. In England, {{validate.named|int}} of the {{validate.towns|int}} places that OS Open Names classes as a city or town ({{validate.named_share|pct0}}) are named in at least one trust.
+
+\subsection{Traces}
+
+For each trace I record its nation and county (point in polygon), and its distance to the nearest A-road. County density is milestones and mileposts per 100 km\textsuperscript{2}. To test whether surviving traces follow the trust network, I count trust-named places and traces in squares of 20 km on the British National Grid, keeping the {{grid.cells|int}} squares in England that contain at least one OS populated place.
+
+\subsection{Growth}
+
+Yearly growth between censuses is $100 \times \ln(P_2/P_1)/t$, where $t$ is the number of years between them, for 1801 to 1831 (the late coaching age), 1831 to 1851 (the first railway decades) and 1851 to 1881. Exposure to the turnpikes is measured in two ways: whether the place is named in a trust founded by 1800 ({{panel.named1800|int}} places) and whether a surviving milestone, milepost or toll house stands within 1 km ({{panel.near|int}} places). I compare medians with the Mann-Whitney test and estimate ordinary least squares regressions of growth on both measures, the logarithm of population in 1801 and three area dummies (fens, south west, other), with heteroskedasticity-robust standard errors. For the largest towns I use Spearman rank correlations between growth from 1801 to 1861 and the first trust year and number of trusts.
+
+\section{Results}
+
+\subsection{Turnpike mania}
+
+Figure~\ref{fig:decades} shows trust foundations by decade. After the 1663 turnpike and a handful of early trusts, formation rose in the 1720s, then surged: {{trusts.n_1750s|int}} trusts in the 1750s and {{trusts.n_1760s|int}} in the 1760s. Between 1750 and 1772 {{trusts.n_1750_1772|int}} trusts were founded, {{trusts.share_1750_1772|pct0}} of those with a date. The median founding year is {{trusts.median_year|raw}}, and half of all dated trusts were founded between {{trusts.q1|raw}} and {{trusts.q3|raw}}. A second, smaller wave in the 1790s to 1820s reached {{trusts.n_1820s|int}} trusts in the 1820s; only {{trusts.after1830|int}} were founded after 1830. The latest is the {{trusts.last_name|raw}} ({{trusts.last_year|raw}}).
+
+\begin{figure}[tbp]\centering
+\includegraphics[width=0.88\textwidth]{f_decades.png}
+\caption{Turnpike trusts founded per decade in England, by the year of each trust's first act ({{trusts.with_year|int}} trusts). Shaded: 1750 to 1772. Dashed: the first mail coach, 1784.}\label{fig:decades}
+\end{figure}
+
+Regions differed less than one might expect (Table~\ref{tab:regions}, Figure~\ref{fig:regions}). Median founding years run from {{regions.0.median|raw}} in the South West to {{regions.7.median|raw}} in the North West, where {{nw_1790_1829|pct0}} of dated trusts were founded between 1790 and 1829. Distance from London explains little of the timing: towns named in trusts within 50 km of London have a median first year of {{wave.bands.0.median|raw}}, and those more than 200 km away {{wave.bands.3.median|raw}} (Spearman rank correlation {{wave.rho|f2}}, {{wave.n_towns|int}} towns, {{wave.p|p}}). The main roads out of London were early, but the great burst of the 1750s and 1760s happened across the country at once.
+
+{{TABLE_REGIONS}}
+
+\begin{figure}[tbp]\centering
+\includegraphics[width=0.92\textwidth]{f_regions.png}
+\caption{Left: earliest founding year (start of bar) and median founding year (dot) of turnpike trusts by region. Right: median year of the first trust naming a town, by straight-line distance of the town from London (number of towns in brackets).}\label{fig:regions}
+\end{figure}
+
+Figure~\ref{fig:map} maps the {{named.places|int}} places named in trusts, coloured by the year of the first trust naming them. Some towns were hubs: {{named.hub_top.0.name|raw}} appears in {{named.hub_top.0.n|int}} trust titles, {{named.hub_top.1.name|raw}} in {{named.hub_top.1.n|int}}, and {{named.hub_top.2.name|raw}} in {{named.hub_top.2.n|int}}.
+
+\begin{figure}[tbp]\centering
+\includegraphics[width=0.78\textwidth]{f_map.png}
+\caption{Places named in English turnpike trusts, coloured by the founding year of the first trust naming them (larger: towns and places named in more trusts), with surviving milestones and mileposts (grey) and toll houses (red) recorded in Wikidata and OpenStreetMap. Points in Scotland and Wales are traces only; the trust gazetteer covers England.}\label{fig:map}
+\end{figure}
+
+\subsection{What survives}
+
+Of the {{traces.total|int}} recorded traces, {{traces.england|int}} are in England, {{traces.wales|int}} in Wales, {{traces.scotland|int}} in Scotland and {{traces.ni|int}} in Northern Ireland. Their link to the modern road network is close: {{traces.aroad_50|pct0}} lie within 50 m of an A-road and {{traces.aroad_200|pct0}} within 200 m (median distance {{traces.aroad_median|int}} m), while {{traces.aroad_far|pct0}} are more than 2 km from one, on roads that have since become minor. Most dated traces belong to the nineteenth century ({{traces.c19|int}} century dates, against {{traces.c18|int}} for the eighteenth), and the median of the {{traces.exact_year|int}} exact years is {{traces.exact_median|raw}}: the stones and cast-iron posts that survive are mostly those of the mature coaching age and its aftermath, not the first generation.
+
+Recorded density varies enormously (Figure~\ref{fig:counties}). Among English counties and unitary areas larger than 500 km\textsuperscript{2}, {{counties.top.0.county|raw}} has {{counties.top.0.d|f1}} milestones or mileposts per 100 km\textsuperscript{2}, {{counties.top.1.county|raw}} {{counties.top.1.d|f1}} and {{counties.top.2.county|raw}} {{counties.top.2.d|f1}}, while {{counties.bottom.4.county|raw}} has {{counties.bottom.4.d|f1}} and {{counties.bottom.5.county|raw}}, home of some of the earliest trusts, {{counties.bottom.5.d|f1}}. England as a whole has {{counties.england_density|f1}} per 100 km\textsuperscript{2}, Wales {{counties.wales_density|f1}} and Scotland {{counties.scotland_density|f1}}. These differences are far larger than any plausible difference in the historic network, and reflect loss and, above all, recording.
+
+\begin{figure}[tbp]\centering
+\includegraphics[width=0.8\textwidth]{f_counties.png}
+\caption{Surviving milestones and mileposts per 100 km\textsuperscript{2} (count in brackets): the ten densest and six sparsest English counties and unitary areas larger than 500 km\textsuperscript{2}.}\label{fig:counties}
+\end{figure}
+
+Despite this, the survivors do trace the network. {{validate.named_trace2|pct0}} of English towns named in a trust have a surviving trace within 2 km, against {{validate.other_trace2|pct0}} of other towns (median distance {{validate.named_median_km|f2}} km against {{validate.other_median_km|f2}} km). Across {{grid.cells|int}} 20 km squares, the number of trust-named places and the number of surviving traces are positively correlated (Spearman {{grid.rho|f2}}, {{grid.p|p}}).
+
+\subsection{Did turnpike places grow faster?}
+
+Table~\ref{tab:growth} and Figure~\ref{fig:forest} report the growth comparisons. In raw terms, places named in a trust by 1800 grew faster from 1801 to 1831: a median of {{compare.named1800.g1801_1831.yes|f2}}\% a year against {{compare.named1800.g1801_1831.no|f2}}\% ({{compare.named1800.g1801_1831.n_yes|int}} and {{compare.named1800.g1801_1831.n_no|int}} places, Mann-Whitney {{compare.named1800.g1801_1831.p|p}}). But named places were larger, and larger places grew faster throughout the panel: each unit of log population in 1801 adds {{models.g1801_1831.lpop.b|f2}} points to yearly growth in 1801 to 1831. Allowing for size and area, the named-place difference falls to {{models.g1801_1831.named1800.b|f2}} points (95\% interval {{models.g1801_1831.named1800.lo|f2}} to {{models.g1801_1831.named1800.hi|f2}}). Places with a surviving milestone within 1 km grew no faster ({{models.g1801_1831.near.b|f2}}, interval {{models.g1801_1831.near.lo|f2}} to {{models.g1801_1831.near.hi|f2}}).
+
+{{TABLE_GROWTH}}
+
+\begin{figure}[tbp]\centering
+\includegraphics[width=0.88\textwidth]{f_forest.png}
+\caption{Estimated differences in yearly population growth (percentage points) for places named in a turnpike trust by 1800 and for places with a surviving milestone, milepost or toll house within 1 km, from regressions with log population in 1801 and area. Lines: 95\% intervals; filled dots: intervals excluding zero.}\label{fig:forest}
+\end{figure}
+
+In 1831 to 1851 the sign reverses. Named places grew {{models.g1831_1851.named1800.b|abs2}} points a year more slowly than comparable places (interval {{models.g1831_1851.named1800.lo|f2}} to {{models.g1831_1851.named1800.hi|f2}}, {{models.g1831_1851.named1800.p|p}}), and the fall in their growth rate between the two periods was larger: a median of {{change.named|abs2}} points against {{change.other|abs2}} for other places (Mann-Whitney {{change.p|p}}). In 1851 to 1881 neither measure is associated with growth. A model of growth in 1851 to 1881 with a railway station within 3 km by 1851 and its interaction with naming finds no clear effect of either (railway {{rail_model.rail1851.b|f2}}, interval {{rail_model.rail1851.lo|f2}} to {{rail_model.rail1851.hi|f2}}).
+
+Stilton, on the 1663 turnpike, shows the coaching-village pattern clearly (Figure~\ref{fig:stilton}): {{stilton.1801|int}} people in 1801, {{stilton.1831|int}} in 1831, {{stilton.1851|int}} in 1851, then {{stilton.1881|int}} in 1881 and {{stilton.1901|int}} in 1901. But decline after 1851 was common across this rural panel: {{peaks.other_by1851|pct0}} of places not named in a trust had their largest recorded population in 1851 or earlier, and the panel median fell from {{index.1851|f2}} times its 1801 level in 1851 to {{index.1901|f2}} in 1901. Stilton fell further, to {{stilton_index.1901|f2}}.
+
+\begin{figure}[tbp]\centering
+\includegraphics[width=0.82\textwidth]{f_stilton.png}
+\caption{Population as a multiple of 1801: Stilton, the median of all {{panel.n|int}} panel places and the median of places named in a trust by 1800.}\label{fig:stilton}
+\end{figure}
+
+Among the largest towns, {{big.named|int}} of {{big.n|int}} are named in a trust, which leaves almost no contrast. For the {{big.n_g|int}} with populations in both 1801 and 1861, growth is unrelated to the year of the first trust naming the town (Spearman {{big.rho_first|f2}}, {{big.p_first|p}}) or to the number of trusts naming it ({{big.rho_hub|f2}}, {{big.p_hub|p}}).
+
+\section{Discussion}
+
+Three findings stand out. First, the turnpike system was built very quickly. Most trusts were founded within two decades of 1750, across every region, and the median town named in a trust got its first one by the late 1750s whether it was near London or not. By the start of the census series in 1801, nearly three quarters of all trusts existed, and nearly every town of any size lay on or near a turnpike. That makes it hard to treat ``being on a turnpike'' as a distinguishing advantage in the nineteenth century: almost everyone was.
+
+Second, survival is a poor guide to the historic network's density but a fair guide to its routes. Milestones cluster on the line of today's A-roads, and they are more common near trust-named towns, but recorded density differs twentyfold between counties for reasons that have more to do with listing, mapping and loss than with the eighteenth century. Bedfordshire and Northamptonshire, crossed by some of the oldest turnpikes in the country, now have some of the fewest recorded milestones.
+
+Third, the growth evidence does not support a strong turnpike effect. The raw advantage of named places in 1801 to 1831 largely reflects their size: they were market towns, and market towns grew faster than villages whatever their roads. The weak sign that named places slowed in 1831 to 1851 is consistent with the coaching-town story, in which the railway drew traffic away from the roads, but it rests on {{panel.named1800|int}} named places, mostly in one region, and its interval almost reaches zero.
+
+One reading is that turnpikes mattered as a network: by lowering transport costs almost everywhere, they could have raised growth broadly rather than favouring particular towns. A town-level test of that kind of effect needs a better measure of access than a name in a trust title, which is what the turnpike road GIS would provide.
+
+\section{Limitations}
+
+The trust lists are incomplete, have no dates for Sussex and do not cover Wales or Scotland; seven of the eight were read with an automated web reader, which matched the wikitext perfectly in the rows checked but was not checked everywhere. A founding year is the year of the first act; trusts were renewed, merged and renamed, and the gazetteer counts names as listed. Name matching can misplace a few places, and some trust words are lanes, bridges or inns rather than settlements. Traces are survivors recorded by heritage listing and volunteer mapping, and recording varies by county. The growth panel is small, regionally concentrated and mostly rural, uses census parish boundaries that changed, and cannot separate the effect of roads from the reasons why roads were improved where they were. All results are associations.
+
+\section{Conclusion}
+
+England's turnpike trusts were founded in a rush in the 1750s and 1760s, and they reached almost every town. Ten thousand of their milestones and toll houses are still recorded, most of them beside today's main roads. But in the census decades before the railway, I find little sign that the places named in trusts, or the places beside surviving milestones, grew faster than similar places once their size is taken into account. Turnpikes were everywhere; what made one town grow and another stand still lay elsewhere.
+
+\section*{Data and code availability}
+
+The trust gazetteer, matched places, surviving traces, county densities, growth panel and all reported numbers (\texttt{results.json}) are at \url{https://github.com/Tristan-Hotham/turnpike-towns}, with the analysis code, and in the Zenodo record for this paper (\url{https://doi.org/10.5281/zenodo.23729648}). The interactive version is at \url{https://tristan-hotham.github.io/turnpike-towns/}. Text and derived data are released under CC BY-SA 4.0 because they draw on Wikipedia; the tables of traces contain OpenStreetMap data and are released under the Open Database License 1.0; code is MIT. Contains OS data \textcopyright{} Crown copyright and database right 2026, and ONS data, used under the Open Government Licence v3.0.
+
+\section*{Funding and competing interests}
+
+This work received no funding. The author declares no competing interests.
+
+\section*{Use of AI}
+
+I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.
+
+\section*{References}
+\small
+\setlength{\parskip}{0.35em}
+\hangindent=1.5em Albert, W. (1972). \textit{The Turnpike Road System in England 1663 to 1840}. Cambridge: Cambridge University Press.
+
+\hangindent=1.5em Bogart, D. (2017). The turnpike roads of England and Wales. In L. Shaw-Taylor, D. Bogart and M. Satchell (eds), \textit{The Online Historical Atlas of Transport, Urbanization and Economic Development in England and Wales c. 1680 to 1911}. Cambridge University. \url{https://www.campop.geog.cam.ac.uk/research/projects/transport/onlineatlas/britishturnpiketrusts.pdf}
+
+\hangindent=1.5em Hotham, T. (2026a). Canal Mania. Zenodo. \url{https://doi.org/10.5281/zenodo.23689966}
+
+\hangindent=1.5em Hotham, T. (2026b). Did the railway invent the seaside? Zenodo. \url{https://doi.org/10.5281/zenodo.23727127}
+
+\hangindent=1.5em OpenStreetMap contributors (2026). OpenStreetMap, via QLever, retrieved 28 October 2026. Open Database License 1.0. \url{https://www.openstreetmap.org}
+
+\hangindent=1.5em Ordnance Survey (2026). OS Open Names. Open Government Licence v3.0. \url{https://www.ordnancesurvey.co.uk/products/os-open-names}
+
+\hangindent=1.5em Pawson, E. (1977). \textit{Transport and Economy: The Turnpike Roads of Eighteenth Century England}. London: Academic Press.
+
+\hangindent=1.5em Rosevear, A., Bogart, D., Shaw-Taylor, L. and Satchell, M. Turnpike roads of England and Wales, 1700 to 1838 (GIS). openICPSR project 195126. Not used in this study.
+
+\hangindent=1.5em Searle, M. (1930). \textit{Turnpikes and Toll Bars}. London: Hutchinson.
+
+\hangindent=1.5em University of Portsmouth. A Vision of Britain through Time. \url{https://www.visionofbritain.org.uk}
+
+\hangindent=1.5em Wikidata (2026). Items of class milestone and toll house in the United Kingdom; historic census populations; railway stations. CC0. Retrieved 27 and 28 October 2026. \url{https://www.wikidata.org}
+
+\hangindent=1.5em Wikipedia (2026). Turnpike trusts in South East England; in the East of England; in the East Midlands; in the West Midlands; in North East England; in North West England; in Yorkshire; in South West England; Turnpike trust; Mail coach; Tollhouse; Turnpike Roads Act 1773; Toll roads in Great Britain; Rebecca Riots; List of towns and cities in England by historical population. CC BY-SA 4.0. Retrieved 27 and 28 October 2026. \url{https://en.wikipedia.org}
+
+\end{document}
