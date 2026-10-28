@@ -1,0 +1,90 @@
+# Fidelity check: rows for Berkshire and Kent read from https://en.wikipedia.org/wiki/Turnpike_trusts_in_South_East_England with the same automated web reader, to compare with the article's wikitext held on disk.
+Berkshire | Abingdon and Fyfield Turnpike Trust | 1755 | Oxford and Buckinghamshire Roads Act 1755
+Berkshire | Abingdon, Wootton to Swinford Turnpike Trust | 1768 | Abingdon to Swinford Road Act 1768
+Berkshire | Besselsleigh Turnpike Trust | 1771 | Berkshire and Wiltshire Roads Act 1771
+Berkshire | Chilton Pond and Abingdon Turnpike Trust | 1756 | Berkshire Roads (No. 2) Act 1756
+Berkshire | Fyfield, Newbridge and St John's Bridge Turnpike Trust | 1732 | Fyfield and St. John's Bridge Road Act 1732
+Berkshire | Harwell and Streatley Turnpike Trust | 1803 | Harwell Road (Berkshire) Act 1803
+Berkshire | Hinksey Road Turnpike Trust | 1756 | Berkshire Roads (No. 2) Act 1756
+Berkshire | Hurley Turnpike Trust | 1717 | Maidenhead, Twyford and Henley Roads Act 1717
+Berkshire | Leckford or Sousley Water Turnpike Trust | 1772 | Wiltshire Roads (No. 2) Act 1772
+Berkshire | Maidenhead Turnpike Trust | 1717 | Maidenhead, Twyford and Henley Roads Act 1717
+Berkshire | Maidenhead to Cookham Turnpike Trust | 1779 | Maidenhead Roads Act 1779
+Berkshire | New Windsor and Twyford Turnpike Trust | 1832 | New Windsor and Twyford Road Act 1832
+Berkshire | New Windsor to Datchet Turnpike Trust | 1801 | New Windsor, Longford and Datchet Roads Act 1801
+Berkshire | Reading and Basingstoke Turnpike Trust | 1717 | Reading and Basingstoke Road Act 1717
+Berkshire | Reading to Puntfield Turnpike Trust | 1713 | Berkshire Highways Act 1713
+Berkshire | Shillingford and Reading Turnpike Trust | 1764 | Shillingford Roads and Bridge Act 1764
+Berkshire | Speenhamland to Marlborough Turnpike Trust | 1725 | Newbury to Marlborough Road Act 1725
+Berkshire | Speenhamland to Reading Turnpike Trust | 1713 | Berkshire Highways Act 1713
+Berkshire | Sunning-Lane End to Reading Turnpike Trust | 1735 | Berkshire Roads Act 1735
+Berkshire | Theale Road Turnpike Trust | |
+Berkshire | Twyford Turnpike Trust | |
+Berkshire | Twyford and Theale Turnpike Trust | 1826 | Ruscombe, Reading and Beenham Road Act 1826
+Berkshire | Wallingford, Wantage and Faringdon Turnpike Trust | 1751 | Berkshire Roads Act 1751
+Kent | Ashford and Ham Street Turnpike Trust | 1793 | Kent Roads Act 1793
+Kent | Ashford and Maidstone Turnpike Trust | 1793 | Maidstone to Ashford Road Act 1793
+Kent | Ashford to Orlestone Turnpike Trust | |
+Kent | Ashford to Tenderton Turnpike Trust | |
+Kent | Benenden Turnpike Trust | 1769 | Kent Roads Act 1769
+Kent | Bethersden Turnpike Trust | 1767 | Tenterden &c. Road Act 1766
+Kent | Biddenden Turnpike Trust | 1762 | Kent Roads Act 1762
+Kent | Biddenden to Boundgate Turnpike Trust | 1766 | Biddenden and Boundgate Road Act 1766
+Kent | Brandbridges Turnpike Trust | 1767 | Kent Roads Act 1766
+Kent | Bromley to Farnborough Turnpike Trust | |
+Kent | Canterbury and Barnham Turnpike Trust | 1791 | Kent Roads Act 1791
+Kent | Canterbury and Ramsgate Turnpike Trust | 1802 | Road from Canterbury to Ramsgate Act 1802
+Kent | Canterbury and Sandwich Turnpike Trust | 1802 | Road from Canterbury to Sandwich Act 1802
+Kent | Chatham and Canterbury Turnpike Trust | 1729 | Kent Roads Act 1729
+Kent | Cranbrooke to Sandhurst Turnpike Trust | |
+Kent | Dartford and Sevenoaks Turnpike Trust | 1766 | Dartford Roads Act 1766
+Kent | Dartford and Strood Turnpike Trust | 1737 | Kent Roads Act 1737
+Kent | Dover and Sandgate Turnpike Trust | 1764 | Kent Roads Act 1764
+Kent | Dover, Deal and Sandwich Turnpike Trust | 1797 | Dover Deal and Sandwich Road Act 1797
+Kent | Dover to Sandwich, through Deal Turnpike Trust | 1797 | Dover Deal and Sandwich Road Act 1797
+Kent | Dover, Walfdershare and Sandwich Turnpike Trust | 1801 | Dover and Sandwich Road Act 1801
+Kent | Dover to Sandwich, through Waldershare Turnpike Trust | 1801 | Dover and Sandwich Road Act 1801
+Kent | Dover to Barham Downs Turnpike Trust | 1753 | Kent Roads Act 1753
+Kent | East Malling to Pembury Green Turnpike Trust | |
+Kent | Faversham to Hythe and Canterbury Turnpike Trust | 1762 | Kent Roads (No. 2) Act 1762
+Kent | Faversham, Hythe and Canterbury Turnpike Trust | 1762 | Kent Roads (No. 2) Act 1762
+Kent | Folkestone and Barham Turnpike Trust | 1792 | Kent Roads Act 1792
+Kent | Goudhurst Turnpike Trust | 1768 | Goudhurst Roads Act 1768
+Kent | Goudhurst, Gore and Stilebridge Turnpike Trust | 1765 | Kent Roads Act 1765
+Kent | Gravesend and Wrotham Turnpike Trust | 1825 | Road from Gravesend to Wrotham Act 1825
+Kent | Greenwich and Woolwich Lower Road Turnpike Trust | 1818 | Road from Greenwich to Woolwich Act 1818
+Kent | Herne Bay Turnpike Trust | 1814 | Sturry and Herne Bay Road Act 1814
+Kent | Ightham Turnpike Trust | 1811 | Ightham and London to Maidstone Road Act 1811
+Kent | Kippings Cross and Flimwell Vent Turnpike Trust | 1762 | Kent and Sussex Roads Act 1762
+Kent | Kipping's Cross and Flimwell Turnpike Trust | 1762 | Kent and Sussex Roads Act 1762
+Kent | Kippings Cross and Willsley Pond Turnpike Trust | 1765 | Kent Roads Act 1765
+Kent | Kipping's Cross and Willsley Turnpike Trust | 1765 | Kent Roads Act 1765
+Kent | Maidstone and Biddenden Turnpike Trust | 1803 | Road from the Maidstone Turnpike Gate Act 1803
+Kent | Maidstone and Cranbrook Turnpike Trust | 1759 | Maidstone to Cranbrook Road Act 1759
+Kent | Maidstone and Key Street Turnpike Trust | 1769 | Maidstone to Key Street Road Act 1769
+Kent | Malling and Strood Turnpike Trust | 1825 | Maidstone and Wrotham and Strood Turnpike Road Act 1825
+Kent | New Cross Turnpike Trust | 1717 | Southwark, Greenwich and Lewisham Roads Act 1717
+Kent | Penshurst, Wat's Cross and Cowden Turnpike Trust | 1765 | Kent Roads (No. 2) Act 1765
+Kent | Rochester and Maidstone Turnpike Trust | 1727 | Rochester to Maidstone Road Act 1727
+Kent | Rolvenden Turnpike Trust | 1769 | Kent Roads (No. 3) Act 1769
+Kent | Sandwich, Margate and Ramsgate Turnpike Trust | 1807 | Sandwich, Margate and Ramsgate Road Act 1807
+Kent | Sevenoaks Turnpike Trust | 1748 | Farnborough and Sevenoaks Road Act 1748
+Kent | Farnborough to Severnoaks Turnpike Trust | 1748 | Farnborough and Sevenoaks Road Act 1748
+Kent | Shoreham to Chelsfield Turnpike Trust | 1810 | Shoreham (Kent) Road Act 1810
+Kent | Snodland to Strood Turnpike Trust | |
+Kent | Stokershead to Bagham's Cross Turnpike Trust | 1809 | Stockershead Road (Kent) Act 1809
+Kent | Stockerhead to Chilham Turnpike Trust | 1809 | Stockershead Road (Kent) Act 1809
+Kent | Tenterden Turnpike Trust | 1762 | Kent Roads Act 1762
+Kent | Tenterden to Warehorne Turnpike Trust | |
+Kent | Tonbridge Turnpike Trust | 1709 | Sevenoaks and Tunbridge Highways Act 1709
+Kent | Tonbridge and Ightham Turnpike Trust | 1809 | Tonbridge and Ightham Road Act 1809
+Kent | Tonbridge and Maidstone Turnpike Trust | 1765 | Kent Roads (No. 2) Act 1765
+Kent | Tunbridge Wells to Uckfield Turnpike Trust | |
+Kent | Wadhurst and West Farleigh Turnpike Trust | 1765 | Sussex and Kent Roads Act 1765
+Kent | West Peckham to Hadlow Turnpike Trust | |
+Kent | Westerham and Edenbridge Turnpike Trust | 1767 | Kent and Sussex Roads (No. 2) Act 1766
+Kent | Westerham to Titsey Turnpike Trust | |
+Kent | Whistable Turnpike Trust | 1735 | Kent Roads (No. 2) Act 1735
+Kent | Woodchurch Turnpike Trust | 1820 | Tenterden and Warehorne, and Bethersden and Appledore Roads Act 1820
+Kent | Wrotham and Maidstone Turnpike Trust | 1751 | Kent Roads Act 1751
+Kent | Wrotham Heath Turnpike Trust | 1765 | Kent and Surrey Roads Act 1765
