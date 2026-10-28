@@ -1,0 +1,1032 @@
+name,os_type,os_county,list_region,lat,lon,n_trusts,first_trust_year,trust_ids
+Wadesmill,Village,Hertfordshire,East of England,51.8405,-0.0279,2,1663,469 470
+Chelmsford,City,Essex,East of England,51.73705,0.47361,1,1695,446
+Colchester,City,Essex,East of England,51.88971,0.89935,1,1695,448
+Harwich,Town,Essex,East of England,51.94644,1.28729,1,1695,457
+Shenfield,Suburban Area,Essex,East of England,51.63014,0.32757,1,1695,457
+Thetford,Town,Norfolk,East of England,52.41353,0.75051,2,1695,500 522
+Hockliffe,Village,Central Bedfordshire,South East,51.92957,-0.5842,2,1706,24 426
+Woburn,Town,Central Bedfordshire,East of England,51.98863,-0.61906,2,1706,422 426
+Bath,City,Bath and North East Somerset,South West,51.3828,-2.35929,2,1707,1144 1185
+Calne,Town,Wiltshire,South West,51.43794,-2.00509,3,1707,1212 1213 1237
+Dunchurch,Village,Warwickshire,East Midlands,52.33705,-1.28972,4,1707,365 380 657 658
+Old Stratford,Village,West Northamptonshire,East Midlands,52.06323,-0.86483,2,1707,366 380
+Tonbridge,Town,Kent,South East,51.19255,0.27215,3,1709,125 126 127
+Northampton,Town,West Northamptonshire,East Midlands,52.23786,-0.89505,8,1710,365 369 375 376 377 378 390 391
+Portsmouth,City,City of Portsmouth,South East,50.79685,-1.09117,2,1710,61 242
+Royston,Town,Hertfordshire,East of England,52.04825,-0.01999,1,1710,438
+Stilton,Village,Cambridgeshire,East of England,52.48914,-0.29159,1,1710,480
+Claydon,Village,Suffolk,East of England,52.10647,1.11142,1,1711,507
+Stowmarket,Town,Suffolk,East of England,52.18894,0.99758,1,1711,507
+Darlaston,Town,Walsall,West Midlands,52.56887,-2.03332,1,1713,594
+Reading,Town,Reading,South East,51.4538,-0.97376,6,1713,14 15 16 18 19 466
+Speenhamland,Suburban Area,West Berkshire,South East,51.4061,-1.32685,2,1713,17 18
+Tittensor,Village,Staffordshire,West Midlands,52.94249,-2.191,1,1713,594
+Barnet,Other Settlement,Greater London,East of England,51.64968,-0.17125,1,1714,464
+St Albans,City,Hertfordshire,East of England,51.75231,-0.33909,1,1714,465
+Kensington,Other Settlement,Greater London,South East,51.50057,-0.19438,1,1716,146
+Basingstoke,Town,Hampshire,South East,51.26775,-1.08834,6,1717,14 40 41 45 46 66
+Hurley,Village,Windsor and Maidenhead,South East,51.54641,-0.81014,1,1717,8
+Maidenhead,Town,Windsor and Maidenhead,South East,51.52275,-0.72021,2,1717,10 11
+New Cross,Suburban Area,Greater London,South East,51.47591,-0.03952,1,1717,114
+Begbroke,Village,Oxfordshire,South East,51.82266,-1.31859,1,1718,177
+Stokenchurch,Village,Buckinghamshire,South East,51.66013,-0.90181,2,1718,34 177
+Wheatley,Village,Oxfordshire,South East,51.74659,-1.13486,1,1718,177
+Woodstock,Town,Oxfordshire,South East,51.84783,-1.35431,3,1718,177 178 181
+Biggleswade,Town,Central Bedfordshire,East of England,52.08686,-0.26325,2,1719,423 468
+Stevenage,Town,Hertfordshire,East of England,51.90234,-0.2008,1,1719,468
+Buckingham,Town,Buckinghamshire,South East,52.00109,-0.98636,4,1720,29 30 31 38
+Ledbury,Town,County of Herefordshire,West Midlands,52.03581,-2.42234,2,1720,530 532
+Wendover,Town,Buckinghamshire,South East,51.76235,-0.7431,2,1720,38 39
+Dunstable,Town,Central Bedfordshire,East of England,51.88762,-0.52311,1,1722,461
+Market Harborough,Town,Leicestershire,East Midlands,52.47953,-0.92269,4,1722,325 326 373 374
+Welford,Village,West Northamptonshire,East Midlands,52.41961,-1.05524,2,1722,320 374
+Stonebridge,Suburban Area,Somerset,West Midlands,51.24186,-2.30481,3,1723,646 658 671
+Cheshunt,Town,Hertfordshire,East of England,51.70262,-0.04276,1,1724,460
+Hauxton,Village,Cambridgeshire,East of England,52.14879,0.10366,1,1724,432
+Berkeley,Village,Gloucestershire,South West,51.69126,-2.45828,2,1725,1129 1130
+Birmingham,City,Birmingham,West Midlands,52.47928,-1.90294,11,1725,587 615 645 646 647 648 649 651 670 679 695
+Cainscross,Suburban Area,Gloucestershire,South West,51.74325,-2.2407,2,1725,1135 1178
+Corsham,Town,Wiltshire,South West,51.43393,-2.18449,1,1725,1216
+Dursley,Town,Gloucestershire,South West,51.6814,-2.35378,2,1725,1129 1130
+Edgehill,Hamlet,Warwickshire,South East,52.12282,-1.45655,2,1725,167 673
+Elton,Village,Gloucestershire,South West,51.82524,-2.44713,1,1725,1152
+Frocester,Village,Gloucestershire,South West,51.72699,-2.31202,2,1725,1130 1155
+Froxfield,Village,Wiltshire,South West,51.41089,-1.57305,1,1725,1225
+Halstead,Town,Essex,East of England,51.94372,0.6326,1,1725,452
+Huntley,Village,Gloucestershire,South West,51.87216,-2.40512,1,1725,1157
+Lacock,Village,Wiltshire,South West,51.41472,-2.12318,1,1725,1216
+Little Drayton,Suburban Area,Shropshire,East Midlands,52.90028,-2.499,1,1725,402
+Liverpool,City,Liverpool,North West,53.40935,-2.97849,2,1725,1011 1012
+Loughborough,Town,Leicestershire,East Midlands,52.7721,-1.20616,4,1725,323 324 326 406
+Maisemore,Village,Gloucestershire,South West,51.88934,-2.27613,1,1725,1161
+Marlborough,Town,Wiltshire,South East,51.42147,-1.72951,6,1725,17 1225 1226 1227 1236 1245
+Mitcheldean,Town,Gloucestershire,South West,51.86461,-2.48944,1,1725,1157
+Prescot,Town,Knowsley,North West,53.42963,-2.80555,1,1725,1012
+Shrewsbury,Town,Shropshire,West Midlands,52.70817,-2.75433,9,1725,567 568 569 570 571 572 573 576 578
+Stratford,Other Settlement,Worcestershire,West Midlands,52.04745,-2.17581,6,1725,647 672 673 674 676 678
+Tewkesbury,Town,Gloucestershire,South West,51.99245,-2.15758,2,1725,1141 1180
+Warmington,Village,Warwickshire,West Midlands,52.12548,-1.39996,1,1725,649
+Warrington,Town,Warrington,North West,53.38957,-2.5909,5,1725,916 940 1012 1045 1046
+Warwick,Town,Warwickshire,East Midlands,52.28345,-1.58923,5,1725,390 649 655 668 676
+Welwyn,Village,Hertfordshire,East of England,51.8297,-0.21564,1,1725,472
+Worcester,City,Worcestershire,West Midlands,52.19293,-2.22109,1,1725,702
+Bedford,Town,Bedford,East of England,52.13684,-0.46849,6,1726,418 419 420 421 422 425
+Bristol,City,City of Bristol,South West,51.45313,-2.60098,1,1726,1132
+Bromsgrove,Town,Worcestershire,West Midlands,52.33523,-2.05928,4,1726,672 679 686 689
+Chippenham,Town,Wiltshire,South West,51.45823,-2.11394,1,1726,1214
+Cirencester,Town,Gloucestershire,South West,51.717,-1.96838,6,1726,1143 1144 1145 1146 1147 1148
+Colnbrook,Village,Slough,South East,51.48445,-0.52811,1,1726,32
+Datchet,Village,Windsor and Maidenhead,South East,51.48398,-0.57852,2,1726,13 32
+Dudley,Town,Dudley,West Midlands,52.51005,-2.08316,6,1726,596 682 683 684 685 686
+Halesowen,Town,Dudley,West Midlands,52.45341,-2.06091,1,1726,686
+Luton,Town,Luton,East of England,51.87954,-0.41745,2,1726,419 427
+Marshfield,Village,South Gloucestershire,South West,51.46218,-2.32024,1,1726,1163
+Preston,City,Lancashire,North West,53.76055,-2.69853,4,1726,977 1011 1028 1048
+Slough,Town,Slough,South East,51.50886,-0.59296,1,1726,32
+Warminster,Town,Wiltshire,South West,51.20492,-2.18119,2,1726,1239 1240
+Wednesbury,Town,Sandwell,West Midlands,52.55205,-2.01869,1,1726,587
+Wigan,Town,Wigan,North West,53.54554,-2.62969,3,1726,1037 1046 1048
+Bagshot,Village,Surrey,South East,51.36146,-0.6928,2,1727,183 187
+Egham,Town,Surrey,South East,51.43137,-0.54949,1,1727,187
+Evesham,Town,Worcestershire,West Midlands,52.09262,-1.94742,4,1727,659 687 688 1149
+Maidstone,Town,Kent,South East,51.27297,0.52063,7,1727,79 110 111 112 116 127 135
+Rochester,Town,Medway,South East,51.38979,0.50363,1,1727,116
+Leominster,Town,County of Herefordshire,West Midlands,52.2272,-2.73883,2,1728,531 532
+Rugeley,Town,Staffordshire,West Midlands,52.76141,-1.93604,2,1728,616 617
+Stone,Town,Staffordshire,West Midlands,52.90141,-2.14516,4,1728,617 623 624 632
+Bridgwater,Town,Somerset,South West,51.12778,-3.00641,1,1729,1187
+Canterbury,City,Kent,South East,51.27968,1.07888,5,1729,88 89 90 91 100
+Chatham,Town,Medway,South East,51.38491,0.52552,1,1729,91
+Hereford,City,County of Herefordshire,West Midlands,52.05598,-2.71755,1,1729,527
+Long Compton,Village,Warwickshire,West Midlands,51.99267,-1.58189,1,1729,674
+Bourton-on-the-Hill,Village,Gloucestershire,South West,51.99005,-1.7533,1,1730,1137
+Cranage,Village,Cheshire East,North West,53.21333,-2.37598,2,1730,916 923
+Godstone,Village,Surrey,South East,51.24737,-0.06672,1,1730,191
+Highgate,Suburban Area,East Sussex,South East,51.09031,0.03378,1,1730,191
+Lawton,Other Settlement,County of Herefordshire,West Midlands,52.23064,-2.81344,2,1730,604 923
+Lemsford,Village,Hertfordshire,East of England,51.79761,-0.23109,1,1730,462
+Manchester,City,Manchester,North West,53.47894,-2.24528,15,1731,922 928 947 1014 1015 1016 1017 1018 1019 1020 1021 1022 1023 1035 1041
+Austerlands,Suburban Area,Oldham,Yorkshire,53.54604,-2.05456,2,1734,896 1018
+Elland,Town,Calderdale,Yorkshire,53.68466,-1.83659,4,1734,809 822 848 868
+Halifax,Town,Calderdale,Yorkshire,53.72283,-1.86018,8,1734,827 828 829 839 849 868 892 898
+Oldham,Town,Oldham,Yorkshire,53.54216,-2.11596,5,1734,885 1018 1025 1039 1040
+Rochdale,Town,Rochdale,Yorkshire,53.61696,-2.15671,7,1734,868 995 1021 1033 1034 1035 1036
+Dorchester,Village,Oxfordshire,South East,51.64412,-1.16577,1,1735,172
+Henley,Hamlet,West Sussex,South East,51.02361,-0.72636,1,1735,172
+Whitstable,Town,Kent,South East,51.35848,1.02465,1,1735,133
+Alton,Town,Hampshire,South East,51.14864,-0.97584,4,1736,45 46 57 71
+Blackwater,Town,Hampshire,South East,51.33106,-0.7799,1,1736,45
+Hartfordbridge,Village,Hampshire,South East,51.31485,-0.8884,1,1736,45
+Odiham,Village,Hampshire,South East,51.25392,-0.94109,3,1736,45 57 58
+Dartford,Town,Kent,South East,51.4561,0.24675,2,1737,93 94
+Derby,City,City of Derby,East Midlands,52.92469,-1.47805,10,1737,266 282 283 284 285 286 287 310 403 609
+Nottingham,City,City of Nottingham,East Midlands,52.9562,-1.1512,10,1737,299 343 379 403 404 405 406 407 408 409
+Strood,Suburban Area,Medway,South East,51.39573,0.49527,2,1737,94 121
+Chesterfield,Town,Derbyshire,East Midlands,53.23633,-1.42921,6,1738,274 276 277 278 298 307
+Grantham,Town,Lincolnshire,East Midlands,52.91209,-0.64224,7,1738,329 337 343 344 358 404 413
+Stamford,Town,Lincolnshire,East Midlands,52.6521,-0.48106,2,1738,358 384
+Worksop,Town,Nottinghamshire,East Midlands,53.30715,-1.12282,6,1738,278 401 411 412 788 906
+Wragby,Town,Lincolnshire,East Midlands,53.28744,-0.30107,1,1738,360
+Whitehaven,Town,Cumberland,North West,54.55072,-3.58746,1,1739,968
+Boroughbridge,Town,North Yorkshire,North East,54.0942,-1.39545,8,1740,705 766 767 816 817 823 830 907
+Crofton,Village,Wakefield,Yorkshire,53.65614,-1.42833,1,1740,770
+Doncaster,City,Doncaster,Yorkshire,53.52272,-1.13235,9,1740,811 812 813 814 815 816 817 818 890
+Ferrybridge,Village,Wakefield,Yorkshire,53.71195,-1.26813,1,1740,823
+Four Lane Ends,Suburban Area,Sheffield,Yorkshire,53.35512,-1.41156,1,1740,869
+Leeds,City,Leeds,Yorkshire,53.8007,-1.55026,19,1740,791 810 837 846 847 848 849 850 851 852 853 854 855 856 857 858 859 860 878
+Rotherham,Town,Rotherham,Yorkshire,53.43072,-1.35474,5,1740,790 869 870 871 872
+Tadcaster,Town,North Yorkshire,Yorkshire,53.88475,-1.26405,4,1740,814 817 888 889
+Wakefield,City,Wakefield,Yorkshire,53.6837,-1.49817,10,1740,801 818 857 895 896 897 898 899 900 901
+Beckhampton,Village,Wiltshire,South West,51.41924,-1.87372,1,1742,1209
+Bowes,Village,County Durham,North East,54.51723,-2.01305,3,1742,706 769 1051
+Brough,Village,Westmorland and Furness,North East,54.52644,-2.31824,4,1742,720 1051 1052 1053
+Catterick,Village,North Yorkshire,Yorkshire,54.37595,-1.63257,2,1742,766 767
+Piercebridge,Village,Darlington,North East,54.53803,-1.67664,2,1742,722 767
+Beverley,Town,East Riding of Yorkshire,Yorkshire,53.84345,-0.43347,6,1743,747 748 749 753 758 763
+Greta Bridge,Hamlet,County Durham,Yorkshire,54.51299,-1.8655,1,1743,769
+Hanwell,Village,Oxfordshire,South East,52.08926,-1.36756,1,1743,31
+Hockerill,Suburban Area,Hertfordshire,East of England,51.87135,0.16792,1,1743,453
+Kingston upon Hull,City,City of Kingston upon Hull,Yorkshire,53.74459,-0.33258,4,1743,753 754 755 756
+Nantwich,Town,Cheshire East,West Midlands,53.06883,-2.52053,5,1743,612 929 930 931 932
+Weeping Cross,Suburban Area,Staffordshire,East Midlands,52.79189,-2.07854,1,1743,362
+Woore,Village,Shropshire,West Midlands,52.97772,-2.3928,2,1743,543 932
+Cambridge,City,Cambridgeshire,East of England,52.20486,0.11968,3,1744,431 439 475
+Durham,City,County Durham,North East,54.77786,-1.58261,6,1744,703 705 707 713 714 715
+Godmanchester,Town,Cambridgeshire,East of England,52.31933,-0.175,2,1744,474 475
+Hedon,Town,East Riding of Yorkshire,Yorkshire,53.73946,-0.19885,2,1744,754 761
+Kirk Ella,Village,East Riding of Yorkshire,Yorkshire,53.75334,-0.45489,1,1744,756
+Barnard Castle,Town,County Durham,North East,54.54845,-1.91711,1,1746,724
+Birdlip,Village,Gloucestershire,South West,51.82706,-2.10623,2,1746,1146 1160
+Catterick Bridge,Hamlet,North Yorkshire,North East,54.39123,-1.6525,1,1746,707
+Sunderland,City,Sunderland,North East,54.90216,-1.3838,1,1746,714
+Sunderland Bridge,Village,County Durham,North East,54.73316,-1.58436,1,1747,706
+Walsall,Town,Walsall,West Midlands,52.58622,-1.98034,3,1747,627 633 634
+Wolverhampton,City,City of Wolverhampton,West Midlands,52.5862,-2.12992,3,1747,596 626 637
+Bermondsey,Other Settlement,Greater London,South East,51.495,-0.07647,1,1748,184
+Deptford,Other Settlement,Greater London,South East,51.47763,-0.02598,2,1748,184 194
+Farnborough,Town,Hampshire,South East,51.29041,-0.75475,2,1748,87 119
+Ponteland,Town,Northumberland,North East,55.04947,-1.74515,1,1748,743
+Rotherhithe,Suburban Area,Greater London,South East,51.49803,-0.046,1,1748,184
+Sevenoaks,Town,Kent,South East,51.27053,0.19201,2,1748,93 119
+Egremont,Town,Cumberland,North West,54.48102,-3.52874,1,1749,961
+Newcastle upon Tyne,City,Newcastle upon Tyne,North East,54.97801,-1.61019,3,1749,739 740 741
+York,City,York,Yorkshire,53.96201,-1.08367,7,1749,765 782 783 784 785 807 907
+Beaconsfield,Town,Buckinghamshire,South East,51.61034,-0.6455,1,1750,37
+Carlisle,City,Cumberland,North East,54.89262,-2.93302,7,1750,739 954 955 956 957 958 964
+Darlington,Town,Darlington,North East,54.52327,-1.55361,3,1750,708 710 711
+Devizes,Town,Wiltshire,South West,51.35189,-1.99531,2,1750,1218 1241
+Garstang,Town,Lancashire,North West,53.90266,-2.7738,3,1750,999 1000 1028
+Hulme,Suburban Area,Manchester,North West,53.46704,-2.24699,2,1750,1004 1005
+Lancaster,City,Lancashire,Yorkshire,54.05007,-2.80316,2,1750,772 1030
+Ludlow,Town,Shropshire,West Midlands,52.36765,-2.71901,1,1750,558
+Red Hill,Hamlet,Kent,South East,51.26097,0.43126,1,1750,37
+Richmond,Town,North Yorkshire,Yorkshire,54.4041,-1.73728,5,1750,772 773 774 775 1030
+Seend,Village,Wiltshire,South West,51.35021,-2.07491,3,1750,1232 1238 1241
+Stretford,Town,Trafford,North West,53.44609,-2.30742,3,1750,976 1005 1041
+Alnmouth,Village,Northumberland,North East,55.38958,-1.61285,1,1751,728
+Beamish,Village,County Durham,North East,54.87608,-1.65029,1,1751,746
+Black Dog,Village,Devon,South West,50.87488,-3.69881,1,1751,1186
+Bridgnorth,Town,Shropshire,West Midlands,52.53584,-2.41982,4,1751,545 546 568 625
+Bromyard,Town,County of Herefordshire,West Midlands,52.18932,-2.5075,1,1751,525
+Chester,City,Cheshire West and Chester,North West,53.1902,-2.89164,5,1751,909 910 911 912 913
+Faringdon,Town,Oxfordshire,South East,51.65814,-1.58364,2,1751,23 169
+Green Hammerton,Village,North Yorkshire,Yorkshire,54.00526,-1.30106,1,1751,845
+Harmer Hill,Village,Shropshire,West Midlands,52.79522,-2.75557,1,1751,553
+Harrogate,Town,North Yorkshire,Yorkshire,53.99374,-1.54309,4,1751,819 830 831 850
+Hexham,Town,Northumberland,North East,54.97178,-2.10093,4,1751,718 728 736 737
+Hope,Hamlet,Shropshire,West Midlands,52.60801,-2.97521,1,1751,525
+Knaresborough,Town,North Yorkshire,Yorkshire,54.00736,-1.46459,4,1751,844 845 883 903
+Scarborough,Town,North Yorkshire,Yorkshire,54.28158,-0.40221,2,1751,784 785
+Stroud,Town,Gloucestershire,South West,51.7455,-2.21817,5,1751,1147 1175 1176 1177 1178
+Taunton,Town,Somerset,South West,51.01341,-3.10818,1,1751,1104
+Trowbridge,Town,Wiltshire,South West,51.32002,-2.20805,1,1751,1238
+Upton upon Severn,Village,Worcestershire,West Midlands,52.06333,-2.2176,1,1751,700
+Wall under Heywood,Village,Shropshire,West Midlands,52.5284,-2.72502,1,1751,574
+Wallingford,Town,Oxfordshire,South East,51.60098,-1.12456,1,1751,23
+Wantage,Town,Oxfordshire,South East,51.58829,-1.42569,1,1751,23
+Wooler,Town,Northumberland,North East,55.54655,-2.01626,2,1751,745 746
+Wrexham,City,Wrecsam - Wrexham,West Midlands,53.04792,-2.99478,3,1751,553 912 949
+Wrotham,Village,Kent,South East,51.30887,0.31082,2,1751,104 135
+Y Coed Duon,Town,Caerffili - Caerphilly,West Midlands,51.66775,-3.19576,1,1751,574
+Alconbury,Village,Cambridgeshire,East of England,52.36883,-0.26011,1,1753,477
+Ashby-de-la-Zouch,Town,Leicestershire,East Midlands,52.74696,-1.47185,3,1753,312 323 585
+Bibury,Village,Gloucestershire,South West,51.76062,-1.83505,1,1753,1131
+Bradford,City,Bradford,Yorkshire,53.79078,-1.75456,7,1753,799 800 801 802 803 838 905
+Burton upon Trent,Town,Staffordshire,East Midlands,52.80738,-1.64479,4,1753,282 314 588 589
+Castle Cary,Town,Somerset,South West,51.08968,-2.51377,1,1753,1196
+Chard,Town,Somerset,South West,50.87271,-2.96586,1,1753,1189
+Cockermouth,Town,Cumberland,North West,54.66372,-3.36454,3,1753,958 959 960
+Dover,Town,Kent,South East,51.12814,1.30843,4,1753,95 96 97 98
+Eamont Bridge,Village,Westmorland and Furness,North West,54.65127,-2.74898,3,1753,955 1052 1055
+Eling,Suburban Area,Hampshire,South West,50.91301,-1.48216,1,1753,1231
+Exeter,City,Devon,South West,50.72258,-3.5326,2,1753,1087 1098
+Hindley,Town,Wigan,North West,53.53382,-2.58111,1,1753,1007
+Hundred House,Hamlet,Powys - Powys,West Midlands,52.18193,-3.29827,1,1753,690
+Ilchester,Village,Somerset,South West,51.00202,-2.68275,1,1753,1194
+Ince,Village,Cheshire West and Chester,North West,53.28222,-2.82599,1,1753,1007
+Ireby,Hamlet,Lancashire,North West,54.17391,-2.53225,1,1753,1056
+Irlam,Town,Salford,North West,53.45199,-2.4118,3,1753,1001 1008 1045
+Irlams o' th' Height,Suburban Area,Salford,North West,53.49929,-2.31046,1,1753,1009
+Keighley,Town,Bradford,Yorkshire,53.86747,-1.90962,3,1753,838 839 840
+Kendal,Town,Westmorland and Furness,Yorkshire,54.33041,-2.74738,3,1753,840 1010 1050
+Kirkby Lonsdale,Town,Westmorland and Furness,North West,54.20198,-2.59702,1,1753,1056
+Langport,Town,Somerset,South West,51.03767,-2.828,1,1753,1196
+Milnthorpe,Village,Westmorland and Furness,North West,54.22678,-2.77315,2,1753,1056 1059
+Norham,Village,Northumberland,North East,55.71865,-2.16057,1,1753,703
+Otley,Town,Leeds,Yorkshire,53.90567,-1.69439,4,1753,843 853 884 889
+Oundle,Town,North Northamptonshire,East Midlands,52.48093,-0.46876,2,1753,381 477
+Penrith,Town,Westmorland and Furness,North West,54.66601,-2.75457,1,1753,967
+Salford,City,Salford,North West,53.48064,-2.295,1,1753,1037
+Salisbury,City,Wiltshire,South West,51.07037,-1.79643,3,1753,1226 1230 1231
+Shaftesbury,Town,Dorset,South West,51.00631,-2.19521,1,1753,1122
+Shepton Mallet,Town,Somerset,South West,51.18981,-2.54732,1,1753,1200
+Sherborne,Town,Dorset,South West,50.94824,-2.51604,1,1753,1123
+Somerton,Town,Somerset,South West,51.05379,-2.73292,1,1753,1196
+Stourbridge,Town,Dudley,West Midlands,52.45507,-2.1433,3,1753,625 696 697
+Swinton,Town,Salford,North West,53.51222,-2.34031,1,1753,1043
+Thirsk,Town,North Yorkshire,Yorkshire,54.23247,-1.34285,3,1753,776 777 778
+Tutbury,Village,Staffordshire,West Midlands,52.85685,-1.68631,1,1753,585
+Wells,City,Somerset,South West,51.20864,-2.64717,2,1753,1202 1203
+Westhoughton,Town,Bolton,North West,53.54891,-2.52274,3,1753,969 988 1007
+Winchester,City,Hampshire,South East,51.06176,-1.311,10,1753,43 60 67 71 72 73 74 75 76 77
+Winsford,Town,Cheshire West and Chester,North West,53.19253,-2.53131,1,1753,936
+Workington,Town,Cumberland,North West,54.64337,-3.54937,1,1753,960
+Yeovil,Town,Somerset,South West,50.94077,-2.63352,1,1753,1128
+Bridport,Town,Dorset,South West,50.73364,-2.75836,4,1754,1110 1113 1114 1184
+Coventry,City,Coventry,East Midlands,52.40771,-1.50686,8,1754,321 325 652 653 654 655 656 662
+Higham Ferrers,Town,North Northamptonshire,East Midlands,52.30547,-0.59364,1,1754,367
+Hinckley,Town,Leicestershire,East Midlands,52.54105,-1.37384,5,1754,316 317 318 662 665
+Kettering,Town,North Northamptonshire,East Midlands,52.39995,-0.72831,5,1754,313 368 369 379 384
+Leicester,City,City of Leicester,East Midlands,52.63361,-1.13346,5,1754,319 320 321 322 414
+Narborough,Village,Leicestershire,East Midlands,52.57329,-1.20778,2,1754,318 332
+Newport Pagnell,Town,Milton Keynes,South East,52.08681,-0.72225,2,1754,29 420
+Peterborough,City,City of Peterborough,East Midlands,52.57251,-0.2425,5,1754,322 349 382 383 414
+Truro,City,Cornwall,South West,50.26333,-5.05101,1,1754,1075
+Uppingham,Town,Rutland,East Midlands,52.58808,-0.72284,1,1754,322
+Wellingborough,Town,North Northamptonshire,East Midlands,52.30217,-0.6921,3,1754,382 383 391
+Addingham,Village,Bradford,North West,53.944,-1.88276,1,1755,978
+Andover,Town,Hampshire,South East,51.2075,-1.47919,5,1755,41 42 43 75 1179
+Ashburton,Town,Devon,South West,50.51562,-3.75563,1,1755,1076
+Blackburn,Town,Blackburn with Darwen,North West,53.75007,-2.48153,7,1755,977 978 979 983 993 994 998
+Burnley,Town,Lancashire,North West,53.78752,-2.24439,3,1755,990 991 1033
+Bury,Village,Cambridgeshire,East of England,52.43838,-0.11287,1,1755,473
+Bury,Town,Bury,North West,53.59269,-2.29877,8,1755,992 993 1015 1016 1021 1029 1036 1042
+Clitheroe,Town,Lancashire,Yorkshire,53.87494,-2.38744,2,1755,882 994
+Deddington,Village,Oxfordshire,South East,51.98218,-1.32324,1,1755,174
+Epsom,Town,Surrey,South East,51.33317,-0.26699,1,1755,188
+Ewell,Town,Surrey,South East,51.34954,-0.24935,1,1755,188
+Gosford,Hamlet,Oxfordshire,South East,51.81337,-1.27029,1,1755,171
+Haworth,Village,Bradford,Yorkshire,53.83152,-1.95599,1,1755,832
+Huntingdon,Town,Cambridgeshire,East of England,52.33059,-0.1843,1,1755,478
+Kidlington,Town,Oxfordshire,South East,51.82172,-1.28849,1,1755,174
+Kimbolton,Village,Cambridgeshire,East of England,52.2974,-0.38969,2,1755,418 476
+Masham,Town,North Yorkshire,Yorkshire,54.2227,-1.65678,1,1755,777
+Mellor Brook,Village,Lancashire,North West,53.77579,-2.54715,1,1755,994
+Ramsey,Town,Cambridgeshire,East of England,52.44831,-0.1063,1,1755,478
+Reigate,Town,Surrey,South East,51.23768,-0.20583,2,1755,186 200
+Skipton,Town,North Yorkshire,Yorkshire,53.96021,-2.01767,3,1755,882 883 884
+Bourn,Village,Cambridgeshire,East Midlands,52.19072,-0.06367,1,1756,335
+Bracebridge,Suburban Area,Lincolnshire,East Midlands,53.20176,-0.55392,1,1756,336
+Bruton,Town,Somerset,South West,51.11248,-2.45358,1,1756,1188
+Cheltenham,Town,Gloucestershire,South West,51.90073,-2.07669,5,1756,1138 1139 1140 1141 1158
+Christian Malford,Village,Wiltshire,South West,51.50963,-2.05396,3,1756,1215 1228 1233
+Church Stretton,Town,Shropshire,West Midlands,52.53792,-2.80804,2,1756,561 569
+Condover,Village,Shropshire,West Midlands,52.64833,-2.75031,1,1756,569
+Donington,Village,Lincolnshire,East Midlands,52.90489,-0.20522,3,1756,340 341 356
+Dorchester,Town,Dorset,South West,50.71532,-2.43813,4,1756,1116 1117 1127 1230
+Duffield,Village,Derbyshire,East Midlands,52.98664,-1.49399,5,1756,283 288 289 290 295
+Harnham,Suburban Area,Wiltshire,South West,51.06197,-1.80836,1,1756,1117
+Kingsholm,Suburban Area,Gloucestershire,South West,51.87323,-2.23879,1,1756,1158
+Kington,Town,County of Herefordshire,West Midlands,52.20378,-3.02895,2,1756,528 529
+Lincoln,City,Lincolnshire,East Midlands,53.23484,-0.53844,4,1756,336 348 350 370
+Llanandras,Town,Powys - Powys,West Midlands,52.2734,-3.00644,2,1756,535 536
+Malmesbury,Town,Wiltshire,South West,51.58561,-2.10136,2,1756,1162 1224
+Much Wenlock,Town,Shropshire,West Midlands,52.59512,-2.55887,1,1756,561
+Oswestry,Town,Shropshire,West Midlands,52.86061,-3.05553,1,1756,563
+Pateley Bridge,Town,North Yorkshire,Yorkshire,54.08645,-1.75865,2,1756,844 867
+Poole,Town,"Bournemouth, Christchurch and Poole",South West,50.71893,-1.97983,2,1756,1111 1120
+Preston Brockhurst,Hamlet,Shropshire,West Midlands,52.81668,-2.68583,1,1756,564
+Pucklechurch,Village,South Gloucestershire,South West,51.48611,-2.43415,1,1756,1171
+Ripon,City,North Yorkshire,Yorkshire,54.13603,-1.52342,1,1756,867
+Romsey,Town,Hampshire,South East,50.98911,-1.49976,4,1756,63 64 70 73
+Sheffield,City,Sheffield,East Midlands,53.38251,-1.46854,10,1756,289 303 304 305 306 828 859 879 894 899
+Southampton,City,City of Southampton,South East,50.90489,-1.40431,3,1756,54 65 70
+Stockbridge,Village,Hampshire,South East,51.11413,-1.49262,3,1756,64 66 67
+Whiteparish,Village,Wiltshire,South East,51.01137,-1.65129,1,1756,70
+Wincanton,Town,Somerset,South West,51.05609,-2.41132,1,1756,1206
+Wirksworth,Town,Derbyshire,East Midlands,53.0827,-1.5736,2,1756,290 310
+Alford,Village,Somerset,South East,51.0879,-2.56539,1,1757,182
+Banner Cross,Suburban Area,Sheffield,East Midlands,53.36076,-1.50771,1,1757,303
+Baschurch,Village,Shropshire,West Midlands,52.7945,-2.85427,1,1757,567
+Bishop's Waltham,Town,Hampshire,South East,50.95506,-1.21296,3,1757,47 52 54
+Bisley,Village,Gloucestershire,South West,51.75272,-2.1395,2,1757,1164 1175
+Brackley,Town,West Northamptonshire,East Midlands,52.03262,-1.14373,2,1757,363 387
+Chapel-en-le-Frith,Town,Derbyshire,East Midlands,53.3242,-1.91197,3,1757,275 297 303
+Chawton,Village,Hampshire,South East,51.13286,-0.98919,1,1757,52
+Farnham,Town,Surrey,South East,51.21498,-0.79895,3,1757,51 58 192
+Frome,Town,Somerset,South West,51.23104,-2.32177,1,1757,1191
+Gosport,Town,Hampshire,South East,50.79446,-1.12271,2,1757,52 72
+Guildford,Town,Surrey,South East,51.23945,-0.57591,4,1757,182 192 233 258
+Hitchin,Town,Hertfordshire,East of England,51.94951,-0.28007,1,1757,425
+Honiton,Town,Devon,South West,50.79965,-3.18907,4,1757,1090 1091 1092 1193
+Leatherhead,Town,Surrey,South East,51.29616,-0.33112,2,1757,195 197
+Lyme Regis,Town,Dorset,South West,50.72515,-2.93651,1,1757,1118
+Markfield,Village,Leicestershire,East Midlands,52.68673,-1.27794,1,1757,327
+Melksham,Town,Wiltshire,South West,51.37285,-2.1382,1,1757,1229
+Minchinhampton,Town,Gloucestershire,South West,51.70538,-2.18614,2,1757,1164 1178
+Minsterley,Village,Shropshire,West Midlands,52.63965,-2.92554,2,1757,560 571
+Plymouth,City,City of Plymouth,South West,50.37001,-4.14207,3,1757,1098 1099 1100
+Shillingford,Village,Devon,South West,51.00632,-3.45168,1,1757,1215
+Snaresbrook,Suburban Area,Greater London,South East,51.58182,0.02057,1,1757,145
+Tetbury,Town,Gloucestershire,South West,51.63696,-2.15942,2,1757,1148 1164
+Tiverton,Town,Devon,South West,50.90242,-3.48863,1,1757,1108
+Towcester,Town,West Northamptonshire,East Midlands,52.13191,-0.98851,2,1757,386 387
+Waltham,Village,Kent,South East,51.198,1.01648,1,1757,74
+Watton,Town,Norfolk,East of England,52.57141,0.8257,2,1757,471 496
+Westbury,Village,Shropshire,West Midlands,52.67826,-2.95299,1,1757,573
+Westbury,Town,Wiltshire,South West,51.26082,-2.18358,1,1757,1242
+Weston,Village,West Northamptonshire,East Midlands,52.117,-1.13698,1,1757,387
+Whitwick,Village,Leicestershire,East Midlands,52.73963,-1.35463,1,1757,327
+Wickham,Town,Hampshire,South East,50.90009,-1.18703,1,1757,52
+Y Trallwng,Town,Powys - Powys,West Midlands,52.66063,-3.14971,1,1757,572
+Ashbourne,Town,Derbyshire,East Midlands,53.01772,-1.73173,5,1758,269 270 271 300 584
+Barnsley,Town,Barnsley,Yorkshire,53.55352,-1.48259,4,1758,792 793 794 795
+Buxton,Town,Derbyshire,East Midlands,53.25523,-1.91517,5,1758,272 605 914 924 928
+Dewsbury,Town,Kirklees,Yorkshire,53.69172,-1.62769,4,1758,809 810 825 829
+Grange Moor,Village,Kirklees,Yorkshire,53.63985,-1.66936,1,1758,792
+Leadenham,Village,Lincolnshire,East Midlands,53.05864,-0.58327,1,1758,347
+Longham,Village,Dorset,South East,50.7864,-1.90777,1,1758,62
+Macclesfield,Town,Cheshire East,North West,53.2606,-2.12554,3,1758,924 925 926
+Mansfield,Town,Nottinghamshire,East Midlands,53.14464,-1.19635,6,1758,267 287 298 400 401 407
+Modbury,Village,Devon,South West,50.34913,-3.88687,1,1758,1094
+Newhaven,Other Settlement,Derbyshire,East Midlands,53.13789,-1.75218,2,1758,280 408
+Ringwood,Town,Hampshire,South East,50.84605,-1.7911,2,1758,62 63
+Southwell,Town,Nottinghamshire,East Midlands,53.07799,-0.95532,1,1758,347
+Totnes,Town,Devon,South West,50.43144,-3.68697,1,1758,1109
+Uttoxeter,Town,Staffordshire,East Midlands,52.8984,-1.8648,7,1758,285 286 603 621 630 631 632
+Wetherby,Town,Leeds,Yorkshire,53.92852,-1.38691,1,1758,903
+Appleby,Village,North Lincolnshire,East Midlands,53.62315,-0.56165,2,1759,311 1050
+Bawtry,Town,Doncaster,East Midlands,53.4301,-1.021,4,1759,392 796 797 811
+Camelford,Town,Cornwall,South West,50.62294,-4.67883,1,1759,1064
+Castle Bromwich,Suburban Area,Solihull,West Midlands,52.50665,-1.77152,1,1759,651
+Cranbrook,Village,Kent,South East,51.09639,0.53479,1,1759,111
+Darley,Village,North Yorkshire,East Midlands,54.03064,-1.68803,1,1759,277
+Kidderminster,Town,Worcestershire,West Midlands,52.3882,-2.24923,1,1759,692
+Launceston,Town,Cornwall,South West,50.63576,-4.36118,1,1759,1068
+Littleborough,Town,Rochdale,Yorkshire,53.64386,-2.09638,2,1759,892 1047
+Market Bosworth,Town,Leicestershire,East Midlands,52.62475,-1.40138,1,1759,314
+Matlock,Town,Derbyshire,East Midlands,53.13897,-1.55458,1,1759,277
+Melbourne,Village,Derbyshire,East Midlands,52.82297,-1.42843,1,1759,317
+Newcastle,Village,Shropshire,West Midlands,52.43472,-3.10624,3,1759,604 608 609
+Newport,Town,Telford and Wrekin,West Midlands,52.76882,-2.37848,4,1759,562 597 613 621
+Okehampton,Town,Devon,South West,50.73903,-4.00326,1,1759,1097
+Tamworth,Town,Staffordshire,East Midlands,52.63343,-1.69245,2,1759,333 628
+Ternhill,Village,Shropshire,West Midlands,52.88603,-2.54041,2,1759,562 583
+Tinsley,Suburban Area,Sheffield,Yorkshire,53.41133,-1.40675,2,1759,797 890
+Todmorden,Town,Calderdale,Yorkshire,53.71366,-2.09783,2,1759,891 1003
+Wadebridge,Town,Cornwall,South West,50.51626,-4.83624,1,1759,1064
+Whitchurch,Town,Shropshire,West Midlands,52.96955,-2.68417,6,1759,539 559 582 583 911 942
+Helston,Town,Cornwall,South West,50.10093,-5.27447,1,1760,1067
+Leven,Village,East Riding of Yorkshire,Yorkshire,53.89255,-0.31761,1,1760,763
+Liskeard,Town,Cornwall,South West,50.45527,-4.465,1,1760,1069
+Lostwithiel,Town,Cornwall,South West,50.40748,-4.67059,1,1760,1073
+Martock,Village,Somerset,South West,50.97057,-2.76612,1,1760,1197
+Melcombe Regis,Suburban Area,Dorset,South West,50.61441,-2.45628,1,1760,1127
+Newton Abbot,Town,Devon,South West,50.53065,-3.60949,1,1760,1096
+Patrington,Village,East Riding of Yorkshire,Yorkshire,53.68373,-0.01177,1,1760,760
+Patrington Haven,Village,East Riding of Yorkshire,Yorkshire,53.67294,-0.02419,1,1760,761
+Penkridge,Town,Staffordshire,West Midlands,52.7247,-2.113,2,1760,614 624
+St Austell,Town,Cornwall,South West,50.33846,-4.79115,1,1760,1073
+Stafford,Town,Staffordshire,West Midlands,52.8058,-2.11666,4,1760,599 621 622 624
+Staindrop,Village,County Durham,North East,54.58054,-1.80166,3,1760,708 720 781
+Weymouth,Town,Dorset,South West,50.60699,-2.45554,1,1760,1127
+Wilton,Town,Wiltshire,South West,51.07998,-1.86378,1,1760,1221
+Amesbury,Town,Wiltshire,South West,51.1719,-1.78052,1,1762,1208
+Ansley,Village,Warwickshire,West Midlands,52.52639,-1.56552,1,1762,641
+Biddenden,Village,Kent,South East,51.11498,0.64305,3,1762,84 85 110
+Bolton,Town,Bolton,North West,53.57771,-2.43104,9,1762,983 984 985 986 987 988 989 992 1019
+Bury St Edmunds,Town,Suffolk,East of England,52.24633,0.71379,4,1762,505 506 519 521
+Congleton,Town,Cheshire East,West Midlands,53.16285,-2.21136,6,1762,584 914 915 925 929 935
+Creed,Hamlet,Cornwall,South West,50.28809,-4.8997,1,1762,1065
+Faversham,Town,Kent,South East,51.31527,0.89177,1,1762,100
+Fillongley,Village,Warwickshire,West Midlands,52.48327,-1.58703,1,1762,653
+Flimwell,Village,East Sussex,South East,51.05458,0.44551,2,1762,108 223
+Hilderstone,Village,Staffordshire,West Midlands,52.90779,-2.0793,1,1762,618
+Hythe,Town,Kent,South East,51.07142,1.08288,1,1762,100
+Kelsall,Village,Cheshire West and Chester,West Midlands,53.20879,-2.71551,1,1762,556
+Kipping's Cross,Hamlet,Kent,South East,51.13529,0.3494,2,1762,108 109
+Leek,Town,Staffordshire,West Midlands,53.10568,-2.02144,3,1762,584 605 611
+Leigh,Town,Wigan,North West,53.49735,-2.51883,1,1762,987
+Lutterworth,Town,Leicestershire,East Midlands,52.45459,-1.20027,4,1762,316 319 372 667
+Mancetter,Village,Warwickshire,West Midlands,52.56873,-1.52943,1,1762,663
+Morcott,Village,Rutland,East Midlands,52.59558,-0.63525,1,1762,338
+Pedmore,Suburban Area,Dudley,West Midlands,52.438,-2.13143,1,1762,684
+Rowley Regis,Town,Sandwell,West Midlands,52.48421,-2.04508,1,1762,685
+Saltash,Town,Cornwall,South West,50.4087,-4.21179,1,1762,1072
+Sandon,Village,Staffordshire,West Midlands,52.86518,-2.07871,2,1762,618 622
+Sedbergh,Town,Westmorland and Furness,Yorkshire,54.32357,-2.52835,1,1762,876
+St Helens,Town,St. Helens,North West,53.45534,-2.73819,1,1762,986
+St Just,Town,Cornwall,South West,50.12438,-5.67976,2,1762,1065 1071
+Sudbury,Town,Suffolk,East of England,52.03921,0.73185,1,1762,521
+Swindon,Town,Swindon,South West,51.56153,-1.78546,7,1762,1223 1227 1233 1234 1235 1236 1237
+Tavistock,Town,Devon,South West,50.55014,-4.14483,2,1762,1099 1105
+Tenterden,Town,Kent,South East,51.06729,0.68423,3,1762,81 123 124
+Whiston Cross,Hamlet,Shropshire,West Midlands,52.62986,-2.30456,1,1762,556
+Wolvey Heath,Village,Warwickshire,West Midlands,52.49229,-1.35967,1,1762,663
+Barnstaple,Town,Devon,South West,51.08108,-4.05838,1,1763,1077
+Burslem,Suburban Area,City of Stoke-on-Trent,West Midlands,53.04629,-2.19389,1,1763,604
+Eccleshall,Town,Staffordshire,West Midlands,52.85961,-2.25313,4,1763,597 608 622 635
+Ely,City,Cambridgeshire,East of England,52.39961,0.26251,2,1763,431 483
+Heath Charnock,Village,Lancashire,North West,53.634,-2.6172,1,1763,985
+Honington,Village,Warwickshire,West Midlands,52.0795,-1.61649,1,1763,554
+Penryn,Town,Cornwall,South West,50.1682,-5.10308,1,1763,1070
+Redruth,Town,Cornwall,South West,50.2342,-5.22508,1,1763,1070
+Shifnal,Village,Shropshire,West Midlands,52.67038,-2.37253,1,1763,545
+Soham,Town,Cambridgeshire,East of England,52.33168,0.33865,1,1763,431
+Alfreton,Town,Derbyshire,East Midlands,53.09753,-1.38761,3,1764,266 267 268
+Attercliffe,Suburban Area,Sheffield,Yorkshire,53.39213,-1.43424,1,1764,906
+Bideford,Town,Devon,South West,51.0168,-4.20481,1,1764,1078
+Broughton,Village,Hampshire,South East,51.09608,-1.56213,1,1764,64
+Callington,Town,Cornwall,South West,50.50311,-4.3158,1,1764,1063
+Haslemere,Town,Surrey,South East,51.08766,-0.70959,1,1764,193
+Holbeach,Other Settlement,Lincolnshire,East Midlands,52.80408,0.01384,1,1764,346
+Ilkeston,Town,Derbyshire,East Midlands,52.96974,-1.3093,1,1764,405
+Madeley,Town,Staffordshire,West Midlands,53.00172,-2.33982,2,1764,533 582
+Melton Mowbray,Town,Leicestershire,East Midlands,52.76637,-0.88812,2,1764,328 329
+Middleton,Village,North Yorkshire,Yorkshire,54.25881,-0.80356,1,1764,779
+Pleasley,Village,Derbyshire,Yorkshire,53.17304,-1.24748,1,1764,870
+Ripley,Town,Derbyshire,East Midlands,53.04909,-1.40674,1,1764,270
+Sandgate,Suburban Area,Kent,South East,51.07663,1.14388,1,1764,95
+Shillingford,Village,Oxfordshire,South East,51.63205,-1.14122,2,1764,16 159
+Spalding,Town,Lincolnshire,East Midlands,52.78711,-0.15171,2,1764,355 356
+Wentworth,Village,Rotherham,Yorkshire,53.47705,-1.41427,1,1764,872
+Whitby,Town,North Yorkshire,Yorkshire,54.48507,-0.61707,1,1764,779
+Alford,Village,Lincolnshire,East Midlands,53.26156,0.17932,1,1765,357
+Badby,Village,West Northamptonshire,East Midlands,52.22863,-1.18214,1,1765,372
+Balby,Suburban Area,Doncaster,Yorkshire,53.50295,-1.15477,1,1765,788
+Birstall,Suburban Area,Kirklees,Yorkshire,53.73596,-1.66417,2,1765,798 846
+Bocking,Suburban Area,Essex,East of England,51.89163,0.55544,1,1765,447
+Boston,Town,Lincolnshire,East Midlands,52.97633,-0.02715,1,1765,357
+Brigg,Town,North Lincolnshire,East Midlands,53.55193,-0.48648,1,1765,350
+Caistor,Village,Lincolnshire,East Midlands,53.49761,-0.31682,1,1765,350
+Coggeshall,Town,Essex,East of England,51.87133,0.68616,1,1765,447
+Cowden,Village,Kent,South East,51.14567,0.09269,1,1765,115
+Crewkerne,Town,Somerset,South West,50.88486,-2.7957,2,1765,1184 1190
+Darlton,Village,Nottinghamshire,East Midlands,53.25223,-0.84184,1,1765,396
+Dartmouth,Town,Devon,South West,50.35155,-3.57988,2,1765,1085 1093
+Farleigh,Village,Surrey,South East,51.32413,-0.04259,1,1765,129
+Gore,Suburban Area,Kent,South East,51.24794,1.30491,1,1765,103
+Goudhurst,Village,Kent,South East,51.113,0.45893,2,1765,102 103
+Great Torrington,Town,Devon,South West,50.95225,-4.14332,1,1765,1089
+Grimston,Other Settlement,York,Yorkshire,53.9588,-1.00617,1,1765,765
+Hainton,Village,Lincolnshire,East Midlands,53.34546,-0.2267,1,1765,393
+Hartford,Suburban Area,Cambridgeshire,East of England,52.33989,-0.16332,1,1765,474
+Hassop,Hamlet,Derbyshire,West Midlands,53.24725,-1.66652,1,1765,605
+Huddersfield,Town,Kirklees,Yorkshire,53.64428,-1.7822,8,1765,798 806 827 834 835 836 904 905
+King's Lynn,Town,Norfolk,East of England,52.75194,0.39538,4,1765,486 487 488 489
+Lymington,Town,Hampshire,South East,50.75829,-1.54204,1,1765,56
+Lyndhurst,Village,Hampshire,South East,50.87248,-1.57376,2,1765,49 56
+Malton,Town,North Yorkshire,Yorkshire,54.1348,-0.79633,1,1765,768
+Minehead,Town,Somerset,South West,51.20578,-3.4779,1,1765,1198
+Newcastle-under-Lyme,Town,Staffordshire,West Midlands,53.01116,-2.22801,3,1765,610 611 612
+Penshurst,Village,Kent,South East,51.16951,0.17906,1,1765,115
+Pickering,Town,North Yorkshire,Yorkshire,54.24621,-0.77882,1,1765,768
+Shaldon,Village,Devon,South West,50.54,-3.50942,1,1765,1085
+Spilsby,Town,Lincolnshire,East Midlands,53.17371,0.0979,1,1765,357
+Stockport,Town,Stockport,North West,53.40802,-2.15896,4,1765,939 940 941 1023
+Tibshelf,Village,Derbyshire,East Midlands,53.14322,-1.34315,3,1765,268 307 400
+Torquay,Town,Torbay,South West,50.46883,-3.53141,1,1765,1085
+Wadhurst,Town,East Sussex,South East,51.06634,0.32802,2,1765,129 240
+Wisbech,Town,Cambridgeshire,East of England,52.66442,0.16185,3,1765,441 442 489
+Wrotham Heath,Village,Kent,South East,51.29781,0.34755,1,1765,136
+Bilston,Town,City of Wolverhampton,West Midlands,52.56428,-2.07934,2,1766,586 638
+Brimington,Village,Derbyshire,East Midlands,53.25681,-1.39693,2,1766,271 274
+Haverhill,Town,Suffolk,East of England,52.08326,0.43805,1,1766,437
+Langley Mill,Suburban Area,Derbyshire,East Midlands,53.02137,-1.3378,1,1766,281
+Molescroft,Suburban Area,East Riding of Yorkshire,Yorkshire,53.85371,-0.43812,1,1766,757
+Scrooby,Village,Nottinghamshire,East Midlands,53.40979,-1.02002,1,1766,392
+Shelford,Village,Nottinghamshire,East of England,52.97287,-1.01481,1,1766,437
+Spath,Hamlet,Staffordshire,West Midlands,52.91678,-1.8764,1,1766,620
+Stonnall,Village,Staffordshire,West Midlands,52.63169,-1.89763,1,1766,613
+Wareham,Town,Dorset,South West,50.686,-2.10989,1,1766,1125
+Audlem,Village,Cheshire East,West Midlands,52.98885,-2.50795,1,1767,543
+Bangor,City,Gwynedd - Gwynedd,West Midlands,53.22796,-4.12821,1,1767,559
+Bethersden,Village,Kent,South East,51.12924,0.75543,1,1767,83
+Edenbridge,Town,Kent,South East,51.19652,0.065,1,1767,131
+Flinton,Hamlet,East Riding of Yorkshire,Yorkshire,53.80806,-0.14618,1,1767,764
+Hatton,Village,Warwickshire,West Midlands,52.29426,-1.67366,1,1767,689
+Northfield,Suburban Area,Birmingham,West Midlands,52.41234,-1.97352,1,1767,664
+Westerham,Town,Kent,South East,51.26705,0.0718,2,1767,131 132
+Wyton,Other Settlement,East Riding of Yorkshire,Yorkshire,53.78262,-0.21579,1,1767,764
+Bishop's Castle,Town,Shropshire,West Midlands,52.493,-2.99782,1,1768,544
+Hardingstone,Suburban Area,West Northamptonshire,East Midlands,52.21365,-0.88583,1,1768,366
+Hatfield,Town,Hertfordshire,East of England,51.76511,-0.22013,1,1768,466
+Newmarket,Town,Suffolk,East of England,52.24364,0.40527,2,1768,505 522
+Radstock,Town,Bath and North East Somerset,South West,51.29202,-2.44812,1,1768,1199
+Swinford,Hamlet,Oxfordshire,South East,51.77321,-1.35766,1,1768,2
+Woodhead,Other Settlement,Derbyshire,Yorkshire,53.15896,-1.44902,1,1768,836
+Wootton,Village,Oxfordshire,South East,51.70667,-1.3147,1,1768,2
+Baldock,Town,Hertfordshire,East of England,51.98963,-0.18871,1,1769,459
+Benenden,Village,Kent,South East,51.06822,0.57666,1,1769,82
+Bodmin,Town,Cornwall,South West,50.4713,-4.71756,2,1769,1061 1062
+Cheadle,Town,Staffordshire,West Midlands,52.98523,-1.98544,3,1769,591 592 593
+Hessle,Town,East Riding of Yorkshire,Yorkshire,53.72309,-0.43546,2,1769,749 755
+Key Street,Suburban Area,Kent,South East,51.34413,0.70142,1,1769,112
+Northwich,Town,Cheshire West and Chester,North West,53.2607,-2.51196,2,1769,933 934
+Norwich,City,Norfolk,East of England,52.62887,1.29331,7,1769,492 493 494 495 496 497 498
+Reeth,Village,North Yorkshire,Yorkshire,54.38949,-1.94291,2,1769,771 775
+Rolvenden,Village,Kent,South East,51.05272,0.62988,1,1769,117
+Scole,Village,Norfolk,East of England,52.36604,1.15685,1,1769,493
+Shawbury,Village,Shropshire,West Midlands,52.78731,-2.65573,1,1769,565
+Stony Stratford,Suburban Area,Milton Keynes,South East,52.05412,-0.84774,1,1769,178
+Tarvin,Village,Cheshire West and Chester,North West,53.19772,-2.76329,1,1769,910
+Wool,Village,Dorset,South West,50.67936,-2.21877,1,1769,1116
+Yarmouth,Town,Isle of Wight,East of England,50.70625,-1.49725,2,1769,485 497
+Aldermaston,Village,West Berkshire,South East,51.38189,-1.15168,2,1770,40 69
+Aylesbury,Town,Buckinghamshire,South East,51.81711,-0.81066,3,1770,24 27 159
+Banbury,Town,Oxfordshire,South East,52.06213,-1.3336,2,1770,160 165
+Barton,Village,Cambridgeshire,East of England,52.18209,0.05592,1,1770,504
+Bicester,Town,Oxfordshire,South East,51.89665,-1.15188,4,1770,27 162 168 179
+Bosley,Village,Cheshire East,West Midlands,53.19057,-2.12484,1,1770,629
+Brandon,Town,Suffolk,East of England,52.44777,0.62466,1,1770,504
+Burford,Town,Oxfordshire,South East,51.80765,-1.63671,4,1770,164 165 169 1134
+Butterton,Village,Staffordshire,West Midlands,53.10494,-1.88879,1,1770,590
+Chipping Norton,Town,Oxfordshire,South East,51.94128,-1.54584,1,1770,165
+Great Chell,Suburban Area,City of Stoke-on-Trent,West Midlands,53.07239,-2.18824,1,1770,600
+Hartington,Village,Derbyshire,West Midlands,53.14141,-1.80844,1,1770,590
+Hillington,Village,Norfolk,East of England,52.79943,0.55213,1,1770,487
+Kelham,Village,Nottinghamshire,East Midlands,53.09378,-0.84523,1,1770,411
+Lichfield,City,Staffordshire,West Midlands,52.68308,-1.82729,2,1770,606 628
+Limpsfield,Village,Surrey,South East,51.25931,0.01364,1,1770,198
+Longnor,Village,Staffordshire,West Midlands,53.18197,-1.86969,1,1770,590
+Louth,Town,Lincolnshire,East Midlands,53.36706,-0.00394,1,1770,352
+Mattishall,Village,Norfolk,East of England,52.65863,1.0341,1,1770,495
+Saltfleet,Village,Lincolnshire,East Midlands,53.42324,0.18401,1,1770,352
+Shelton,Suburban Area,City of Stoke-on-Trent,West Midlands,53.01295,-2.17991,1,1770,600
+Stoke Ferry,Village,Norfolk,East of England,52.5705,0.51318,1,1770,499
+Swaffham,Town,Norfolk,East of England,52.64867,0.68855,2,1770,494 495
+Thame,Town,Oxfordshire,South East,51.74822,-0.9795,4,1770,36 159 179 180
+Tunstall,Suburban Area,City of Stoke-on-Trent,West Midlands,53.05839,-2.21023,1,1770,629
+Upton,Suburban Area,Warwickshire,West Midlands,52.21683,-1.82387,1,1770,675
+Warslow,Village,Staffordshire,West Midlands,53.12477,-1.87325,1,1770,590
+Wellesbourne,Village,Warwickshire,West Midlands,52.19627,-1.59269,2,1770,675 678
+Whitchurch,Town,Hampshire,South East,51.2299,-1.33913,1,1770,69
+Bessels Leigh,Hamlet,Oxfordshire,South East,51.7146,-1.3395,1,1771,3
+Blythe Bridge,Village,Staffordshire,West Midlands,52.96451,-2.06526,1,1771,623
+Brough,Village,East Riding of Yorkshire,Yorkshire,53.72989,-0.57312,1,1771,750
+Bucknall,Suburban Area,City of Stoke-on-Trent,West Midlands,53.02518,-2.14406,1,1771,602
+Collingham,Village,Leeds,Yorkshire,53.90814,-1.41128,3,1771,807 847 873
+Elloughton,Village,East Riding of Yorkshire,Yorkshire,53.74004,-0.56884,1,1771,752
+Hanley,Suburban Area,City of Stoke-on-Trent,West Midlands,53.02861,-2.17469,1,1771,602
+Lane End,Hamlet,Telford and Wrekin,West Midlands,52.79505,-2.41532,1,1771,623
+Wanlip,Village,Leicestershire,East Midlands,52.69174,-1.11382,1,1771,334
+Wem,Town,Shropshire,West Midlands,52.8557,-2.72378,2,1771,579 580
+Abergavenny,Town,Sir Fynwy - Monmouthshire,West Midlands,51.82194,-3.01838,1,1772,538
+Barford,Village,Norfolk,East of England,52.62611,1.11965,1,1772,416
+Burlton,Village,Shropshire,West Midlands,52.82914,-2.80635,1,1772,549
+Cardington,Village,Bedford,East of England,52.11815,-0.41465,1,1772,417
+Crughywel,Town,Powys - Powys,West Midlands,51.85894,-3.13704,1,1772,538
+Downham,Hamlet,Norfolk,East of England,52.59258,1.12134,1,1772,482
+Fincham,Village,Norfolk,East of England,52.63155,0.49465,1,1772,482
+Kenilworth,Town,Warwickshire,West Midlands,52.34256,-1.5791,1,1772,671
+Leckford,Village,Hampshire,South East,51.13677,-1.4646,1,1772,9
+Llanymynech,Village,Powys - Powys,West Midlands,52.78097,-3.08871,1,1772,549
+Moretonhampstead,Town,Devon,South West,50.66103,-3.76484,1,1772,1095
+New Buckenham,Village,Norfolk,East of England,52.47176,1.07317,1,1772,490
+New Inn,Suburban Area,Torfaen - Torfaen,West Midlands,51.69194,-3.01167,1,1772,538
+St Neots,Town,Cambridgeshire,East of England,52.22788,-0.26938,1,1772,439
+Bingham,Town,Nottinghamshire,East Midlands,52.9513,-0.95286,1,1773,394
+Oakham,Town,Rutland,East Midlands,52.66983,-0.73007,1,1773,415
+Hockerton,Village,Nottinghamshire,East Midlands,53.10158,-0.93155,1,1774,399
+Kirklington,Village,Nottinghamshire,East Midlands,53.10856,-0.99292,1,1774,399
+Elsdon,Village,Northumberland,North East,55.23294,-2.10268,1,1776,734
+Abbotsbury,Village,Dorset,South West,50.66559,-2.59953,1,1777,1110
+Bywell,Hamlet,Northumberland,North East,54.95278,-1.92415,1,1777,721
+Gateshead,Town,Gateshead,North East,54.95991,-1.60495,1,1777,718
+Ovingham,Village,Northumberland,North East,54.96818,-1.86847,1,1777,721
+Penistone,Town,Barnsley,Yorkshire,53.52567,-1.63082,2,1777,835 866
+Alcester,Town,Warwickshire,West Midlands,52.21365,-1.87098,2,1778,639 659
+Alston,Town,Westmorland and Furness,North East,54.8125,-2.44138,2,1778,737 950
+Buildwas,Village,Shropshire,West Midlands,52.6385,-2.536,1,1778,555
+Ironbridge,Suburban Area,Telford and Wrekin,West Midlands,52.62788,-2.47984,1,1778,555
+Leighton,Village,Shropshire,West Midlands,52.64513,-2.57197,1,1778,555
+Maiden Newton,Village,Dorset,South West,50.7775,-2.57277,1,1778,1119
+Painswick,Town,Gloucestershire,South West,51.78604,-2.19501,2,1778,1140 1170
+Cookham,Other Settlement,Windsor and Maidenhead,South East,51.55788,-0.72448,1,1779,11
+Wotton-under-Edge,Town,Gloucestershire,South West,51.63769,-2.35164,1,1779,1130
+Dudbridge,Suburban Area,Gloucestershire,South West,51.73844,-2.2415,1,1780,1165
+Nailsworth,Town,Gloucestershire,South West,51.69386,-2.22022,1,1780,1165
+Woodchester,Village,Gloucestershire,South West,51.71788,-2.23416,1,1780,1165
+Hathersage,Village,Derbyshire,East Midlands,53.33026,-1.65496,2,1781,302 879
+Norton,Village,Nottinghamshire,East Midlands,53.24187,-1.14468,1,1781,302
+Owler Bar,Other Settlement,Derbyshire,East Midlands,53.29881,-1.55879,1,1781,302
+Wilmslow,Town,Cheshire East,North West,53.32612,-2.23146,3,1781,946 947 948
+Clifford,Village,County of Herefordshire,West Midlands,52.10425,-3.10255,2,1782,526 1136
+Monkland,Village,County of Herefordshire,West Midlands,52.21316,-2.79969,1,1782,534
+Tarporley,Village,Cheshire West and Chester,North West,53.15899,-2.66857,2,1782,942 943
+Newnham,Village,Gloucestershire,South West,51.8032,-2.45011,1,1783,1167
+Stonehouse,Town,Gloucestershire,South West,51.74592,-2.28244,1,1784,1103
+Bungay,Town,Suffolk,East of England,52.45614,1.43719,1,1785,511
+Darsham,Village,Suffolk,East of England,52.27644,1.53707,1,1785,511
+Ipswich,Town,Suffolk,East of England,52.05707,1.15283,6,1785,508 509 510 511 512 513
+Longden,Village,Shropshire,West Midlands,52.65311,-2.82454,1,1785,570
+Postcombe,Village,Oxfordshire,South East,51.69309,-0.97549,1,1785,180
+Rugby,Town,Warwickshire,West Midlands,52.37218,-1.26265,4,1785,665 666 667 668
+Frodsham,Town,Cheshire West and Chester,North West,53.29464,-2.72889,3,1786,908 909 917
+Higham,Village,Derbyshire,East Midlands,53.12587,-1.41842,1,1786,268
+Wilderspool,Suburban Area,Warrington,North West,53.37703,-2.58456,1,1786,917
+Wiveliscombe,Town,Somerset,South West,51.04237,-3.31271,1,1786,1207
+Epping,Town,Essex,East of England,51.69833,0.11058,1,1787,450
+Gainsborough,Town,Lincolnshire,East Midlands,53.40054,-0.77401,1,1787,397
+Neston,Town,Cheshire West and Chester,North West,53.28982,-3.06442,1,1787,913
+Retford,Town,Nottinghamshire,East Midlands,53.32263,-0.94246,3,1787,397 410 412
+Desford,Village,Leicestershire,East Midlands,52.62576,-1.29444,1,1788,315
+Hamstead,Suburban Area,Sandwell,West Midlands,52.53631,-1.94194,1,1788,634
+Pinxton,Village,Derbyshire,East Midlands,53.09442,-1.31889,1,1788,398
+Radnor,Hamlet,Cheshire East,West Midlands,53.17576,-2.25298,1,1788,528
+Aberford,Village,Leeds,Yorkshire,53.82978,-1.34296,1,1789,895
+Haslingden,Town,Lancashire,North West,53.70492,-2.32583,2,1789,989 1003
+Heaton,Suburban Area,Bolton,North West,53.58366,-2.46577,1,1789,982
+Heywood,Town,Rochdale,North West,53.59367,-2.22064,1,1789,982
+Norton,Suburban Area,Stockton-on-Tees,North East,54.59057,-1.31682,1,1789,704
+Prestbury,Village,Cheshire East,North West,53.28862,-2.1519,1,1789,915
+Whalley,Village,Lancashire,North West,53.82354,-2.40614,1,1789,993
+Bromham,Village,Bedford,South East,52.14931,-0.52726,1,1790,28
+Olney,Town,Milton Keynes,South East,52.15806,-0.70219,1,1790,28
+Barnham,Village,West Sussex,South East,50.82986,-0.63656,1,1791,88
+Cold Harbour,Hamlet,Wiltshire,South West,51.32718,-2.14633,1,1791,1234
+Cricklade,Town,Wiltshire,South West,51.64123,-1.85628,1,1791,1237
+Finmere,Village,Oxfordshire,South East,51.9911,-1.07514,1,1791,162
+Lyneham,Village,Wiltshire,South West,51.5071,-1.96559,1,1791,1213
+Aldeburgh,Town,Suffolk,East of England,52.15203,1.60134,2,1792,502 503
+Barham,Village,Kent,South East,51.20698,1.15727,1,1792,101
+Cranwich,Hamlet,Norfolk,East of England,52.52297,0.6211,1,1792,506
+Folkestone,Town,Kent,South East,51.08172,1.18028,1,1792,101
+Ford,Village,Northumberland,North East,55.63085,-2.08455,1,1792,735
+Lowick,Village,Northumberland,North East,55.65066,-1.97749,1,1792,735
+Saxmundham,Town,Suffolk,East of England,52.21373,1.49174,1,1792,503
+Swell,Hamlet,Somerset,South West,51.00634,-2.90098,1,1792,1179
+Thorney,Village,Nottinghamshire,East Midlands,53.25015,-0.71508,1,1792,385
+Winchcombe,Town,Gloucestershire,South West,51.95356,-1.9639,1,1792,1182
+Yoxford,Village,Suffolk,East of England,52.2672,1.50769,2,1792,502 503
+Ashford,Town,Kent,South East,51.14844,0.87109,3,1793,79 80 81
+Enstone,Village,Oxfordshire,South East,51.91829,-1.45563,1,1793,168
+Ham Street,Village,Somerset,South East,51.11217,-2.63439,1,1793,78
+Heage,Village,Derbyshire,East Midlands,53.05067,-1.44677,1,1793,288
+Kelso,Town,Scottish Borders,North East,55.59857,-2.43459,1,1793,738
+Kirtlington,Village,Oxfordshire,South East,51.87254,-1.27673,1,1793,168
+Little Bowden,Suburban Area,Leicestershire,East Midlands,52.47112,-0.91243,1,1793,371
+Lobley Hill,Suburban Area,Gateshead,North East,54.93913,-1.63418,1,1793,719
+Rockingham,Village,North Northamptonshire,East Midlands,52.51864,-0.7239,1,1793,371
+Sedgley,Town,Dudley,West Midlands,52.54127,-2.12207,1,1793,638
+Selby,Town,North Yorkshire,Yorkshire,53.78393,-1.06983,4,1793,796 813 855 877
+Sleaford,Town,Lincolnshire,East Midlands,52.99945,-0.41038,1,1793,354
+Stoke,Suburban Area,Coventry,West Midlands,52.40487,-1.46026,1,1793,632
+Tattershall,Village,Lincolnshire,East Midlands,53.10429,-0.19054,1,1793,354
+Thundersley,Other Settlement,Essex,East of England,51.56837,0.57671,1,1793,458
+Weston,Hamlet,West Berkshire,South East,51.46205,-1.42936,1,1793,168
+Wombourne,Other Settlement,Staffordshire,West Midlands,52.53124,-2.20072,1,1793,638
+Aylsham,Town,Norfolk,East of England,52.79501,1.25106,1,1794,481
+Burnstones,Hamlet,Northumberland,North East,54.88273,-2.50709,1,1794,730
+Cromer,Town,Norfolk,East of England,52.93125,1.29893,1,1794,481
+Edenfield,Village,Lancashire,North West,53.67462,-2.3059,1,1794,1034
+Hartshorne,Village,Derbyshire,East Midlands,52.78319,-1.51684,1,1794,330
+Longtown,Town,Cumberland,North West,55.00874,-2.97197,3,1794,952 965 966
+Moira,Village,Leicestershire,East Midlands,52.73793,-1.53207,1,1794,330
+Southam,Town,Warwickshire,West Midlands,52.2529,-1.3879,2,1794,657 669
+Weldon,Village,North Northamptonshire,East Midlands,52.496,-0.63555,1,1794,381
+Cotton End,Village,Bedford,East Midlands,52.09498,-0.41684,1,1795,386
+Preston Candover,Village,Hampshire,South East,51.17198,-1.13318,1,1795,46
+Princes Risborough,Town,Buckinghamshire,South East,51.72433,-0.83225,2,1795,25 36
+Ripponden,Village,Calderdale,North West,53.67474,-1.94132,1,1795,1025
+Tottington,Suburban Area,Bury,North West,53.61214,-2.34026,1,1795,991
+Arrington,Village,Cambridgeshire,East of England,52.13444,-0.06214,1,1797,430
+Atcham,Village,Shropshire,West Midlands,52.6796,-2.67886,1,1797,542
+Bamford,Suburban Area,Rochdale,North West,53.61439,-2.20806,1,1797,1036
+Chelford,Village,Cheshire East,North West,53.27088,-2.28283,1,1797,920
+Deal,Town,Kent,South East,51.22272,1.39997,1,1797,96
+Dorrington,Village,Shropshire,West Midlands,52.62271,-2.77289,1,1797,542
+Holmes Chapel,Village,Cheshire East,North West,53.20248,-2.35767,1,1797,920
+Little Bolton,Suburban Area,Salford,North West,53.48416,-2.32286,1,1797,997
+Sandwich,Town,Kent,South East,51.27488,1.33965,4,1797,90 96 97 118
+Rocester,Village,Staffordshire,West Midlands,52.9513,-1.84105,1,1799,593
+Charlbury,Town,Oxfordshire,South East,51.87271,-1.48244,1,1800,166
+Lightpill,Suburban Area,Gloucestershire,South West,51.73056,-2.23023,1,1800,1160
+Platt Bridge,Village,Wigan,North West,53.52029,-2.59863,1,1800,971
+Harrow,Other Settlement,Greater London,South East,51.57077,-0.33948,1,1801,151
+Houghton,Village,Cumberland,North West,54.92438,-2.92389,1,1801,1038
+London,City,Greater London,South East,51.50741,-0.12772,1,1801,54
+Marple Bridge,Village,Stockport,North West,53.40174,-2.05393,1,1801,941
+Paddington,Other Settlement,Greater London,South East,51.51596,-0.17498,1,1801,151
+Sharples,Suburban Area,Bolton,North West,53.6012,-2.43881,1,1801,1038
+Barcheston,Hamlet,Warwickshire,South East,52.05764,-1.61417,1,1802,160
+Eye,Town,Suffolk,East Midlands,52.32103,1.14641,2,1802,364 523
+Great Staughton,Village,Cambridgeshire,East of England,52.26823,-0.34529,1,1802,424
+Lavendon,Village,Milton Keynes,East of England,52.17305,-0.66107,1,1802,424
+Newent,Town,Gloucestershire,South West,51.93061,-2.40588,1,1802,1166
+Ramsgate,Town,Kent,South East,51.33465,1.41804,2,1802,89 118
+Woodbridge,Town,Suffolk,East of England,52.09317,1.31873,1,1802,523
+Yarm,Town,Stockton-on-Tees,Yorkshire,54.50897,-1.35429,1,1802,778
+Arundel,Town,West Sussex,South East,50.85427,-0.55387,1,1803,214
+Bury,Village,West Sussex,South East,50.90932,-0.56327,1,1803,214
+Glossop,Town,Derbyshire,East Midlands,53.44329,-1.94888,5,1803,291 292 293 305 306
+Harwell,Village,Oxfordshire,South East,51.59885,-1.29204,1,1803,6
+Ilminster,Town,Somerset,South West,50.92831,-2.91396,2,1803,1091 1195
+Long Preston,Village,North Yorkshire,Yorkshire,54.0194,-2.25481,2,1803,863 1002
+Petworth,Town,West Sussex,South East,50.98559,-0.60849,2,1803,214 246
+Scartho,Suburban Area,North East Lincolnshire,East Midlands,53.53588,-0.09559,1,1803,353
+Streatley,Village,West Berkshire,South East,51.52275,-1.14642,1,1803,6
+Bridge End,Other Settlement,Lincolnshire,East Midlands,52.91162,-0.3016,1,1804,337
+Cromford,Village,Derbyshire,East Midlands,53.10814,-1.56091,2,1804,279 280
+Eccles,Town,Salford,North West,53.48288,-2.33804,2,1804,974 1004
+Farnworth,Town,Bolton,North West,53.5505,-2.39579,1,1804,974
+Moses Gate,Suburban Area,Bolton,North West,53.55528,-2.4024,1,1804,973
+Swaton,Village,Lincolnshire,East Midlands,52.92153,-0.31879,1,1804,337
+Worsley,Town,Salford,North West,53.50484,-2.38664,1,1804,975
+Langsett,Village,Barnsley,Yorkshire,53.50055,-1.68047,2,1805,893 894
+Shaw,Town,Oldham,North West,53.57839,-2.09511,1,1805,995
+Wadsley,Suburban Area,Sheffield,Yorkshire,53.41072,-1.52081,2,1805,893 894
+Cleckheaton,Town,Kirklees,Yorkshire,53.72339,-1.71356,1,1806,861
+Kingstown,Suburban Area,Cumberland,North West,54.92498,-2.95329,1,1806,963
+Liversedge,Town,Kirklees,Yorkshire,53.71071,-1.69858,1,1806,861
+Brampton,Town,Cumberland,North West,54.94217,-2.73457,2,1807,952 954
+Croydon,Other Settlement,Greater London,South East,51.37364,-0.10024,1,1807,186
+Margate,Town,Kent,South East,51.38744,1.38076,1,1807,118
+Millfield,Suburban Area,Sunderland,North East,54.90772,-1.40427,1,1807,742
+Ashover,Village,Derbyshire,East Midlands,53.16728,-1.48052,1,1808,309
+Roundhay,Suburban Area,Leeds,Yorkshire,53.83307,-1.49639,2,1808,854 873
+Tupton,Village,Derbyshire,East Midlands,53.18904,-1.40903,1,1808,309
+Abbots Bromley,Village,Staffordshire,West Midlands,52.81719,-1.87725,1,1809,589
+Chilham,Village,Kent,South East,51.24413,0.96221,1,1809,122
+Gloucester,City,Gloucestershire,South West,51.86455,-2.24693,2,1809,1139 1177
+Handsworth,Suburban Area,Birmingham,West Midlands,52.50974,-1.94961,1,1809,601
+Ightham,Village,Kent,South East,51.2871,0.28653,2,1809,107 126
+Kent,Hamlet,Hampshire,South East,50.89269,-1.80317,2,1809,194 201
+Pinner,Other Settlement,Greater London,South East,51.59382,-0.38215,1,1809,152
+Rickmansworth,Town,Hertfordshire,South East,51.63884,-0.46918,1,1809,152
+Southwark,Other Settlement,Greater London,South East,51.50275,-0.09682,1,1809,201
+Swinton,Other Settlement,Rotherham,Yorkshire,53.48698,-1.3128,2,1809,871 886
+Budby,Hamlet,Nottinghamshire,East Midlands,53.22392,-1.07611,1,1810,395
+Chelsfield,Village,Greater London,South East,51.35731,0.12782,1,1810,120
+Cleeve,Village,North Somerset,South West,51.38883,-2.78766,1,1810,1149
+Cosham,Suburban Area,City of Portsmouth,South East,50.84655,-1.06415,2,1810,68 216
+Elton,Suburban Area,Bury,North West,53.59291,-2.31527,1,1810,998
+Mill Lane,Village,Hampshire,South East,51.24662,-0.87586,1,1810,55
+Park Gate,Village,Hampshire,South East,50.87336,-1.26771,1,1810,55
+Shoreham,Village,Kent,South East,51.33337,0.17986,2,1810,120 211
+Shotley Bridge,Suburban Area,County Durham,North East,54.87054,-1.85188,2,1810,712 713
+St Cross,Suburban Area,Hampshire,South East,51.05019,-1.32265,1,1810,55
+Thorney,Village,City of Peterborough,East of England,52.62136,-0.10814,1,1810,442
+Titchfield,Village,Hampshire,South East,50.84909,-1.23435,1,1810,68
+Bakewell,Town,Derbyshire,East Midlands,53.21295,-1.67571,1,1811,294
+Bentley,Town,Doncaster,East Midlands,53.54621,-1.14651,1,1811,294
+Haddon,Hamlet,Cambridgeshire,East Midlands,52.52028,-0.32852,1,1811,294
+Sandford,Hamlet,Shropshire,West Midlands,52.90226,-2.62614,1,1811,579
+Sawley,Village,North Yorkshire,Yorkshire,54.10502,-1.62099,1,1811,863
+Blackwell,Village,Derbyshire,East Midlands,53.12005,-1.35578,1,1812,308
+Debenham,Village,Suffolk,East of England,52.22458,1.18142,2,1812,508 509
+Dore,Suburban Area,Sheffield,Yorkshire,53.32798,-1.53604,1,1812,820
+Ecclesall,Suburban Area,Sheffield,Yorkshire,53.35757,-1.51285,2,1812,820 821
+Edensor,Village,Derbyshire,East Midlands,53.22656,-1.62492,1,1812,308
+Helmingham,Hamlet,Suffolk,East of England,52.1692,1.19815,2,1812,508 510
+Highbury,Suburban Area,Greater London,South East,51.55563,-0.09961,1,1812,150
+Ockley,Village,Surrey,South East,51.15307,-0.35698,1,1812,199
+Shoreditch,Suburban Area,Greater London,South East,51.52468,-0.08394,2,1812,150 153
+Stratford St Mary,Village,Suffolk,East of England,51.96959,0.97611,1,1812,512
+Tideswell,Village,Derbyshire,East Midlands,53.27794,-1.77388,1,1812,308
+Warnham,Village,West Sussex,South East,51.08945,-0.34882,1,1812,199
+Cullompton,Town,Devon,South West,50.8552,-3.39276,2,1813,1083 1101
+Wolvey,Village,Warwickshire,West Midlands,52.48671,-1.36908,1,1813,656
+Burscough Bridge,Village,Lancashire,North West,53.6043,-2.84134,1,1814,972
+Chalford,Village,Gloucestershire,South West,51.72605,-2.15052,1,1814,1176
+Herne Bay,Town,Kent,South East,51.37127,1.1263,1,1814,106
+Hungerford,Hamlet,Somerset,South West,51.15398,-3.36521,1,1814,1235
+Morpeth,Town,Northumberland,North East,55.16749,-1.69074,1,1814,744
+Potton,Town,Central Bedfordshire,East of England,52.12783,-0.21372,3,1814,428 443 444
+Sapcote,Village,Leicestershire,East Midlands,52.53656,-1.2807,1,1814,332
+Sapperton,Village,Gloucestershire,South West,51.72876,-2.07704,1,1814,1176
+Mytholmroyd,Village,Calderdale,Yorkshire,53.73067,-1.98247,1,1815,865
+Stanhope,Town,County Durham,North East,54.74909,-2.01176,1,1815,716
+Gatton,Village,Surrey,South East,51.26351,-0.17191,1,1816,189
+Sidmouth,Town,Devon,South West,50.68228,-3.23838,2,1816,1092 1101
+Worfield,Village,Shropshire,West Midlands,52.55963,-2.35911,1,1816,697
+Belper,Town,Derbyshire,East Midlands,53.02328,-1.48129,1,1817,279
+Chipping Campden,Town,Gloucestershire,West Midlands,52.05027,-1.78177,2,1817,693 1142
+Coalbrookdale,Suburban Area,Telford and Wrekin,West Midlands,52.64126,-2.49144,1,1817,552
+Crowland,Town,Lincolnshire,East Midlands,52.6758,-0.16837,1,1817,364
+Middleton,Suburban Area,Hartlepool,North East,54.69337,-1.19633,1,1817,720
+Middleton,Town,Rochdale,North West,53.55047,-2.19733,1,1817,1053
+Wellington,Suburban Area,Telford and Wrekin,West Midlands,52.70071,-2.51526,1,1817,552
+Carnforth,Town,Lancashire,North West,54.12887,-2.76747,1,1818,1044
+Greenwich,Other Settlement,Greater London,South East,51.47869,-0.01082,1,1818,105
+Hyde,Town,Tameside,North West,53.45131,-2.07981,2,1818,921 922
+Lockwood,Suburban Area,Kirklees,Yorkshire,53.63163,-1.79798,1,1818,862
+Meltham,Town,Kirklees,Yorkshire,53.59185,-1.85061,2,1818,787 862
+Ulverston,Town,Westmorland and Furness,North West,54.1954,-3.09257,2,1818,1044 1060
+Woolwich,Other Settlement,Greater London,South East,51.49047,0.06346,1,1818,105
+Barnsdale,Hamlet,Rutland,Yorkshire,52.67158,-0.66356,1,1819,791
+Runcorn,Town,Halton,North West,53.34171,-2.7313,1,1819,934
+Dawlish,Town,Devon,South West,50.58192,-3.46959,1,1823,1107
+Fakenham,Town,Norfolk,East of England,52.83007,0.84715,2,1823,492 501
+Greenfield,Other Settlement,Calderdale,Yorkshire,53.66301,-1.88347,1,1823,826
+Low Moor,Suburban Area,Bradford,Yorkshire,53.75323,-1.77014,1,1823,904
+Teignmouth,Town,Devon,South West,50.5459,-3.49565,1,1823,1107
+Wibsey,Suburban Area,Bradford,Yorkshire,53.76662,-1.77696,1,1823,904
+Alrewas,Village,Staffordshire,West Midlands,52.73275,-1.74937,1,1824,616
+Ambleside,Town,Westmorland and Furness,North West,54.4326,-2.96312,1,1824,1049
+Broadway,Village,Worcestershire,West Midlands,52.03604,-1.86043,1,1824,693
+Broadway,Village,Somerset,South West,50.93426,-2.96855,1,1824,1133
+Broughton,Village,North Yorkshire,Yorkshire,53.95509,-2.0928,1,1824,808
+Camden Town,Other Settlement,Greater London,South East,51.53902,-0.14269,1,1824,139
+Cerne Abbas,Village,Dorset,South West,50.80878,-2.47709,1,1824,1115
+Colne,Town,Lancashire,Yorkshire,53.85737,-2.16417,2,1824,802 808
+Heckmondwike,Town,Kirklees,Yorkshire,53.70712,-1.67439,2,1824,803 833
+Holloway,Village,Windsor and Maidenhead,South East,51.51736,-0.78487,1,1824,139
+Kingsbridge,Town,Devon,South West,50.28383,-3.77702,1,1824,1093
+Littleborough,Hamlet,Nottinghamshire,East Midlands,53.33306,-0.76362,1,1824,410
+Littleport,Village,Cambridgeshire,East of England,52.45681,0.30458,3,1824,433 515 518
+Mickleton,Village,Gloucestershire,West Midlands,52.08935,-1.76783,2,1824,693 1133
+Welney,Village,Norfolk,East of England,52.5243,0.24375,1,1824,433
+Almondbury,Suburban Area,Kirklees,Yorkshire,53.63541,-1.74839,1,1825,786
+Ashton-under-Lyne,Town,Tameside,North West,53.49033,-2.0938,2,1825,1014 1032
+Brighouse,Town,Calderdale,Yorkshire,53.7023,-1.7849,2,1825,804 805
+Brompton,Suburban Area,Greater London,South East,51.49374,-0.17167,1,1825,138
+Denby Dale,Village,Kirklees,Yorkshire,53.57299,-1.65555,1,1825,897
+Denholme Gate,Suburban Area,Bradford,Yorkshire,53.78751,-1.89437,1,1825,805
+Ditton Priors,Village,Shropshire,West Midlands,52.49892,-2.57761,1,1825,551
+Eccleshill,Suburban Area,Bradford,Yorkshire,53.82047,-1.72697,1,1825,799
+Fulham,Other Settlement,Greater London,South East,51.47163,-0.21125,1,1825,138
+Gravesend,Town,Kent,South East,51.44251,0.36937,1,1825,104
+Hawes,Village,North Yorkshire,North West,54.30375,-2.19405,1,1825,1057
+Ilkley,Town,Bradford,Yorkshire,53.92449,-1.82314,1,1825,842
+Kirkby Stephen,Town,Westmorland and Furness,North West,54.47444,-2.34907,1,1825,1057
+Kirkstall,Suburban Area,Leeds,Yorkshire,53.82148,-1.60406,2,1825,842 843
+Maryport,Town,Cumberland,North West,54.71444,-3.49953,1,1825,959
+Penwortham,Other Settlement,Lancashire,North West,53.74954,-2.73259,1,1825,1027
+Pershore,Town,Worcestershire,West Midlands,52.11164,-2.0757,1,1825,695
+Petersfield,Town,Hampshire,South East,51.00395,-0.93771,3,1825,51 59 76
+Pontefract,Town,Wakefield,Yorkshire,53.69237,-1.30964,2,1825,793 901
+Redditch,Town,Worcestershire,West Midlands,52.30693,-1.94152,1,1825,695
+Shipley,Town,Bradford,Yorkshire,53.8339,-1.77862,4,1825,842 843 880 881
+Thorne,Town,Doncaster,Yorkshire,53.61104,-0.96095,1,1825,815
+Thornton,Village,Bradford,Yorkshire,53.79043,-1.85197,1,1825,800
+Wellington,Village,Cumberland,Yorkshire,54.42194,-3.42207,1,1825,902
+Whitehall,Suburban Area,Blackburn with Darwen,Yorkshire,53.68109,-2.45927,1,1825,858
+Wrightington,Hamlet,Lancashire,North West,53.60591,-2.71662,1,1825,1027
+Alnwick,Town,Northumberland,North East,55.41162,-1.70563,1,1826,729
+Arrow,Village,Warwickshire,West Midlands,52.20643,-1.88444,1,1826,642
+Ashcott,Village,Somerset,South West,51.12912,-2.81063,1,1826,1192
+Barnby Moor,Village,Nottinghamshire,Yorkshire,53.35248,-1.00568,2,1826,790 864
+Birkenhead,Town,Wirral,North West,53.39385,-3.01449,1,1826,918
+Bramley,Suburban Area,Leeds,Yorkshire,53.80881,-1.63227,1,1826,880
+Crabbs Cross,Suburban Area,Worcestershire,West Midlands,52.27774,-1.93894,1,1826,642
+Dunnington,Village,Warwickshire,West Midlands,52.18144,-1.90132,1,1826,642
+Edlingham,Hamlet,Northumberland,North East,55.37529,-1.82227,1,1826,729
+Finchley,Other Settlement,Greater London,South East,51.60038,-0.19486,1,1826,148
+Fosdyke,Village,Lincolnshire,East Midlands,52.88008,-0.04552,1,1826,359
+Godalming,Town,Surrey,South East,51.18549,-0.61416,1,1826,190
+Gomersal,Village,Kirklees,Yorkshire,53.72982,-1.68403,1,1826,825
+High Ham,Village,Somerset,South West,51.07413,-2.81886,1,1826,1192
+Hinderton,Suburban Area,Cheshire West and Chester,North West,53.29356,-3.04538,1,1826,918
+Lancing,Other Settlement,West Sussex,South East,50.82688,-0.32278,2,1826,211 265
+Little Neston,Suburban Area,Cheshire West and Chester,North West,53.28123,-3.05731,1,1826,919
+Marylebone,Suburban Area,Greater London,South East,51.51892,-0.14967,1,1826,148
+Swineshead,Village,Lincolnshire,East Midlands,52.94558,-0.15993,1,1826,359
+Theale,Village,West Berkshire,South East,51.43702,-1.0769,2,1826,20 22
+Twyford,Village,Wokingham,South East,51.47748,-0.86687,1,1826,22
+Wimpole,Village,Cambridgeshire,East of England,52.13087,-0.03205,1,1826,444
+Worthing,Town,West Sussex,South East,50.81426,-0.37122,2,1826,264 265
+Wrestlingworth,Village,Central Bedfordshire,East of England,52.11097,-0.16473,2,1826,443 444
+Cannock,Town,Staffordshire,West Midlands,52.68995,-2.03317,1,1827,614
+Temple Normanton,Village,Derbyshire,East Midlands,53.20333,-1.37394,1,1827,307
+Wedmore,Village,Somerset,South West,51.22808,-2.80894,1,1827,1201
+Allington,Suburban Area,Dorset,South West,50.73723,-2.76447,1,1828,1184
+Broadwindsor,Village,Dorset,South West,50.81994,-2.79863,1,1828,1114
+Earl's Court,Suburban Area,Greater London,South East,51.49292,-0.19587,1,1828,142
+Hunslet,Suburban Area,Leeds,Yorkshire,53.77878,-1.53698,1,1828,837
+Lakenheath,Village,Suffolk,East of England,52.41704,0.51845,1,1828,514
+Mildenhall,Town,Suffolk,East of England,52.34443,0.51092,2,1828,515 518
+Braunton,Village,Devon,South West,51.10848,-4.16131,1,1829,1079
+Woodhouse Carr,Suburban Area,Leeds,Yorkshire,53.81231,-1.5476,1,1829,860
+Acle,Village,Norfolk,East of England,52.63944,1.54816,2,1830,484 485
+Allesley,Suburban Area,Coventry,West Midlands,52.43042,-1.56933,1,1830,640
+Great Yarmouth,Town,Norfolk,East of England,52.60819,1.72714,1,1830,484
+Werneth,Suburban Area,Oldham,North West,53.5347,-2.13085,1,1830,1047
+Chudleigh,Town,Devon,South West,50.60498,-3.60051,1,1831,1106
+Middleton Tyas,Village,North Yorkshire,North East,54.44644,-1.65255,1,1831,711
+Stoney Stanton,Village,Leicestershire,West Midlands,52.54802,-1.27772,1,1831,654
+Tedburn St Mary,Village,Devon,South West,50.73491,-3.6812,1,1831,1106
+Exmouth,Town,Devon,South West,50.61873,-3.41242,1,1832,1088
+Prestwich,Other Settlement,Bury,North West,53.53361,-2.28586,1,1832,1029
+Fisher's Pond,Village,Hampshire,South East,50.98697,-1.30607,1,1833,47
+Winlaton,Suburban Area,Gateshead,North East,54.95452,-1.72397,1,1833,712
+Churchstoke,Village,Powys - Powys,West Midlands,52.53914,-3.07536,1,1834,560
+Middlewich,Town,Cheshire East,North West,53.19213,-2.44425,1,1835,930
+Roche,Village,Cornwall,South West,50.40727,-4.83397,1,1835,1062
+Sandbach,Town,Cheshire East,North West,53.14445,-2.36379,1,1835,935
+Ottringham,Village,East Riding of Yorkshire,Yorkshire,53.70709,-0.07709,1,1836,759
+Sunk Island,Other Settlement,East Riding of Yorkshire,Yorkshire,53.6517,-0.08402,1,1836,759
+Combe Martin,Village,Devon,South West,51.20153,-4.02779,2,1838,1080 1081
+Weston-super-Mare,Town,North Somerset,South West,51.3461,-2.97634,1,1840,1205
+Worle,Suburban Area,North Somerset,South West,51.3625,-2.92403,1,1840,1205
+Cheddar,Village,Somerset,South West,51.27544,-2.77658,1,1841,1203
+Christchurch,Town,"Bournemouth, Christchurch and Poole",South East,50.73837,-1.78181,1,1841,49
+Highbridge,Town,Somerset,South West,51.22172,-2.97512,1,1841,1203
+Puddletown,Village,Dorset,South West,50.74797,-2.34553,1,1841,1121
+Kineton,Village,Warwickshire,West Midlands,52.1566,-1.51114,1,1852,669
+Penzance,Town,Cornwall,South West,50.11844,-5.53927,1,1863,1071
+Ilfracombe,Town,Devon,South West,51.20634,-4.12582,1,1866,1081
+Bampton,Village,Westmorland and Furness,Yorkshire,54.55731,-2.75253,1,,789
+Barnhill,Hamlet,Cheshire West and Chester,North West,53.08835,-2.76922,1,,949
+Battle,Town,East Sussex,South East,50.91846,0.48229,1,,212
+Beckington,Village,Somerset,South West,51.26519,-2.28706,1,,1240
+Belford,Village,Northumberland,North East,55.59858,-1.82898,1,,731
+Bethnal Green,Other Settlement,Greater London,South East,51.52747,-0.05596,1,,137
+Billingshurst,Village,West Sussex,South East,51.02302,-0.45164,1,,207
+Botley,Village,Buckinghamshire,South East,51.71022,-0.57767,1,,163
+Box,Village,Wiltshire,South West,51.41524,-2.25235,1,,1232
+Brede,Village,East Sussex,South East,50.9359,0.59739,1,,208
+Brighton,Other Settlement,The City of Brighton and Hove,South East,50.82237,-0.13768,6,,209 210 211 225 237 243
+Broadbridge Heath,Village,West Sussex,South East,51.07147,-0.36325,1,,207
+Bromley,Suburban Area,Greater London,South East,51.52506,-0.01985,1,,87
+Burwash,Village,East Sussex,South East,50.9976,0.38589,2,,213 220
+Chadderton,Town,Oldham,Yorkshire,53.54442,-2.13835,1,,806
+Chichester,City,West Sussex,South East,50.8365,-0.77902,2,,215 216
+Church Street,Hamlet,Kent,South East,51.44008,0.46824,1,,137
+Clayton,Village,West Sussex,South East,50.90936,-0.14649,1,,219
+Cleobury Mortimer,Town,Shropshire,West Midlands,52.37852,-2.48414,1,,550
+Cowfold,Village,West Sussex,South East,50.98978,-0.27251,1,,217
+Crawley,Town,West Sussex,South East,51.11448,-0.18823,1,,231
+Crudwell,Village,Wiltshire,South West,51.63229,-2.07257,1,,1217
+Cuckfield,Town,West Sussex,South East,51.0077,-0.14164,4,,210 226 228 235
+Denton,Town,Tameside,North West,53.4562,-2.11378,1,,1023
+Dorking,Town,Surrey,South East,51.23284,-0.32986,1,,232
+Dudley Hill,Suburban Area,Bradford,Yorkshire,53.77678,-1.72322,1,,819
+Eastbourne,Town,East Sussex,South East,50.76644,0.27813,1,,238
+Etchingham,Village,East Sussex,South East,51.00964,0.43937,1,,220
+Ewhurst,Village,Surrey,South East,51.15054,-0.4401,1,,221
+Fernhurst,Village,West Sussex,South East,51.04865,-0.72281,1,,215
+Five Oaks,Village,West Sussex,South East,51.04946,-0.43197,1,,222
+Fyfield,Village,Oxfordshire,South East,51.68564,-1.39058,1,,163
+Grindleford,Village,Derbyshire,Yorkshire,53.29432,-1.63721,1,,866
+Hadlow,Village,Kent,South East,51.22451,0.33942,1,,130
+Hailsham,Town,East Sussex,South East,50.86467,0.25787,1,,238
+Hastings,Town,East Sussex,South East,50.85633,0.58122,2,,223 227
+Heathfield,Town,East Sussex,South East,50.9714,0.25076,1,,205
+Henfield,Village,West Sussex,South East,50.93192,-0.27225,3,,217 224 225
+Heversham,Village,Westmorland and Furness,North West,54.24061,-2.77339,1,,1060
+Hickstead,Other Settlement,West Sussex,South East,50.96806,-0.19507,1,,248
+Hollington,Suburban Area,East Sussex,South East,50.87405,0.54714,1,,227
+Hooton Roberts,Village,Rotherham,Yorkshire,53.4672,-1.27765,1,,886
+Horley,Town,Surrey,South East,51.17174,-0.16364,1,,228
+Horsebridge,Hamlet,Hampshire,South East,51.07178,-1.50809,1,,230
+Horsham,Town,West Sussex,South East,51.0621,-0.3281,6,,230 231 232 233 234 247
+Hurst Green,Village,East Sussex,South East,51.01783,0.47033,1,,249
+Hurstpierpoint,Village,West Sussex,South East,50.93382,-0.17962,2,,235 236
+Islip,Village,Oxfordshire,South East,51.82274,-1.23803,1,,173
+Keswick,Town,Cumberland,North West,54.60154,-3.13856,1,,962
+Killinghall,Village,North Yorkshire,Yorkshire,54.02337,-1.56458,1,,819
+Lewes,Town,East Sussex,South East,50.87314,0.0104,2,,237 238
+Maltby,Town,Rotherham,Yorkshire,53.42313,-1.20195,1,,864
+Market Weighton,Town,East Riding of Yorkshire,Yorkshire,53.86498,-0.66829,1,,877
+Mayfield,Village,East Sussex,South East,51.02017,0.259,2,,240 262
+Mexborough,Town,Doncaster,Yorkshire,53.49421,-1.29416,1,,789
+Midhurst,Town,West Sussex,South East,50.98551,-0.74003,1,,241
+Milford,Village,Surrey,South East,51.1728,-0.64761,1,,242
+Newhaven,Town,East Sussex,South East,50.7935,0.04712,1,,209
+Newlands,Suburban Area,Milton Keynes,South East,52.05117,-0.72706,1,,163
+Old Shoreham,Other Settlement,West Sussex,South East,50.83887,-0.28972,1,,206
+Orlestone,Hamlet,Kent,South East,51.07652,0.84755,1,,80
+Overbury,Village,Worcestershire,West Midlands,52.035,-2.06259,1,,694
+Peckham,Suburban Area,Greater London,South East,51.47513,-0.06844,1,,130
+Preston,Village,Gloucestershire,South West,51.70667,-1.93389,1,,1134
+Pulborough,Village,West Sussex,South East,50.95741,-0.50195,1,,247
+Pyecombe,Village,West Sussex,South East,50.89876,-0.1639,1,,248
+Rawmarsh,Town,Rotherham,Yorkshire,53.46168,-1.34436,1,,886
+Ringmer,Village,East Sussex,South East,50.89321,0.05536,1,,249
+Rowhook,Hamlet,West Sussex,South East,51.09569,-0.39797,1,,251
+Royal Tunbridge Wells,Town,Kent,South East,51.13333,0.26353,3,,128 262 263
+Rye,Town,East Sussex,South East,50.95115,0.73364,1,,252
+Salterhebble,Suburban Area,Calderdale,Yorkshire,53.70176,-1.85143,1,,875
+Sandhurst,Town,Bracknell Forest,South East,51.34655,-0.80327,1,,92
+Sheepscar,Suburban Area,Leeds,Yorkshire,53.80923,-1.53093,1,,878
+Shipley,Village,West Sussex,South East,50.98535,-0.37077,1,,253
+Snodland,Town,Kent,South East,51.33009,0.44248,1,,121
+Sowerby Bridge,Town,Calderdale,Yorkshire,53.70528,-1.93737,1,,875
+St Arvans,Village,Sir Fynwy - Monmouthshire,South West,51.66761,-2.70033,1,,1172
+St Leonards,Village,Buckinghamshire,South East,51.7556,-0.68256,1,,256
+Stainland,Village,Calderdale,Yorkshire,53.67102,-1.8839,1,,875
+Staplecross,Village,East Sussex,South East,50.97359,0.53612,1,,257
+Steyning,Town,West Sussex,South East,50.88886,-0.32978,1,,234
+Stoke,Village,Hampshire,South East,50.81694,-0.97962,1,,258
+Stonegate,Village,East Sussex,South East,51.03177,0.37762,1,,259
+Storrington,Village,West Sussex,South East,50.9178,-0.45409,2,,260 261
+Sudbury,Village,Derbyshire,East Midlands,52.88552,-1.76212,1,,271
+Thornsett,Village,Derbyshire,Yorkshire,53.37979,-1.98257,1,,874
+Ticehurst,Village,East Sussex,South East,51.04672,0.40818,1,,213
+Titsey,Hamlet,Surrey,South East,51.27619,0.01835,1,,132
+Uckfield,Town,East Sussex,South East,50.96949,0.09594,3,,128 229 263
+Warehorne,Village,Kent,South East,51.05777,0.83788,1,,124
+Wiston,Hamlet,West Sussex,South East,50.91604,-0.37399,1,,261
+Wych Cross,Other Settlement,East Sussex,South East,51.06999,0.02477,1,,239

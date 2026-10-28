@@ -1,0 +1,1246 @@
+id,region,county,trust,year,act,source,n_words,n_placed,placed
+1,South East,Berkshire,Abingdon and Fyfield Turnpike Trust,1755,Oxford and Buckinghamshire Roads Act 1755,wikitext,2,0,
+2,South East,Berkshire,"Abingdon, Wootton to Swinford Turnpike Trust",1768,Abingdon to Swinford Road Act 1768,wikitext,3,2,Swinford=Swinford; Wootton=Wootton
+3,South East,Berkshire,Besselsleigh Turnpike Trust,1771,Berkshire and Wiltshire Roads Act 1771,wikitext,1,1,Besselsleigh=Bessels Leigh
+4,South East,Berkshire,Chilton Pond and Abingdon Turnpike Trust,1756,Berkshire Roads (No. 2) Act 1756,wikitext,2,0,
+5,South East,Berkshire,"Fyfield, Newbridge and St John's Bridge Turnpike Trust",1732,Fyfield and St. John's Bridge Road Act 1732,wikitext,3,0,
+6,South East,Berkshire,Harwell and Streatley Turnpike Trust,1803,Harwell Road (Berkshire) Act 1803,wikitext,2,2,Harwell=Harwell; Streatley=Streatley
+7,South East,Berkshire,Hinksey Road Turnpike Trust,1756,Berkshire Roads (No. 2) Act 1756,wikitext,1,0,
+8,South East,Berkshire,Hurley Turnpike Trust,1717,"Maidenhead, Twyford and Henley Roads Act 1717",wikitext,1,1,Hurley=Hurley
+9,South East,Berkshire,Leckford or Sousley Water Turnpike Trust,1772,Wiltshire Roads (No. 2) Act 1772,wikitext,2,1,Leckford=Leckford
+10,South East,Berkshire,Maidenhead Turnpike Trust,1717,"Maidenhead, Twyford and Henley Roads Act 1717",wikitext,1,1,Maidenhead=Maidenhead
+11,South East,Berkshire,Maidenhead to Cookham Turnpike Trust,1779,Maidenhead Roads Act 1779,wikitext,2,2,Maidenhead=Maidenhead; Cookham=Cookham
+12,South East,Berkshire,New Windsor and Twyford Turnpike Trust,1832,New Windsor and Twyford Road Act 1832,wikitext,2,0,
+13,South East,Berkshire,New Windsor to Datchet Turnpike Trust,1801,"New Windsor, Longford and Datchet Roads Act 1801",wikitext,2,1,Datchet=Datchet
+14,South East,Berkshire,Reading and Basingstoke Turnpike Trust,1717,Reading and Basingstoke Road Act 1717,wikitext,2,2,Reading=Reading; Basingstoke=Basingstoke
+15,South East,Berkshire,Reading to Puntfield Turnpike Trust,1713,Berkshire Highways Act 1713,wikitext,2,1,Reading=Reading
+16,South East,Berkshire,Shillingford and Reading Turnpike Trust,1764,Shillingford Roads and Bridge Act 1764,wikitext,2,2,Shillingford=Shillingford; Reading=Reading
+17,South East,Berkshire,Speenhamland to Marlborough Turnpike Trust,1725,Newbury to Marlborough Road Act 1725,wikitext,2,2,Speenhamland=Speenhamland; Marlborough=Marlborough
+18,South East,Berkshire,Speenhamland to Reading Turnpike Trust,1713,Berkshire Highways Act 1713,wikitext,2,2,Speenhamland=Speenhamland; Reading=Reading
+19,South East,Berkshire,Sunning-Lane End to Reading Turnpike Trust,1735,Berkshire Roads Act 1735,wikitext,2,1,Reading=Reading
+20,South East,Berkshire,Theale Road Turnpike Trust,,,wikitext,1,1,Theale=Theale
+21,South East,Berkshire,Twyford Turnpike Trust,,,wikitext,1,0,
+22,South East,Berkshire,Twyford and Theale Turnpike Trust,1826,"Ruscombe, Reading and Beenham Road Act 1826",wikitext,2,2,Theale=Theale; Twyford=Twyford
+23,South East,Berkshire,"Wallingford, Wantage and Faringdon Turnpike Trust",1751,Berkshire Roads Act 1751,wikitext,3,3,Wallingford=Wallingford; Wantage=Wantage; Faringdon=Faringdon
+24,South East,Buckinghamshire,Aylesbury and Hockliffe Turnpike Trust,1810,Aylesbury and Hockliffe Road Act 1810,wikitext,2,2,Aylesbury=Aylesbury; Hockliffe=Hockliffe
+25,South East,Buckinghamshire,[[Aylesbury to West Wycombe Turnpike Trust]]; Princes Risborough to West Wycombe,1795,Aylesbury to West Wycombe Road Act 1795,wikitext,4,1,Princes Risborough=Princes Risborough
+26,South East,Buckinghamshire,[[Beaconsfield and Stokenchurch Turnpike Trust]],1718,Beaconsfield and Stokenchurch Road Act 1718,wikitext,2,0,
+27,South East,Buckinghamshire,Bicester and Aylesbury Turnpike Trust,1770,Bicester and Aylesbury Road Act 1770,wikitext,2,2,Bicester=Bicester; Aylesbury=Aylesbury
+28,South East,Buckinghamshire,Bromham and Olney Turnpike Trust,1790,Bedford and Buckinghamshire Roads Act 1790,wikitext,2,2,Olney=Olney; Bromham=Bromham
+29,South East,Buckinghamshire,Buckingham and Newport Pagnell Turnpike Trust,1815,Road from Buckingham to Newport Pagnell Act 1815,wikitext,2,2,Buckingham=Buckingham; Newport Pagnell=Newport Pagnell
+30,South East,Buckinghamshire,Buckingham and Towcester Turnpike Trust,1824,Road from Buckingham to Towcester Act 1824,wikitext,2,1,Buckingham=Buckingham
+31,South East,Buckinghamshire,Buckingham and Hanwell Turnpike Trust,1743,Buckingham to Warmington Road Act 1743,wikitext,2,2,Buckingham=Buckingham; Hanwell=Hanwell
+32,South East,Buckinghamshire,"Colnbrook Turnpike Trust; Colnbrook, Datchet and Slough Turnpike Trust",1726,Cranford to Maidenhead Road Act 1726,wikitext,3,3,Colnbrook=Colnbrook; Datchet=Datchet; Slough=Slough
+33,South East,Buckinghamshire,Ellsborough to West Wycombe Turnpike Trust,,,wikitext,2,0,
+34,South East,Buckinghamshire,Great Marlow and Stokenchurch Turnpike Trust,1791,Great Marlow to Stokenchurch Road Act 1791,wikitext,2,1,Stokenchurch=Stokenchurch
+35,South East,Buckinghamshire,Holyhead Road (Hockliffe Division) Turnpike Trust,1706,Bedfordshire and Buckinghamshire Roads Act 1706,wikitext,1,0,
+36,South East,Buckinghamshire,Princes Risborough and Thame Turnpike Trust,1825,Princes Risborough Roads Act 1825,wikitext,2,2,Princes Risborough=Princes Risborough; Thame=Thame
+37,South East,Buckinghamshire,Red Hill and Beaconsfield Turnpike Trust,1750,Beaconsfield and Redhill Road Act 1750,wikitext,2,2,Red Hill=Red Hill; Beaconsfield=Beaconsfield
+38,South East,Buckinghamshire,Wendover and Buckingham Turnpike Trust,1720,Buckinghamshire Roads Act 1720,wikitext,2,2,Wendover=Wendover; Buckingham=Buckingham
+39,South East,Buckinghamshire,Wendover to Oak Lane Turnpike Trust,1750,Beaconsfield and Redhill Road Act 1750,wikitext,2,1,Wendover=Wendover
+40,South East,Hampshire,Aldermaston and Basingstoke Turnpike Trust,1772,Berkshire and Southampton Roads Act 1772,wikitext,2,2,Aldermaston=Aldermaston; Basingstoke=Basingstoke
+41,South East,Hampshire,Andover and Basingstoke Turnpike Trust,1755,Wiltshire Roads Act 1755,wikitext,2,2,Andover=Andover; Basingstoke=Basingstoke
+42,South East,Hampshire,Andover and Chilton Pond Turnpike Trust,1766,Hants and Berkshire Roads Act 1766,wikitext,2,1,Andover=Andover
+43,South East,Hampshire,Andover and Winchester (Andover District) Turnpike Trust,1762,"Dorset, etc., Roads Act 1762",wikitext,2,2,Andover=Andover; Winchester=Winchester
+44,South East,Hampshire,Andover Station Turnpike Trust,1840,Andover and Basingstoke Road Act 1840,wikitext,1,0,
+45,South East,Hampshire,"Basingstoke, Odiham and Alton Turnpike Trust; Basingstoke, Hartfordbridge and Blackwater Turnpike Trust",1736,Southampton Roads Act 1736,wikitext,5,5,Basingstoke=Basingstoke; Odiham=Odiham; Alton=Alton; Hartfordbridge=Hartfordbridge; Blackwater=Blackwater
+46,South East,Hampshire,"Basingstoke, Preston Candover and Alton Turnpike Trust",1795,Preston Candover to Alton Road Act 1795,wikitext,3,3,Basingstoke=Basingstoke; Preston Candover=Preston Candover; Alton=Alton
+47,South East,Hampshire,Bishops Waltham and Fisher's Pond Turnpike Trust,1833,Bishop's Waltham and Owlesbury Road (Hampshire) Act 1833,wikitext,2,2,Bishops Waltham=Bishop's Waltham; Fisher's Pond=Fisher's Pond
+48,South East,Hampshire,Botley Turnpike Trust,1765,Hants Roads Act 1765,wikitext,1,0,
+49,South East,Hampshire,Christchurch and Lyndhurst Turnpike Trust,1841,Christchurch and Lyndhurst Road Act 1841,wikitext,2,2,Christchurch=Christchurch; Lyndhurst=Lyndhurst
+50,South East,Hampshire,Cranbourne Chase and New Forest Turnpike Trust,1832,"Cann St. Rumbold and Brook Turnpike Road (Dorset, Hampshire) Act 1832",wikitext,2,0,
+51,South East,Hampshire,Farnham and Petersfield Turnpike Trust,1826,Farnham and Petersfield Turnpike Road Act 1826,wikitext,2,2,Farnham=Farnham; Petersfield=Petersfield
+52,South East,Hampshire,"Gosport and Bishops Waltham, Wickham and Chawton Turnpike Trust",1757,Hampshire Roads Act 1757,wikitext,4,4,Gosport=Gosport; Bishops Waltham=Bishop's Waltham; Wickham=Wickham; Chawton=Chawton
+53,South East,Hampshire,Isle of Wight Highways Turnpike Trust,1813,Isle of Wight Highway Act 1813,wikitext,1,0,
+54,South East,Hampshire,London and Southampton Turnpike Trust; London and Southampton through Bishops Waltham Turnpike Trust,1801,Road from the Botley Turnpike Road Act 1801,wikitext,3,3,London=London; Southampton=Southampton; Bishops Waltham=Bishop's Waltham
+55,South East,Hampshire,"Lower St Cross, Mill Lane to Park Gate Turnpike Trust",1810,Road from the Winchester and Southampton Road Act 1810,wikitext,3,3,St Cross=St Cross; Mill Lane=Mill Lane; Park Gate=Park Gate
+56,South East,Hampshire,"Lymington, Lyndhurst and Rumbridge Turnpike Trust",1765,Lymington Roads Act 1765,wikitext,3,2,Lymington=Lymington; Lyndhurst=Lyndhurst
+57,South East,Hampshire,Odiham and Alton Turnpike Trust,1793,Odiham to Alton Road Act 1793,wikitext,2,2,Odiham=Odiham; Alton=Alton
+58,South East,Hampshire,Odiham and Farnham Turnpike Trust,1789,Odiham to Farnham Roads Act 1789,wikitext,2,2,Odiham=Odiham; Farnham=Farnham
+59,South East,Hampshire,Petersfield to near Ropley Turnpike Trust,1825,Sheetbridge and Portsmouth Roads Act 1825,wikitext,2,1,Petersfield=Petersfield
+60,South East,Hampshire,Popham Lane to Winchester Turnpike Trust,1758,Dorset Roads Act 1758,wikitext,2,1,Winchester=Winchester
+61,South East,Hampshire,Portsmouth and Sheet Bridge Turnpike Trust,1710,Petersfield Highways Act 1710,wikitext,2,1,Portsmouth=Portsmouth
+62,South East,Hampshire,"Ringwood, Longham and Leigh Turnpike Trust",1758,Dorset Roads Act 1758,wikitext,3,2,Ringwood=Ringwood; Longham=Longham
+63,South East,Hampshire,Romsey and Ringwood Turnpike Trust,1758,Dorset Roads Act 1758,wikitext,2,2,Romsey=Romsey; Ringwood=Ringwood
+64,South East,Hampshire,"Romsey, Broughton, Stockbridge and Wallop Turnpike Trust",1764,Wiltshire and Hampshire Roads Act 1764,wikitext,4,3,Romsey=Romsey; Broughton=Broughton; Stockbridge=Stockbridge
+65,South East,Hampshire,Southampton Turnpike Trust,1757,Stockbridge and Winchester Roads Act 1757,wikitext,1,1,Southampton=Southampton
+66,South East,Hampshire,Stockbridge and Basingstoke Turnpike Trust,1756,Stockbridge Roads Act 1756,wikitext,2,2,Basingstoke=Basingstoke; Stockbridge=Stockbridge
+67,South East,Hampshire,Stockbridge and Winchester Turnpike Trust,1757,Stockbridge and Winchester Roads Act 1757,wikitext,2,2,Winchester=Winchester; Stockbridge=Stockbridge
+68,South East,Hampshire,Titchfield and Cosham Turnpike Trust,1810,Titchfield and Cosham Road Act 1810,wikitext,2,2,Titchfield=Titchfield; Cosham=Cosham
+69,South East,Hampshire,Whitchurch and Aldermaston Turnpike Trust,1770,Whitchurch to Aldermaston Road Act 1770,wikitext,2,2,Whitchurch=Whitchurch; Aldermaston=Aldermaston
+70,South East,Hampshire,"Whiteparish, Romsey and Southampton Turnpike Trust",1756,Wiltshire and Southampton Roads Act 1756,wikitext,3,3,Whiteparish=Whiteparish; Romsey=Romsey; Southampton=Southampton
+71,South East,Hampshire,Winchester and Alton (Lower District) Turnpike Trust,1753,Surrey and Southampton Roads Act 1753,wikitext,2,2,Winchester=Winchester; Alton=Alton
+72,South East,Hampshire,Winchester and Gosport Turnpike Trust,,,wikitext,2,2,Winchester=Winchester; Gosport=Gosport
+73,South East,Hampshire,Winchester and Romsey Turnpike Trust; Romsey and Winchester Turnpike Trust,1758,Dorset Roads Act 1758,wikitext,2,2,Winchester=Winchester; Romsey=Romsey
+74,South East,Hampshire,Winchester and Waltham Turnpike Trust,1757,Stockbridge and Winchester Roads Act 1757,wikitext,2,2,Winchester=Winchester; Waltham=Waltham
+75,South East,Hampshire,"Winchester to Newtown River Turnpike Trust; Winchester, Newtown River and Andover Turnpike Trust",1762,"Dorset, etc., Roads Act 1762",wikitext,3,2,Winchester=Winchester; Andover=Andover
+76,South East,Hampshire,Winchester to Petersfield Turnpike Trust,1825,Winchester and Petersfield Turnpike Road Act 1825,wikitext,2,2,Winchester=Winchester; Petersfield=Petersfield
+77,South East,Hampshire,Winchester (Upper District) (Bagshot to Farnham) Turnpike Trust,1753,Surrey and Southampton Roads Act 1753,wikitext,1,1,Winchester=Winchester
+78,South East,Kent,Ashford and Ham Street Turnpike Trust,1793,Kent Roads Act 1793,wikitext,2,1,Ham Street=Ham Street
+79,South East,Kent,Ashford and Maidstone Turnpike Trust,1793,Maidstone to Ashford Road Act 1793,wikitext,2,2,Maidstone=Maidstone; Ashford=Ashford
+80,South East,Kent,Ashford to Orlestone Turnpike Trust,,,wikitext,2,2,Orlestone=Orlestone; Ashford=Ashford
+81,South East,Kent,Ashford to Tenderton Turnpike Trust,,,wikitext,2,2,Tenderton=Tenterden; Ashford=Ashford
+82,South East,Kent,Benenden Turnpike Trust,1769,Kent Roads Act 1769,wikitext,1,1,Benenden=Benenden
+83,South East,Kent,Bethersden Turnpike Trust,1767,Tenterden &c. Road Act 1766,wikitext,1,1,Bethersden=Bethersden
+84,South East,Kent,Biddenden Turnpike Trust,1762,Kent Roads Act 1762,wikitext,1,1,Biddenden=Biddenden
+85,South East,Kent,Biddenden to Boundgate Turnpike Trust,1766,Biddenden and Boundgate Road Act 1766,wikitext,2,1,Biddenden=Biddenden
+86,South East,Kent,Brandbridges Turnpike Trust,1767,Kent Roads Act 1766,wikitext,1,0,
+87,South East,Kent,Bromley to Farnborough Turnpike Trust,,,wikitext,2,2,Farnborough=Farnborough; Bromley=Bromley
+88,South East,Kent,Canterbury and Barnham Turnpike Trust,1791,Kent Roads Act 1791,wikitext,2,2,Canterbury=Canterbury; Barnham=Barnham
+89,South East,Kent,Canterbury and Ramsgate Turnpike Trust,1802,Road from Canterbury to Ramsgate Act 1802,wikitext,2,2,Canterbury=Canterbury; Ramsgate=Ramsgate
+90,South East,Kent,Canterbury and Sandwich Turnpike Trust,1802,Road from Canterbury to Sandwich Act 1802,wikitext,2,2,Canterbury=Canterbury; Sandwich=Sandwich
+91,South East,Kent,Chatham and Canterbury Turnpike Trust,1729,Kent Roads Act 1729,wikitext,2,2,Chatham=Chatham; Canterbury=Canterbury
+92,South East,Kent,Cranbrooke to Sandhurst Turnpike Trust,,,wikitext,2,1,Sandhurst=Sandhurst
+93,South East,Kent,Dartford and Sevenoaks Turnpike Trust,1766,Dartford Roads Act 1766,wikitext,2,2,Dartford=Dartford; Sevenoaks=Sevenoaks
+94,South East,Kent,Dartford and Strood Turnpike Trust,1737,Kent Roads Act 1737,wikitext,2,2,Dartford=Dartford; Strood=Strood
+95,South East,Kent,Dover and Sandgate Turnpike Trust,1764,Kent Roads Act 1764,wikitext,2,2,Dover=Dover; Sandgate=Sandgate
+96,South East,Kent,"Dover, Deal and Sandwich Turnpike Trust; Dover to Sandwich, through Deal Turnpike Trust",1797,Dover Deal and Sandwich Road Act 1797,wikitext,3,3,Dover=Dover; Deal=Deal; Sandwich=Sandwich
+97,South East,Kent,"Dover, Walfdershare and Sandwich Turnpike Trust; Dover to Sandwich, through Waldershare Turnpike Trust",1801,Dover and Sandwich Road Act 1801,wikitext,4,2,Dover=Dover; Sandwich=Sandwich
+98,South East,Kent,Dover to Barham Downs Turnpike Trust,1753,Kent Roads Act 1753,wikitext,2,1,Dover=Dover
+99,South East,Kent,East Malling to Pembury Green Turnpike Trust,,,wikitext,2,0,
+100,South East,Kent,"Faversham to Hythe and Canterbury Turnpike Trust; Faversham, Hythe and Canterbury Turnpike Trust",1762,Kent Roads (No. 2) Act 1762,wikitext,3,3,Faversham=Faversham; Hythe=Hythe; Canterbury=Canterbury
+101,South East,Kent,Folkestone and Barham Turnpike Trust,1792,Kent Roads Act 1792,wikitext,2,2,Folkestone=Folkestone; Barham=Barham
+102,South East,Kent,Goudhurst Turnpike Trust,1768,Goudhurst Roads Act 1768,wikitext,1,1,Goudhurst=Goudhurst
+103,South East,Kent,"Goudhurst, Gore and Stilebridge Turnpike Trust",1765,Kent Roads Act 1765,wikitext,3,2,Goudhurst=Goudhurst; Gore=Gore
+104,South East,Kent,Gravesend and Wrotham Turnpike Trust,1825,Road from Gravesend to Wrotham Act 1825,wikitext,2,2,Gravesend=Gravesend; Wrotham=Wrotham
+105,South East,Kent,Greenwich and Woolwich Lower Road Turnpike Trust,1818,Road from Greenwich to Woolwich Act 1818,wikitext,2,2,Greenwich=Greenwich; Woolwich=Woolwich
+106,South East,Kent,Herne Bay Turnpike Trust,1814,Sturry and Herne Bay Road Act 1814,wikitext,1,1,Herne Bay=Herne Bay
+107,South East,Kent,Ightham Turnpike Trust,1811,Ightham and London to Maidstone Road Act 1811,wikitext,1,1,Ightham=Ightham
+108,South East,Kent,Kippings Cross and Flimwell Vent Turnpike Trust; Kipping's Cross and Flimwell Turnpike Trust,1762,Kent and Sussex Roads Act 1762,wikitext,3,2,Kippings Cross=Kipping's Cross; Flimwell=Flimwell
+109,South East,Kent,Kippings Cross and Willsley Pond Turnpike Trust; Kipping's Cross and Willsley Turnpike Trust,1765,Kent Roads Act 1765,wikitext,3,1,Kippings Cross=Kipping's Cross
+110,South East,Kent,Maidstone and Biddenden Turnpike Trust,1803,Road from the Maidstone Turnpike Gate Act 1803,wikitext,2,2,Maidstone=Maidstone; Biddenden=Biddenden
+111,South East,Kent,Maidstone and Cranbrook Turnpike Trust,1759,Maidstone to Cranbrook Road Act 1759,wikitext,2,2,Maidstone=Maidstone; Cranbrook=Cranbrook
+112,South East,Kent,Maidstone and Key Street Turnpike Trust,1769,Maidstone to Key Street Road Act 1769,wikitext,2,2,Maidstone=Maidstone; Key Street=Key Street
+113,South East,Kent,Malling and Strood Turnpike Trust,1825,Maidstone and Wrotham and Strood Turnpike Road Act 1825,wikitext,2,0,
+114,South East,Kent,New Cross Turnpike Trust,1717,"Southwark, Greenwich and Lewisham Roads Act 1717",wikitext,1,1,New Cross=New Cross
+115,South East,Kent,"Penshurst, Wat's Cross and Cowden Turnpike Trust",1765,Kent Roads (No. 2) Act 1765,wikitext,3,2,Penshurst=Penshurst; Cowden=Cowden
+116,South East,Kent,Rochester and Maidstone Turnpike Trust,1727,Rochester to Maidstone Road Act 1727,wikitext,2,2,Rochester=Rochester; Maidstone=Maidstone
+117,South East,Kent,Rolvenden Turnpike Trust,1769,Kent Roads (No. 3) Act 1769,wikitext,1,1,Rolvenden=Rolvenden
+118,South East,Kent,"Sandwich, Margate and Ramsgate Turnpike Trust",1807,"Sandwich, Margate and Ramsgate Road Act 1807",wikitext,3,3,Sandwich=Sandwich; Margate=Margate; Ramsgate=Ramsgate
+119,South East,Kent,Sevenoaks Turnpike Trust; Farnborough to Severnoaks Turnpike Trust,1748,Farnborough and Sevenoaks Road Act 1748,wikitext,3,3,Sevenoaks=Sevenoaks; Farnborough=Farnborough; Severnoaks=Sevenoaks
+120,South East,Kent,Shoreham to Chelsfield Turnpike Trust,1810,Shoreham (Kent) Road Act 1810,wikitext,2,2,Shoreham=Shoreham; Chelsfield=Chelsfield
+121,South East,Kent,Snodland to Strood Turnpike Trust,,,wikitext,2,2,Snodland=Snodland; Strood=Strood
+122,South East,Kent,Stokershead to Bagham's Cross Turnpike Trust; Stockerhead to Chilham Turnpike Trust,1809,Stockershead Road (Kent) Act 1809,wikitext,4,1,Chilham=Chilham
+123,South East,Kent,Tenterden Turnpike Trust,1762,Kent Roads Act 1762,wikitext,1,1,Tenterden=Tenterden
+124,South East,Kent,Tenterden to Warehorne Turnpike Trust,,,wikitext,2,2,Tenterden=Tenterden; Warehorne=Warehorne
+125,South East,Kent,Tonbridge Turnpike Trust,1709,Sevenoaks and Tunbridge Highways Act 1709,wikitext,1,1,Tonbridge=Tonbridge
+126,South East,Kent,Tonbridge and Ightham Turnpike Trust,1809,Tonbridge and Ightham Road Act 1809,wikitext,2,2,Tonbridge=Tonbridge; Ightham=Ightham
+127,South East,Kent,Tonbridge and Maidstone Turnpike Trust,1765,Kent Roads (No. 2) Act 1765,wikitext,2,2,Tonbridge=Tonbridge; Maidstone=Maidstone
+128,South East,Kent,Tunbridge Wells to Uckfield Turnpike Trust,,,wikitext,2,2,Tunbridge Wells=Royal Tunbridge Wells; Uckfield=Uckfield
+129,South East,Kent,Wadhurst and West Farleigh Turnpike Trust,1765,Sussex and Kent Roads Act 1765,wikitext,2,2,Wadhurst=Wadhurst; Farleigh=Farleigh
+130,South East,Kent,West Peckham to Hadlow Turnpike Trust,,,wikitext,2,2,Peckham=Peckham; Hadlow=Hadlow
+131,South East,Kent,Westerham and Edenbridge Turnpike Trust,1767,Kent and Sussex Roads (No. 2) Act 1766,wikitext,2,2,Westerham=Westerham; Edenbridge=Edenbridge
+132,South East,Kent,Westerham to Titsey Turnpike Trust,,,wikitext,2,2,Westerham=Westerham; Titsey=Titsey
+133,South East,Kent,Whistable Turnpike Trust,1735,Kent Roads (No. 2) Act 1735,wikitext,1,1,Whistable=Whitstable
+134,South East,Kent,Woodchurch Turnpike Trust,1820,"Tenterden and Warehorne, and Bethersden and Appledore Roads Act 1820",wikitext,1,0,
+135,South East,Kent,Wrotham and Maidstone Turnpike Trust,1751,Kent Roads Act 1751,wikitext,2,2,Wrotham=Wrotham; Maidstone=Maidstone
+136,South East,Kent,Wrotham Heath Turnpike Trust,1765,Kent and Surrey Roads Act 1765,wikitext,1,1,Wrotham Heath=Wrotham Heath
+137,South East,Middlesex,Bethnal Green to Church Street Turnpike Trust,,,wikitext,2,2,Bethnal Green=Bethnal Green; Church Street=Church Street
+138,South East,Middlesex,Brompton to Fulham Road Turnpike Trust,1825,Earls Court and North End Turnpike Road and Junction with London and Fulham Road Act 1825,wikitext,2,2,Fulham=Fulham; Brompton=Brompton
+139,South East,Middlesex,Camden Town to Holloway Turnpike Trust,1824,Road from Camden Town to Holloway Act 1824,wikitext,2,2,Camden Town=Camden Town; Holloway=Holloway
+140,South East,Middlesex,[[Cannon Street Turnpike Trust]],1754,Ratcliff Highway Act 1754,wikitext,1,0,
+141,South East,Middlesex,[[Commercial Road Turnpike Trust]],1802,Roads from West India Docks Act 1802,wikitext,1,0,
+142,South East,Middlesex,Earls Court to Hammersmith Bridge Turnpike Trust,1828,North End and Hammersmith Bridge Turnpike Road Act 1828,wikitext,2,1,Earls Court=Earl's Court
+143,South East,Middlesex,East India Docks Road Turnpike Trust,1802,Roads from West India Docks Act 1802,wikitext,1,0,
+144,South East,Middlesex,Islington Old Street Turnpike Trust,1753,Old Street Road Act 1753,wikitext,1,0,
+145,South East,Middlesex,Jeremy's Ferry to Snaresbrook Turnpike Trust,1757,River Lea Bridge and Roads Act 1757,wikitext,2,1,Snaresbrook=Snaresbrook
+146,South East,Middlesex,Kensington to Cranford Bridge Turnpike Trust,1716,"Kensington, Staines and Cranford Bridge Roads Act 1716",wikitext,2,1,Kensington=Kensington
+147,South East,Middlesex,Kentish Town Junction Turnpike Trust,1811,Road from Kentish Town to Upper Holloway Act 1811,wikitext,1,0,
+148,South East,Middlesex,Marylebone to Finchley Road Turnpike Trust,1826,St. Marylebone and Finchley Turnpike Road and Branch Act 1826,wikitext,2,2,Marylebone=Marylebone; Finchley=Finchley
+149,South East,Middlesex,[[Metropolis North of Thames Turnpike Trust]],1826,Metropolis Roads Act 1826,wikitext,1,0,
+150,South East,Middlesex,New North Road Turnpike Trust; Highbury to Shoreditch Turnpike Trust,1812,Highbury and Shoreditch Road Act 1812,wikitext,3,2,Shoreditch=Shoreditch; Highbury=Highbury
+151,South East,Middlesex,Paddington to Harrow Turnpike Trust,1801,Road from Paddington to Harrow-on-the-Hill Act 1801,wikitext,2,2,Paddington=Paddington; Harrow=Harrow
+152,South East,Middlesex,Pinner and Rickmansworth Turnpike Trust,1809,"Rickmansworth, Pinner and Harrow-on-the-Hill Road Act 1809",wikitext,2,2,Pinner=Pinner; Rickmansworth=Rickmansworth
+153,South East,Middlesex,Shoreditch to Goswell Street Turnpike Trust,,,wikitext,2,1,Shoreditch=Shoreditch
+154,South East,Middlesex,Staines and Bedfont Turnpike Trust,1727,Egham and Bagshot Road Act 1727,wikitext,2,0,
+155,South East,Middlesex,Staines and Hampton Turnpike Trust,1773,Hampton to Staines Road Act 1773,wikitext,2,0,
+156,South East,Middlesex,Tower Hill to Smithfield Turnpike Trust,1812,St. Botolph without Aldgate Improvement Act 1812,wikitext,2,0,
+157,South East,Middlesex,Wheatstone Turnpike Trust,1711,Highgate and Chipping Barnet Road Act 1711,wikitext,1,0,
+158,South East,Oxfordshire,Asthal and Buckland Turnpike Trust,1777,Asthall to Buckland Road Act 1777,wikitext,2,0,
+159,South East,Oxfordshire,"Aylesbury, Thame and Shillingford Turnpike Trust",1770,Buckingham and Oxford Roads Act 1770,wikitext,3,3,Aylesbury=Aylesbury; Thame=Thame; Shillingford=Shillingford
+160,South East,Oxfordshire,"Banbury to Barcheston Turnpike Trust; Banbury, Brailes and Barcheston Turnpike Trust",1802,"Banbury, Brailes and Barcheston Road Act 1802",wikitext,3,2,Banbury=Banbury; Barcheston=Barcheston
+161,South East,Oxfordshire,Barrington to Campsfield Turnpike Trust,1750,Gloucester and Oxford Road Act 1750,wikitext,2,0,
+162,South East,Oxfordshire,"Bicester, Aynho and Finmere Turnpike Trust",1791,Bicester to Aynho Road Act 1791,wikitext,3,2,Bicester=Bicester; Finmere=Finmere
+163,South East,Oxfordshire,"Botley, Fyfield, and Newlands Turnpike Trust",,,wikitext,3,3,Newlands=Newlands; Botley=Botley; Fyfield=Fyfield
+164,South East,Oxfordshire,Burford and Lechlade Turnpike Trust,1792,Gloucester and Wiltshire Roads Act 1792,wikitext,2,1,Burford=Burford
+165,South East,Oxfordshire,"Burford, Chipping Norton and Banbury Turnpike Trust; Burford, Chipping Norton, Banbury, Stow and Aynho Turnpike Trust",1770,"Oxford, Gloucester and Notts Roads Act 1770",wikitext,5,3,Burford=Burford; Chipping Norton=Chipping Norton; Banbury=Banbury
+166,South East,Oxfordshire,Charlbury Roads Turnpike Trust,1800,Witney and Woodstock Roads Act 1800,wikitext,1,1,Charlbury=Charlbury
+167,South East,Oxfordshire,Drayton Lane and Edgehill Turnpike Trust,1753,Drayton and Edgehill Road Act 1753,wikitext,2,1,Edgehill=Edgehill
+168,South East,Oxfordshire,"Enstone, Heyford and Bicester Turnpike Trust; Enstone, Heyford, Bicester, Weston and Kirtlington Turnpike Trust",1793,Bicester Roads Act 1793,wikitext,5,4,Enstone=Enstone; Bicester=Bicester; Kirtlington=Kirtlington; Weston=Weston
+169,South East,Oxfordshire,Faringdon to Burford Turnpike Trust,1771,Farringdon to Burford Road Act 1771,wikitext,2,2,Faringdon=Faringdon; Burford=Burford
+170,South East,Oxfordshire,Galley Hill and Clanfield Turnpike Trust; Galley Hill and Clanfield Cross Turnpike Trust,1771,Oxford Roads Act 1771,wikitext,3,0,
+171,South East,Oxfordshire,Gosford Gate Turnpike Trust; Gosford Road Turnpike Trust,1755,Warwick and Oxford Roads Act 1755,wikitext,2,1,Gosford=Gosford
+172,South East,Oxfordshire,Henley and Dorchester Turnpike Trust,1735,Berkshire and Oxfordshire Roads Act 1735,wikitext,2,2,Henley=Henley; Dorchester=Dorchester
+173,South East,Oxfordshire,Islip District Turnpike Trust,,,wikitext,1,1,Islip=Islip
+174,South East,Oxfordshire,Kidlington and Deddington Turnpike Trust,1755,Warwick and Oxford Roads Act 1755,wikitext,2,2,Kidlington=Kidlington; Deddington=Deddington
+175,South East,Oxfordshire,Oxford Mileways,,,wikitext,1,0,
+176,South East,Oxfordshire,St Clements Turnpike Trust,1771,Oxford Improvement Act 1771,wikitext,1,0,
+177,South East,Oxfordshire,"Stokenchurch, Wheatley, Begbroke Turnpike Trust; Stokenchurch and Woodstock Turnpike Trust",1718,Stokenchurch and New Woodstock Road Act 1718,wikitext,4,4,Stokenchurch=Stokenchurch; Begbroke=Begbroke; Woodstock=Woodstock; Wheatley=Wheatley
+178,South East,Oxfordshire,Stony Stratford to Woodstock Turnpike Trust,1769,Bucks and Oxford Roads Act 1769,wikitext,2,2,Stony Stratford=Stony Stratford; Woodstock=Woodstock
+179,South East,Oxfordshire,Thame and Bicester Turnpike Trust,1833,Bicester and Aylesbury Road Act 1833,wikitext,2,2,Thame=Thame; Bicester=Bicester
+180,South East,Oxfordshire,Thame to Postcombe Turnpike Trust,1785,Buckingham and Oxford Roads Act 1785,wikitext,2,2,Thame=Thame; Postcombe=Postcombe
+181,South East,Oxfordshire,Woodstock to Rollright Lane Turnpike Trust,1729,Oxfordshire Roads Act 1729,wikitext,2,1,Woodstock=Woodstock
+182,South East,Surrey,Alford and Guildford Turnpike Trust,1757,Guildford and Arundel Road Act 1757,wikitext,2,2,Alford=Alford; Guildford=Guildford
+183,South East,Surrey,Bagshot to Hertfordbridge Turnpike Trust,1753,Surrey and Southampton Roads Act 1753,wikitext,2,1,Bagshot=Bagshot
+184,South East,Surrey,"Bermondsey, Rotherhithe and Deptford Turnpike Trust",1748,Southwark Roads Act 1748,wikitext,3,3,Bermondsey=Bermondsey; Rotherhithe=Rotherhithe; Deptford=Deptford
+185,South East,Surrey,Bramley and Ridgewick Turnpike Trust,1818,Bramley to Ridgewick Turnpike Road Act 1818,wikitext,2,0,
+186,South East,Surrey,Croydon and Reigate Turnpike Trust,1807,Road from Foxley Hatch to Reigate Act 1807,wikitext,2,2,Croydon=Croydon; Reigate=Reigate
+187,South East,Surrey,Egham and Bagshot Turnpike Trust,1727,Egham and Bagshot Road Act 1727,wikitext,2,2,Egham=Egham; Bagshot=Bagshot
+188,South East,Surrey,"Epsom, Ewell, Tooting etc Turnpike Trust; Epsom Turnpike Trust",1755,Surrey Roads Act 1755,wikitext,3,2,Epsom=Epsom; Ewell=Ewell
+189,South East,Surrey,Gatton Lodge to Povey Cross Turnpike Trust; Gatton and Povey Cross Turnpike Trust,1816,Road from Gatton Lodge to Povey Cross Act 1816,wikitext,3,1,Gatton=Gatton
+190,South East,Surrey,Godalming and Painshill Turnpike Trust,1826,Godalming and Pains Hill Road Act 1826,wikitext,2,1,Godalming=Godalming
+191,South East,Surrey,Godstone and Highgate Turnpike Trust,1730,Surrey and Sussex Roads Act 1730,wikitext,2,2,Godstone=Godstone; Highgate=Highgate
+192,South East,Surrey,Guildford and Farnham Turnpike Trust,1757,Guildford to Farnham Road Act 1757,wikitext,2,2,Guildford=Guildford; Farnham=Farnham
+193,South East,Surrey,Haslemere Turnpike Trust,1764,Milford to Portsmouth Road Act 1764,wikitext,1,1,Haslemere=Haslemere
+194,South East,Surrey,Kent Road to Deptford Turnpike Trust,,,wikitext,2,2,Kent=Kent; Deptford=Deptford
+195,South East,Surrey,Kingston and Leatherhead Turnpike Trust,1811,Road from Kingston-upon-Thames to Leatherhead Act 1811,wikitext,2,1,Leatherhead=Leatherhead
+196,South East,Surrey,Kingston and Sheetbridge Turnpike Trust,1748,Surrey and Sussex Roads Act 1748,wikitext,2,0,
+197,South East,Surrey,Leatherhead and Stoke next Guildford Turnpike Trust,1757,Leatherhead and Guildford Road Act 1757,wikitext,2,1,Leatherhead=Leatherhead
+198,South East,Surrey,Limpsfield Turnpike Trust,1770,Kent and Surrey Roads Act 1770,wikitext,1,1,Limpsfield=Limpsfield
+199,South East,Surrey,Ockley and Warnham Turnpike Trust,1812,Road from Ockley to Warnham Act 1812,wikitext,2,2,Ockley=Ockley; Warnham=Warnham
+200,South East,Surrey,Reigate Turnpike Trust,1755,Sutton and Reigate Road Act 1755,wikitext,1,1,Reigate=Reigate
+201,South East,Surrey,Southwark to Kent Road Turnpike Trust; Great Dover Street Turnpike Trust,1809,Road from Southwark to the Kent Road Act 1809,wikitext,3,2,Southwark=Southwark; Kent=Kent
+202,South East,Surrey,Surrey and Sussex Turnpike Trust,1717,"London, East Grinstead, Sutton and Kingston Roads Act 1717",wikitext,2,0,
+203,South East,Surrey,Surrey New Roads Turnpike Trust; Blackfriars to Newington Butts Turnpike Trust,1769,South London Roads Act 1769,wikitext,3,0,
+204,South East,Sussex,Alford Bars and Newbridge Turnpike Trust,1757,Guildford and Arundel Road Act 1757,wikitext,2,0,
+205,South East,Sussex,Beech Down to Heathfield etc. Turnpike Trust,,,wikitext,2,1,Heathfield=Heathfield
+206,South East,Sussex,Beeding to Old Shoreham Turnpike Trust,,,wikitext,2,1,Old Shoreham=Old Shoreham
+207,South East,Sussex,Billingshurst to Broadbridge Heath Turnpike Trust,,,wikitext,2,2,Billingshurst=Billingshurst; Broadbridge Heath=Broadbridge Heath
+208,South East,Sussex,Brede Turnpike Trust,,,wikitext,1,1,Brede=Brede
+209,South East,Sussex,Brighton and Newhaven Turnpike Trust,,,wikitext,2,2,Brighton=Brighton; Newhaven=Newhaven
+210,South East,Sussex,"Brighton, Cuckfield and West Grimsted Turnpike Trust",,,wikitext,3,2,Brighton=Brighton; Cuckfield=Cuckfield
+211,South East,Sussex,"Brighton, Shoreham and Lancing Turnpike Trust",,,wikitext,3,3,Brighton=Brighton; Shoreham=Shoreham; Lancing=Lancing
+212,South East,Sussex,Broil Park-Gate to Battle Turnpike Trust,,,wikitext,2,1,Battle=Battle
+213,South East,Sussex,Burwash to Ticehurst Turnpike Trust,,,wikitext,2,2,Burwash=Burwash; Ticehurst=Ticehurst
+214,South East,Sussex,Bury Turnpike Trust; Arundel to Petworth Turnpike Trust,1803,,wikitext,3,3,Bury=Bury; Arundel=Arundel; Petworth=Petworth
+215,South East,Sussex,"Chichester, Dell Quay and Fernhurst Turnpike Trust",,,wikitext,3,2,Chichester=Chichester; Fernhurst=Fernhurst
+216,South East,Sussex,Cosham to Chichester Turnpike Trust,,,wikitext,2,2,Cosham=Cosham; Chichester=Chichester
+217,South East,Sussex,Cowfold to Henfield Turnpike Trust,,,wikitext,2,2,Cowfold=Cowfold; Henfield=Henfield
+218,South East,Sussex,Crouch Hill and Hurstpeirpoint Turnpike Trust,,,wikitext,2,0,
+219,South East,Sussex,Ditcheling and Clayton Branch Turnpike Trust,,,wikitext,2,1,Clayton=Clayton
+220,South East,Sussex,Etchingham to Burwash Turnpike Trust,,,wikitext,2,2,Etchingham=Etchingham; Burwash=Burwash
+221,South East,Sussex,Ewhurst to Norian Turnpike Trust,,,wikitext,2,1,Ewhurst=Ewhurst
+222,South East,Sussex,Five Oaks Turnpike Trust,,,wikitext,1,1,Five Oaks=Five Oaks
+223,South East,Sussex,Flimwell to Hastings Turnpike Trust,,,wikitext,2,2,Flimwell=Flimwell; Hastings=Hastings
+224,South East,Sussex,Henfield Turnpike Trust,,,wikitext,1,1,Henfield=Henfield
+225,South East,Sussex,Henfield to Brighthelmston Turnpike Trust,,,wikitext,2,2,Henfield=Henfield; Brighthelmston=Brighton
+226,South East,Sussex,Hodges and Cuckfield Turnpike Trust,,,wikitext,2,1,Cuckfield=Cuckfield
+227,South East,Sussex,Hollington and Hastings Turnpike Trust,,,wikitext,2,2,Hastings=Hastings; Hollington=Hollington
+228,South East,Sussex,Horley and Cuckfield Turnpike Trust,,,wikitext,2,2,Horley=Horley; Cuckfield=Cuckfield
+229,South East,Sussex,Horley Common to Uckfield Turnpike Trust,,,wikitext,2,1,Uckfield=Uckfield
+230,South East,Sussex,Horsebridge and Horsham Turnpike Trust,,,wikitext,2,2,Horsebridge=Horsebridge; Horsham=Horsham
+231,South East,Sussex,Horsham and Crawley Turnpike Trust,,,wikitext,2,2,Horsham=Horsham; Crawley=Crawley
+232,South East,Sussex,Horsham and Dorking Turnpike Trust,,,wikitext,2,2,Horsham=Horsham; Dorking=Dorking
+233,South East,Sussex,Horsham and Guildford Turnpike Trust,,,wikitext,2,2,Horsham=Horsham; Guildford=Guildford
+234,South East,Sussex,Horsham and Steyning Turnpike Trust,,,wikitext,2,2,Horsham=Horsham; Steyning=Steyning
+235,South East,Sussex,Hurstpierpoint and Cuckfield Turnpike Trust,,,wikitext,2,2,Hurstpierpoint=Hurstpierpoint; Cuckfield=Cuckfield
+236,South East,Sussex,Hurstpierpoint and Pontings Branch Turnpike Trust,,,wikitext,2,1,Hurstpierpoint=Hurstpierpoint
+237,South East,Sussex,Lewes and Brighthelmston Turnpike Trust,,,wikitext,2,2,Lewes=Lewes; Brighthelmston=Brighton
+238,South East,Sussex,"Lewes, Eastbourne and Hailsham Turnpike Trust",,,wikitext,3,3,Lewes=Lewes; Eastbourne=Eastbourne; Hailsham=Hailsham
+239,South East,Sussex,Malling Street to Wych Cross Turnpike Trust,,,wikitext,2,1,Wych Cross=Wych Cross
+240,South East,Sussex,Mayfield and Wadhurst Turnpike Trust,,,wikitext,2,2,Mayfield=Mayfield; Wadhurst=Wadhurst
+241,South East,Sussex,Midhurst and Sheetbridge Turnpike Trust,,,wikitext,2,1,Midhurst=Midhurst
+242,South East,Sussex,Milford to Portsmouth Road Turnpike Trust,,,wikitext,2,2,Milford=Milford; Portsmouth=Portsmouth
+243,South East,Sussex,"New Chappel, Linfield and Brighton Turnpike Trust",,,wikitext,3,1,Brighton=Brighton
+244,South East,Sussex,Offham and Ditcheling Turnpike Trust,,,wikitext,2,0,
+245,South East,Sussex,Offham to Witch Cross Turnpike Trust,,,wikitext,2,0,
+246,South East,Sussex,Petworth Turnpike Trust,,,wikitext,1,1,Petworth=Petworth
+247,South East,Sussex,Pulborough to Horsham Turnpike Trust,,,wikitext,2,2,Pulborough=Pulborough; Horsham=Horsham
+248,South East,Sussex,Pyecombe and Hickstead Turnpike Trust,,,wikitext,2,2,Pyecombe=Pyecombe; Hickstead=Hickstead
+249,South East,Sussex,Ringmer and Hurst Green Turnpike Trust,,,wikitext,2,2,Ringmer=Ringmer; Hurst Green=Hurst Green
+250,South East,Sussex,Robertsbridge Clappers Turnpike Trust,,,wikitext,1,0,
+251,South East,Sussex,Rowhook Branch Turnpike Trust,,,wikitext,1,1,Rowhook=Rowhook
+252,South East,Sussex,Rye Turnpike Trust,,,wikitext,1,1,Rye=Rye
+253,South East,Sussex,Shipley Turnpike Trust,,,wikitext,1,1,Shipley=Shipley
+254,South East,Sussex,Sloughham to West Grinstead Turnpike Trust,,,wikitext,2,0,
+255,South East,Sussex,South Malling to Alfiston Turnpike Trust,,,wikitext,2,0,
+256,South East,Sussex,St Leonards and Sedlescomb Turnpike Trust,,,wikitext,2,1,St Leonards=St Leonards
+257,South East,Sussex,Staplecross Turnpike Trust,,,wikitext,1,1,Staplecross=Staplecross
+258,South East,Sussex,"Stoke, Guildford, Arundell Turnpike Trust",,,wikitext,3,2,Guildford=Guildford; Stoke=Stoke
+259,South East,Sussex,Stonegate Turnpike Trust,,,wikitext,1,1,Stonegate=Stonegate
+260,South East,Sussex,Storrington and Ball's Hut Turnpike Trust,,,wikitext,2,1,Storrington=Storrington
+261,South East,Sussex,Storrington and Wiston Turnpike Trust,,,wikitext,2,2,Storrington=Storrington; Wiston=Wiston
+262,South East,Sussex,Tunbridge Wells and Mayfield Turnpike Trust,,,wikitext,2,2,Tunbridge Wells=Royal Tunbridge Wells; Mayfield=Mayfield
+263,South East,Sussex,Uckfield and Tunbridge Wells Turnpike Trust,,,wikitext,2,2,Uckfield=Uckfield; Tunbridge Wells=Royal Tunbridge Wells
+264,South East,Sussex,Worthing Turnpike Trust,,,wikitext,1,1,Worthing=Worthing
+265,South East,Sussex,Worthing and Lancing Turnpike Trust,1826,Worthing and Lancing Turnpike Road and Sea Defences Act 1826,wikitext,2,2,Worthing=Worthing; Lancing=Lancing
+266,East Midlands,Derbyshire,Alfreton and Derby Turnpike Trust,1802,Alfreton and Derby Roads Act 1802,web reader,2,2,Alfreton=Alfreton; Derby=Derby
+267,East Midlands,Derbyshire,Alfreton and Mansfield Turnpike Trust,1764,Derby and Nottinghamshire Roads Act 1764,web reader,2,2,Alfreton=Alfreton; Mansfield=Mansfield
+268,East Midlands,Derbyshire,"Alfreton, Higham and Tibshelf Turnpike Trust",1786,Derby Roads Act 1786,web reader,3,3,Alfreton=Alfreton; Higham=Higham; Tibshelf=Tibshelf
+269,East Midlands,Derbyshire,Ashbourne and Yoxall Bridge Turnpike Trust,1766,Derby and Stafford Roads Act 1766,web reader,2,1,Ashbourne=Ashbourne
+270,East Midlands,Derbyshire,Ashbourne to Belper Bridge and Ripley Turnpike Trust,1764,Derby Roads Act 1764,web reader,3,2,Ashbourne=Ashbourne; Ripley=Ripley
+271,East Midlands,Derbyshire,"Ashbourne, Sudbury and Brimington Turnpike Trust",,,web reader,3,3,Ashbourne=Ashbourne; Sudbury=Sudbury; Brimington=Brimington
+272,East Midlands,Derbyshire,Ashford and Buxton Turnpike Trust,1810,Ashford and Buxton Turnpike Road (Derbyshire) Act 1810,web reader,2,1,Buxton=Buxton
+273,East Midlands,Derbyshire,Birkin Lane Turnpike Trust,1766,Derby Roads (No. 3) Act 1766,web reader,1,0,
+274,East Midlands,Derbyshire,Brimington and Chesterfield Turnpike Trust,1766,Brimington and Chesterfield Roads Act 1766,web reader,2,2,Brimington=Brimington; Chesterfield=Chesterfield
+275,East Midlands,Derbyshire,Chapel en le Frith and Enterclough Bridge Turnpike Trust,1792,Derby and Cheshire Roads Act 1792,web reader,2,1,Chapel en le Frith=Chapel-en-le-Frith
+276,East Midlands,Derbyshire,Chesterfield and Hernstone Lane Head Turnpike Trust,1758,Derbyshire Roads Act 1758,web reader,2,1,Chesterfield=Chesterfield
+277,East Midlands,Derbyshire,"Chesterfield to Matlock, Darley and Rowsley Bridges Turnpike Trust",1759,Derbyshire Roads Act 1759,web reader,4,3,Chesterfield=Chesterfield; Matlock=Matlock; Darley=Darley
+278,East Midlands,Derbyshire,Chesterfield to Worksop Turnpike Trust,1738,Derbyshire Roads Act 1738,web reader,2,2,Chesterfield=Chesterfield; Worksop=Worksop
+279,East Midlands,Derbyshire,Cromford and Belper Turnpike Trust,1817,Road from Cromford to Belper Act 1817,web reader,2,2,Cromford=Cromford; Belper=Belper
+280,East Midlands,Derbyshire,Cromford and Newhaven Turnpike Trust,1804,"Road from Cromford to Five Lane Ends, Hopton Moor Act 1804",web reader,2,2,Cromford=Cromford; Newhaven=Newhaven
+281,East Midlands,Derbyshire,Cromford Bridge and Langley Mill Turnpike Trust,1766,Cromford Bridge to Langley Mill Road Act 1766,web reader,2,1,Langley Mill=Langley Mill
+282,East Midlands,Derbyshire,Derby and Burton on Trent Turnpike Trust,1753,Burton-upon-Trent and Derby Road Act 1753,web reader,2,2,Derby=Derby; Burton on Trent=Burton upon Trent
+283,East Midlands,Derbyshire,Derby and Duffield Turnpike Trust,1756,Derby and Sheffield Roads Act 1756,web reader,2,2,Derby=Derby; Duffield=Duffield
+284,East Midlands,Derbyshire,Derby to Hurdloe House Turnpike Trust,1737,Derby Roads Act 1737,web reader,2,1,Derby=Derby
+285,East Midlands,Derbyshire,Derby to Uttoxeter Turnpike Trust,1758,Derby to Newcastle-under-Lyne Road Act 1758,web reader,2,2,Derby=Derby; Uttoxeter=Uttoxeter
+286,East Midlands,Derbyshire,Derby to Uttoxeter Turnpike Trust,1804,Road from Derby to Uttoxeter Act 1804,web reader,2,2,Derby=Derby; Uttoxeter=Uttoxeter
+287,East Midlands,Derbyshire,"Derby, Mansfield and Nutthall Turnpike Trust",1764,Nottinghamshire Roads Act 1764,web reader,3,2,Derby=Derby; Mansfield=Mansfield
+288,East Midlands,Derbyshire,Duffield and Heage Turnpike Trust,1793,Heage to Duffield Road Act 1793,web reader,2,2,Duffield=Duffield; Heage=Heage
+289,East Midlands,Derbyshire,Duffield and Sheffield Turnpike Trust,1756,Derby and Sheffield Roads Act 1756,web reader,2,2,Duffield=Duffield; Sheffield=Sheffield
+290,East Midlands,Derbyshire,Duffield and Wirksworth Turnpike Trust,1756,Derby and Sheffield Roads Act 1756,web reader,2,2,Duffield=Duffield; Wirksworth=Wirksworth
+291,East Midlands,Derbyshire,Glossop and Marple Bridge Turnpike Trust,1803,Road from Glossop Act 1803,web reader,2,1,Glossop=Glossop
+292,East Midlands,Derbyshire,Glossop and Marple Bridge Turnpike Trust,1824,Road from Glossop to Marple Bridge Act 1824,web reader,2,1,Glossop=Glossop
+293,East Midlands,Derbyshire,Glossop and Marple Bridge Turnpike Trust,1860,Glossop and Marple Bridge Turnpike Roads Act 1860,web reader,2,1,Glossop=Glossop
+294,East Midlands,Derbyshire,Haddon and Bentley Turnpike Trust; Bakewell to Bentley Turnpike Trust,1811,Haddon and Bentley (Derbyshire) Road Act 1811,web reader,3,3,Haddon=Haddon; Bentley=Bentley; Bakewell=Bakewell
+295,East Midlands,Derbyshire,Ideridgehay and Duffield Turnpike Trust,1808,Road from Wirksworth to Duffield Act 1808,web reader,2,1,Duffield=Duffield
+296,East Midlands,Derbyshire,London Turnpike Road Turnpike Trust,1737,Derby Roads Act 1737,web reader,1,0,
+297,East Midlands,Derbyshire,Macclesfield to Chapel en le Frith Turnpike Trust,1770,Chester and Derby Roads Act 1770,web reader,2,1,Chapel en le Frith=Chapel-en-le-Frith
+298,East Midlands,Derbyshire,Mansfield and Chesterfield Turnpike Trust,1758,Mansfield and Chesterfield Road Act 1758,web reader,2,2,Mansfield=Mansfield; Chesterfield=Chesterfield
+299,East Midlands,Derbyshire,Nottingham Turnpike Trust,1758,Notts and Derby Roads Act 1758,web reader,1,1,Nottingham=Nottingham
+300,East Midlands,Derbyshire,Okerthorpe and Ashbourne Turnpike Trust,1758,Notts and Derby Roads Act 1758,web reader,2,1,Ashbourne=Ashbourne
+301,East Midlands,Derbyshire,Onecote Buxton Road Turnpike Trust,1770,Stafford Roads Act 1770,web reader,1,0,
+302,East Midlands,Derbyshire,Owler Bar Turnpike Trust; Norton to Hathersage Turnpike Trust,1781,Derbyshire Roads (No. 2) Act 1781,web reader,3,3,Owler Bar=Owler Bar; Hathersage=Hathersage; Norton=Norton
+303,East Midlands,Derbyshire,Sheffield and Chapel en le Frith Turnpike Trust; Banner Cross to Fox House Turnpike Trust,1757,Yorks and Derby Roads Act 1757,web reader,4,3,Sheffield=Sheffield; Chapel en le Frith=Chapel-en-le-Frith; Banner Cross=Banner Cross
+304,East Midlands,Derbyshire,Sheffield and Gander Lane Turnpike Trust,1779,Derby and Yorks Roads Act 1779,web reader,2,1,Sheffield=Sheffield
+305,East Midlands,Derbyshire,Sheffield and Glossop Turnpike Trust,1818,Sheffield and Glossop Road Act 1818,web reader,2,2,Sheffield=Sheffield; Glossop=Glossop
+306,East Midlands,Derbyshire,Sheffield and Glossop Turnpike Trust,,Sheffield and Glossop Road Act 1825,web reader,2,2,Sheffield=Sheffield; Glossop=Glossop
+307,East Midlands,Derbyshire,Temple Normanton and Tibshelf Turnpike Trust; Chesterfield to Tibshelf Side Turnpike Trust,1827,Temple Normanton and Tibshelf Turnpike Road (Derbyshire) Act 1827,web reader,4,3,Temple Normanton=Temple Normanton; Tibshelf=Tibshelf; Chesterfield=Chesterfield
+308,East Midlands,Derbyshire,"Tideswell, Blackwell, Edensor and Ashford Turnpike Trust",1812,"Tideswell and Slough Lane, and Edensor and Ashford Turnpike Roads Act 1812",web reader,4,3,Tideswell=Tideswell; Edensor=Edensor; Blackwell=Blackwell
+309,East Midlands,Derbyshire,Tupton and Ashover Turnpike Trust,1808,Road from the Mansfield and Chesterfield Turnpike Road and from Tupton Nether Green Act 1808,web reader,2,2,Tupton=Tupton; Ashover=Ashover
+310,East Midlands,Derbyshire,Wirksworth and Derby Turnpike Trust,1793,Derby Roads Act 1793,web reader,2,2,Wirksworth=Wirksworth; Derby=Derby
+311,East Midlands,Leicestershire,Appleby Turnpike Trust,1759,"Derby, Leicester and Warwick Roads Act 1759",web reader,1,1,Appleby=Appleby
+312,East Midlands,Leicestershire,Ashby de la Zouch Turnpike Trust,1753,Leicester Roads Act 1753,web reader,1,1,Ashby de la Zouch=Ashby-de-la-Zouch
+313,East Midlands,Leicestershire,Bridgeford Lane and Kettering Turnpike Trust,1754,"Bridgeford Lane, Nottinghamshire to Kettering Road Act 1754",web reader,2,1,Kettering=Kettering
+314,East Midlands,Leicestershire,Burton on Trent to Market Bosworth Turnpike Trust; Burton Bridge to Market Bosworth Turnpike Trust,1759,"Derby, Leicester and Warwick Roads Act 1759",web reader,3,2,Burton on Trent=Burton upon Trent; Market Bosworth=Market Bosworth
+315,East Midlands,Leicestershire,Desford Turnpike Trust,1788,Leicester Roads Act 1788,web reader,1,1,Desford=Desford
+316,East Midlands,Leicestershire,Hinckley and Lutterworth Turnpike Trust,1762,Leicestershire Roads Act 1762,web reader,2,2,Hinckley=Hinckley; Lutterworth=Lutterworth
+317,East Midlands,Leicestershire,Hinckley and Melbourne Turnpike Trust,1759,Leicester and Derby Roads Act 1759,web reader,2,2,Hinckley=Hinckley; Melbourne=Melbourne
+318,East Midlands,Leicestershire,Hinckley and Narborough Turnpike Trust,1754,Leicester and Warwick Roads Act 1754,web reader,2,2,Hinckley=Hinckley; Narborough=Narborough
+319,East Midlands,Leicestershire,Leicester and Lutterworth Turnpike Trust,1764,Leicester Roads Act 1764,web reader,2,2,Leicester=Leicester; Lutterworth=Lutterworth
+320,East Midlands,Leicestershire,Leicester and Welford Turnpike Trust,1765,Welford and Leicester Road Act 1765,web reader,2,2,Leicester=Leicester; Welford=Welford
+321,East Midlands,Leicestershire,Leicester to Coventry Turnpike Trust,1831,See Coventry to Stoney Stanton Turnpike Trust under Warwickshire,web reader,2,2,Leicester=Leicester; Coventry=Coventry
+322,East Midlands,Leicestershire,Leicester to Peterborough Turnpike Trust; Uppingham Turnpike Trust,1754,Leicester to Peterborough Road Act 1754,web reader,3,3,Leicester=Leicester; Peterborough=Peterborough; Uppingham=Uppingham
+323,East Midlands,Leicestershire,Loughborough and Ashby de la Zouch etc. Turnpike Trust; Loughborough and Ashby-de-la-Zouch Turnpike Trust,1757,Leicester Roads Act 1757,web reader,2,2,Loughborough=Loughborough; Ashby de la Zouch=Ashby-de-la-Zouch
+324,East Midlands,Leicestershire,Loughborough to Cavendish Bridge Turnpike Trust,1737,Derby Roads Act 1737,web reader,2,1,Loughborough=Loughborough
+325,East Midlands,Leicestershire,Market Harborough and Coventry Turnpike Trust,1755,Market Harborough to Coventry Road Act 1755,web reader,2,2,Market Harborough=Market Harborough; Coventry=Coventry
+326,East Midlands,Leicestershire,Market Harborough and Loughborough Turnpike Trust,1725,Leicestershire Road Act 1725,web reader,2,2,Market Harborough=Market Harborough; Loughborough=Loughborough
+327,East Midlands,Leicestershire,Markfield and Whitwick Turnpike Trust; Whitwick Turnpike Trust,1757,Leicestershire Roads Act 1757,web reader,2,2,Markfield=Markfield; Whitwick=Whitwick
+328,East Midlands,Leicestershire,Melton Mowbray Turnpike Trust,1764,Leicester Roads Act 1764,web reader,1,1,Melton Mowbray=Melton Mowbray
+329,East Midlands,Leicestershire,Melton Mowbray and Grantham Turnpike Trust,1780,Melton Mowbray to Grantham Road Act 1780,web reader,2,2,Melton Mowbray=Melton Mowbray; Grantham=Grantham
+330,East Midlands,Leicestershire,Moira and Hartshorne Turnpike Trust; Moira and Gresley Turnpike Trust,1794,Roads from Ticknall Act 1794,web reader,3,2,Moira=Moira; Hartshorne=Hartshorne
+331,East Midlands,Leicestershire,Pinwall Lane Turnpike Trust,1759,"Derby, Leicester and Warwick Roads Act 1759",web reader,1,0,
+332,East Midlands,Leicestershire,Sapcote and Narborough Turnpike Trust,1814,Road from Burbage to Narborough Act 1814,web reader,2,2,Sapcote=Sapcote; Narborough=Narborough
+333,East Midlands,Leicestershire,Tamworth to Harrington Bridge Turnpike Trust,1759,Leicester Roads Act 1759,web reader,2,1,Tamworth=Tamworth
+334,East Midlands,Leicestershire,Wanlip Turnpike Trust,1771,Leicester Roads Act 1771,web reader,1,1,Wanlip=Wanlip
+335,East Midlands,Lincolnshire,Bourn Turnpike Trust,1756,Northamptonshire and Lincoln Roads Act 1756,web reader,1,1,Bourn=Bourn
+336,East Midlands,Lincolnshire,Bracebridge to Lincoln Turnpike Trust,1756,Lincoln Roads Act 1756,web reader,2,2,Lincoln=Lincoln; Bracebridge=Bracebridge
+337,East Midlands,Lincolnshire,Bridge-End Turnpike Trust; Grantham to Swaton Turnpike Trust,1804,Grantham Road Act 1804,web reader,3,3,Grantham=Grantham; Swaton=Swaton; Bridge-End=Bridge End
+338,East Midlands,Lincolnshire,Deeping and Morcott Turnpike Trust,1762,Lincoln and Rutland Roads Act 1762,web reader,2,1,Morcott=Morcott
+339,East Midlands,Lincolnshire,Dexthorpe Turnpike Trust,1765,Notts and Lincoln Roads Act 1765,web reader,1,0,
+340,East Midlands,Lincolnshire,Donington Turnpike Trust,1757,Lincoln Roads Act 1757,web reader,1,1,Donington=Donington
+341,East Midlands,Lincolnshire,Donington to Hacconbury Field Turnpike Trust,1756,Lincoln and Peterborough Roads Act 1756,web reader,2,1,Donington=Donington
+342,East Midlands,Lincolnshire,Foston Turnpike Trust,1725,Foston Bridge and Witham Common Road Act 1725,web reader,1,0,
+343,East Midlands,Lincolnshire,Grantham and Nottingham Turnpike Trust,1758,Lincoln and Nottingham Roads Act 1758,web reader,2,2,Grantham=Grantham; Nottingham=Nottingham
+344,East Midlands,Lincolnshire,Grantham to Foston Bridge Turnpike Trust,1767,Lincoln and Notts Roads Act 1766,web reader,2,1,Grantham=Grantham
+345,East Midlands,Lincolnshire,Great Grimsby Haven to Irby Turnpike Trust,1765,Lincoln Roads Act 1765,web reader,2,0,
+346,East Midlands,Lincolnshire,Holbeach Turnpike Trust,1764,Lincoln Roads Act 1764,web reader,1,1,Holbeach=Holbeach
+347,East Midlands,Lincolnshire,Leadenham and Southwell Turnpike Trust,1758,Lincoln and Notts Roads Act 1758,web reader,2,2,Leadenham=Leadenham; Southwell=Southwell
+348,East Midlands,Lincolnshire,Lincoln Turnpike Trust,1756,Lincoln Roads Act 1756,web reader,1,1,Lincoln=Lincoln
+349,East Midlands,Lincolnshire,Lincoln Heath to Peterborough Turnpike Trust,1756,Lincoln and Peterborough Roads Act 1756,web reader,2,1,Peterborough=Peterborough
+350,East Midlands,Lincolnshire,"Lincoln, Brigg, Barton and Caistor Turnpike Trust",1765,Lincoln Roads (No. 2) Act 1765,web reader,4,3,Lincoln=Lincoln; Brigg=Brigg; Caistor=Caistor
+351,East Midlands,Lincolnshire,Littleworth Turnpike Trust,1757,Lincoln and Northampton Roads Act 1757,web reader,1,0,
+352,East Midlands,Lincolnshire,Louth Turnpike Trust; Saltfleet to Louth Turnpike Trust,1770,Louth Roads Act 1770,web reader,2,2,Louth=Louth; Saltfleet=Saltfleet
+353,East Midlands,Lincolnshire,Scartho Turnpike Trust,1803,Scartho and Louth Road Act 1803,web reader,1,1,Scartho=Scartho
+354,East Midlands,Lincolnshire,Sleaford and Tattershall Turnpike Trust,1793,Lincoln Roads Act 1793,web reader,2,2,Sleaford=Sleaford; Tattershall=Tattershall
+355,East Midlands,Lincolnshire,Spalding and Cowbit Bank Turnpike Trust,1772,River Welland Act 1772,web reader,2,1,Spalding=Spalding
+356,East Midlands,Lincolnshire,Spalding and Donington Turnpike Trust,1764,Lincoln Road Act 1764,web reader,2,2,Spalding=Spalding; Donington=Donington
+357,East Midlands,Lincolnshire,Spilsby Turnpike Trust; Alford to Boston Turnpike Trust,1765,Alford to Cowbridge Road Act 1765,web reader,3,3,Spilsby=Spilsby; Alford=Alford; Boston=Boston
+358,East Midlands,Lincolnshire,Stamford to Grantham Turnpike Trust,1738,Stamford and Grantham Road Act 1738,web reader,2,2,Stamford=Stamford; Grantham=Grantham
+359,East Midlands,Lincolnshire,Swineshead and Fosdyke Turnpike Trust,1826,Swineshead and Fosdyke Turnpike Road (Lincolnshire) Act 1826,web reader,2,2,Swineshead=Swineshead; Fosdyke=Fosdyke
+360,East Midlands,Lincolnshire,Wragby Turnpike Trust,1738,Lincoln (City) Roads Act 1738,web reader,1,1,Wragby=Wragby
+361,East Midlands,Northamptonshire,Banbury to Drayton Turnpike Trust,1765,Banbury to Lutterworth Road Act 1765,web reader,2,0,
+362,East Midlands,Northamptonshire,"Buckingham and Hanwell, Weeping Cross Turnpike Trust; Buckingham and Hanwell Turnpike Trust (Lower Division)",1743,Buckingham to Warmington Road Act 1743,web reader,3,1,Weeping Cross=Weeping Cross
+363,East Midlands,Northamptonshire,"Buckingham, Brackley, Banbury Turnpike Trust",1791,Buckingham to Banbury Road Act 1791,web reader,3,1,Brackley=Brackley
+364,East Midlands,Northamptonshire,Crowland and Eye Turnpike Trust,1817,Road from Crowland to Eye Act 1817,web reader,2,2,Crowland=Crowland; Eye=Eye
+365,East Midlands,Northamptonshire,Dunchurch Turnpike Trust; Northampton to Dunchurch Turnpike Trust,1738,Warwick Roads Act 1738,web reader,2,2,Dunchurch=Dunchurch; Northampton=Northampton
+366,East Midlands,Northamptonshire,Hardingstone to Old Stratford Turnpike Trust,1768,Hardingston and Old Stratford Road Act 1768,web reader,2,2,Hardingstone=Hardingstone; Old Stratford=Old Stratford
+367,East Midlands,Northamptonshire,Higham Ferrers Turnpike Trust,1754,Bedford and Northamptonshire Roads Act 1754,web reader,1,1,Higham Ferrers=Higham Ferrers
+368,East Midlands,Northamptonshire,Kettering and Newport Pagnell Turnpike Trust,1754,Kettering to Newport Pagnell Road Act 1754,web reader,2,1,Kettering=Kettering
+369,East Midlands,Northamptonshire,Kettering and Northampton Turnpike Trust,1819,Road from Kettering to Northampton Act 1819,web reader,2,2,Kettering=Kettering; Northampton=Northampton
+370,East Midlands,Northamptonshire,Lincoln Turnpike Trust (South District),1756,Lincoln and Peterborough Roads Act 1756,web reader,1,1,Lincoln=Lincoln
+371,East Midlands,Northamptonshire,Little Bowden and Rockingham Turnpike Trust,1793,Little Bowden and Rockingham Road Act 1793,web reader,2,2,Little Bowden=Little Bowden; Rockingham=Rockingham
+372,East Midlands,Northamptonshire,Lutterworth to Badby Turnpike Trust,1765,Banbury to Lutterworth Road Act 1765,web reader,2,2,Lutterworth=Lutterworth; Badby=Badby
+373,East Midlands,Northamptonshire,Market Harborough and Brampton Turnpike Trust,1752,Market Harborough and Brampton Road Act 1751,web reader,2,1,Market Harborough=Market Harborough
+374,East Midlands,Northamptonshire,Market Harborough and Welford Turnpike Trust,1722,Nottingham and Leicester Highways Act 1721,web reader,2,2,Market Harborough=Market Harborough; Welford=Welford
+375,East Midlands,Northamptonshire,Northampton (Hardingstone to Lathbury) Turnpike Trust,,,web reader,1,1,Northampton=Northampton
+376,East Midlands,Northamptonshire,Northampton and Cold Brayfield Turnpike Trust,1827,Northampton and Cold Brayfield Road Act 1827,web reader,2,1,Northampton=Northampton
+377,East Midlands,Northamptonshire,Northampton to Newport Pagnell Turnpike Trust,1710,Northampton Highways Act 1709,web reader,2,1,Northampton=Northampton
+378,East Midlands,Northamptonshire,Northampton to Newport Pagnell Turnpike Trust,1723,Buckinghamshire Highways Act 1722,web reader,2,1,Northampton=Northampton
+379,East Midlands,Northamptonshire,"Nottingham, Melton and Kettering Turnpike Trust; Nottingham and Kettering Turnpike Trust",1754,"Bridgeford Lane, Nottinghamshire to Kettering Road Act 1754",web reader,3,2,Nottingham=Nottingham; Kettering=Kettering
+380,East Midlands,Northamptonshire,Old Stratford to Dunchurch Turnpike Trust,1707,Old Stratford to Dunchurch Road Act 1707,web reader,2,2,Old Stratford=Old Stratford; Dunchurch=Dunchurch
+381,East Midlands,Northamptonshire,Oundle and Weldon Turnpike Trust,1794,Northampton Roads Act 1794,web reader,2,2,Oundle=Oundle; Weldon=Weldon
+382,East Midlands,Northamptonshire,Peterborough and Wellingborough Turnpike Trust,1754,Northamptonshire Roads Act 1754,web reader,2,2,Peterborough=Peterborough; Wellingborough=Wellingborough
+383,East Midlands,Northamptonshire,Peterborough and Wellingborough Turnpike Trust,1772,Northants Roads Act 1773,web reader,2,2,Peterborough=Peterborough; Wellingborough=Wellingborough
+384,East Midlands,Northamptonshire,Stamford and Kettering Turnpike Trust,1794,Northampton Roads Act 1794,web reader,2,2,Stamford=Stamford; Kettering=Kettering
+385,East Midlands,Northamptonshire,Thorney Road Turnpike Trust,1792,Cambridge Roads Act 1792,web reader,1,1,Thorney=Thorney
+386,East Midlands,Northamptonshire,Towcester and Cotton End Turnpike Trust,1795,Towcester to Hardington Road Act 1795,web reader,2,2,Towcester=Towcester; Cotton End=Cotton End
+387,East Midlands,Northamptonshire,"Towcester, Brackley and Weston Turnpike Trust",1757,Oxfordshire Roads Act 1757,web reader,3,3,Towcester=Towcester; Brackley=Brackley; Weston=Weston
+388,East Midlands,Northamptonshire,Wansford Turnpike Trust,1748,Northamptonshire Roads Act 1748,web reader,1,0,
+389,East Midlands,Northamptonshire,Wansford Road Turnpike Trust,1754,Leicester to Peterborough Road Act 1754,web reader,1,0,
+390,East Midlands,Northamptonshire,Warwick and Northampton Turnpike Trust,1765,Warwick and Northampton Road Act 1765,web reader,2,2,Warwick=Warwick; Northampton=Northampton
+391,East Midlands,Northamptonshire,Wellingborough and Northampton Turnpike Trust,1797,Wellingborough and Northampton Road Act 1797,web reader,2,2,Wellingborough=Wellingborough; Northampton=Northampton
+392,East Midlands,Nottinghamshire,Bawtry and East Markham Common Turnpike Trust; Scrooby Turnpike Trust,1766,Bawtry to Markham Road Act 1766,web reader,3,2,Bawtry=Bawtry; Scrooby=Scrooby
+393,East Midlands,Nottinghamshire,Bawtry Bridge to Hainton Turnpike Trust,1765,Notts and Lincoln Roads Act 1765,web reader,2,1,Hainton=Hainton
+394,East Midlands,Nottinghamshire,Bingham Turnpike Trust,1773,Nottinghamshire Roads Act 1773,web reader,1,1,Bingham=Bingham
+395,East Midlands,Nottinghamshire,Clown and Budby Turnpike Trust,1810,Road from Rotherham to Clown and Worksop Act 1810,web reader,2,1,Budby=Budby
+396,East Midlands,Nottinghamshire,Dunham and Darlton Turnpike Trust; Dunham Road Turnpike Trust,1765,Dunham Ferry and Great Markham Common Road Act 1765,web reader,2,1,Darlton=Darlton
+397,East Midlands,Nottinghamshire,Gainsborough and Retford Turnpike Trust,1787,Lincoln and Nottinghamshire Roads Act 1787,web reader,2,2,Gainsborough=Gainsborough; Retford=Retford
+398,East Midlands,Nottinghamshire,Kirby and Pinxton Turnpike Trust,1788,Nottinghamshire and Derby Roads (No. 2) Act 1788,web reader,2,1,Pinxton=Pinxton
+399,East Midlands,Nottinghamshire,Kirklington and Hockerton Turnpike Trust,1774,Notts Roads Act 1774,web reader,2,2,Kirklington=Kirklington; Hockerton=Hockerton
+400,East Midlands,Nottinghamshire,Mansfield and Tibshelf Turnpike Trust,1765,Notts and Derby Roads Act 1765,web reader,2,2,Mansfield=Mansfield; Tibshelf=Tibshelf
+401,East Midlands,Nottinghamshire,Mansfield to Worksop Turnpike Trust,1822,Road from Mansfield to Worksop Brecks Act 1822,web reader,2,2,Mansfield=Mansfield; Worksop=Worksop
+402,East Midlands,Nottinghamshire,North Road Turnpike Trust; Foston Bridge and Little Drayton Turnpike Trust,1725,Foston Bridge and Witham Common Road Act 1725,web reader,2,1,Little Drayton=Little Drayton
+403,East Midlands,Nottinghamshire,Nottingham and Derby Turnpike Trust,1758,Lincoln and Nottingham Roads Act 1758,web reader,2,2,Nottingham=Nottingham; Derby=Derby
+404,East Midlands,Nottinghamshire,Nottingham and Grantham Turnpike Trust,1758,Lincoln and Nottingham Roads Act 1758,web reader,2,2,Nottingham=Nottingham; Grantham=Grantham
+405,East Midlands,Nottinghamshire,Nottingham and Ilkeston Turnpike Trust,1764,Nottinghamshire and Derby Roads Act 1764,web reader,2,2,Nottingham=Nottingham; Ilkeston=Ilkeston
+406,East Midlands,Nottinghamshire,Nottingham and Loughborough Turnpike Trust,1737,Nottinghamshire and Leicester Roads Act 1737,web reader,2,2,Nottingham=Nottingham; Loughborough=Loughborough
+407,East Midlands,Nottinghamshire,Nottingham and Mansfield Turnpike Trust,1787,Nottingham to Mansfield Road Act 1787,web reader,2,2,Nottingham=Nottingham; Mansfield=Mansfield
+408,East Midlands,Nottinghamshire,Nottingham and Newhaven Turnpike Trust,1758,Notts and Derby Roads Act 1758,web reader,2,2,Nottingham=Nottingham; Newhaven=Newhaven
+409,East Midlands,Nottinghamshire,Old Trent Bridge to Nottingham Turnpike Trust; Flood Road Turnpike Trust,1796,Nottingham Roads Act 1796,web reader,3,1,Nottingham=Nottingham
+410,East Midlands,Nottinghamshire,Retford and Littleborough Turnpike Trust,1824,Spittle Head Bridge and Littleborough Ferry Road (Nottinghamshire) Act 1824,web reader,2,2,Retford=Retford; Littleborough=Littleborough
+411,East Midlands,Nottinghamshire,Worksop and Kelham Turnpike Trust,1770,Nottingham Roads Act 1770,web reader,2,2,Worksop=Worksop; Kelham=Kelham
+412,East Midlands,Nottinghamshire,Worksop to Retford Turnpike Trust,1822,Worksop and West Retford Road Act 1822,web reader,2,2,Worksop=Worksop; Retford=Retford
+413,East Midlands,Rutland,Grantham Turnpike Trust,1738,Stamford and Grantham Road Act 1738,web reader,1,1,Grantham=Grantham
+414,East Midlands,Rutland,Leicester and Peterborough Turnpike Trust,1754,Leicester to Peterborough Road Act 1754,web reader,2,2,Leicester=Leicester; Peterborough=Peterborough
+415,East Midlands,Rutland,Oakham Turnpike Trust,1773,Rutland Roads Act 1773,web reader,1,1,Oakham=Oakham
+416,East of England,Bedfordshire,Barford Turnpike Trust,1772,Bedford Roads (No. 2) Act 1772,web reader,1,1,Barford=Barford
+417,East of England,Bedfordshire,Cardington to Temsford Bridge Turnpike Trust,1772,Bedford Roads (No. 2) Act 1772,web reader,2,1,Cardington=Cardington
+418,East of England,Bedfordshire,Bedford and Kimbolton Turnpike Trust,1795,Bedford to Kimbolton Road Act 1795,web reader,2,2,Bedford=Bedford; Kimbolton=Kimbolton
+419,East of England,Bedfordshire,Bedford and Luton Turnpike Trust,1726,Luton and Saint Albans Road Act 1726,web reader,2,2,Bedford=Bedford; Luton=Luton
+420,East of England,Bedfordshire,Bedford and Newport Pagnell Turnpike Trust,1754,Bedford and Buckinghamshire Roads (No. 2) Act 1754,web reader,2,2,Bedford=Bedford; Newport Pagnell=Newport Pagnell
+421,East of England,Bedfordshire,Bedford to Sherrington Turnpike Trust,1754,Bedford and Buckinghamshire Roads (No. 2) Act 1754,web reader,2,1,Bedford=Bedford
+422,East of England,Bedfordshire,Bedford and Woburn Turnpike Trust,1777,Bedford Roads Act 1777,web reader,2,2,Bedford=Bedford; Woburn=Woburn
+423,East of England,Bedfordshire,Biggleswade to Alconbury Hill Turnpike Trust,1724,Bedfordshire Roads Act 1724,web reader,2,1,Biggleswade=Biggleswade
+424,East of England,Bedfordshire,Great Staughton to Lavendon Turnpike Trust,1802,Road from Great Staughton to Lavendon Act 1802,web reader,2,2,Great Staughton=Great Staughton; Lavendon=Lavendon
+425,East of England,Bedfordshire,Hitchin and Bedford Turnpike Trust,1757,Hertford and Bedford Roads Act 1757,web reader,2,2,Hitchin=Hitchin; Bedford=Bedford
+426,East of England,Bedfordshire,Hockliffe and Woburn Turnpike Trust,1706,Bedfordshire Highways Act 1706,web reader,2,2,Hockliffe=Hockliffe; Woburn=Woburn
+427,East of England,Bedfordshire,Luton District Turnpike Trust,1726,Luton and Saint Albans Road Act 1726,web reader,1,1,Luton=Luton
+428,East of England,Bedfordshire,Potton Road Turnpike Trust,1814,Road from Potton to the Gamlingay and Eynesbury Road Act 1814,web reader,1,1,Potton=Potton
+429,East of England,Bedfordshire,Puddlehill Turnpike Trust,1710,Dunstable Highways Act 1710,web reader,1,0,
+430,East of England,Cambridgeshire,Arrington Turnpike Trust,1797,Cambridge and Arrington Roads Act 1797,web reader,1,1,Arrington=Arrington
+431,East of England,Cambridgeshire,Cambridge to Ely and Soham (South District) Turnpike Trust,1763,Cambridge and Ely Roads Act 1763,web reader,3,3,Cambridge=Cambridge; Ely=Ely; Soham=Soham
+432,East of England,Cambridgeshire,Hauxton and Dunsbridge Turnpike Trust,1724,Cambridge Roads Act 1724,web reader,2,1,Hauxton=Hauxton
+433,East of England,Cambridgeshire,Littleport to Welney (North West District) Turnpike Trust,1824,Cambridge and Ely Roads Act 1824,web reader,2,2,Littleport=Littleport; Welney=Welney
+434,East of England,Cambridgeshire,Newmarket Heath Turnpike Trust,1723,Cambridge Roads Act 1723,web reader,1,0,
+435,East of England,Cambridgeshire,Paper Mills Turnpike Trust,1744,Huntingdonshire and Cambridgeshire Roads Act 1744,web reader,1,0,
+436,East of England,Cambridgeshire,Red Cross Turnpike Trust,1766,Cambridge Roads Act 1766,web reader,1,0,
+437,East of England,Cambridgeshire,Haverhill to Shelford Turnpike Trust,1766,Cambridge Roads Act 1766,web reader,2,2,Haverhill=Haverhill; Shelford=Shelford
+438,East of England,Cambridgeshire,Royston to Wandesford Bridge (South District) Turnpike Trust,1710,Royston and Wandesford Bridge Road Act 1710,web reader,2,1,Royston=Royston
+439,East of England,Cambridgeshire,St Neots to Cambridge Turnpike Trust,1772,St. Neots to Cambridge Road Act 1772,web reader,2,2,St Neots=St Neots; Cambridge=Cambridge
+440,East of England,Cambridgeshire,Stump Cross Turnpike Trust,1723,Cambridge Roads Act 1723,web reader,1,0,
+441,East of England,Cambridgeshire,Wisbech Turnpike Trust,,,web reader,1,1,Wisbech=Wisbech
+442,East of England,Cambridgeshire,Wisbech and Thorney Turnpike Trust,1810,Wisbech and Thorney Road Act 1810,web reader,2,2,Wisbech=Wisbech; Thorney=Thorney
+443,East of England,Cambridgeshire,Wrestlingworth and Potton Turnpike Trust,1826,"Wimpole and Potton Road (Cambridgeshire, Bedfordshire) Act 1826",web reader,2,2,Wrestlingworth=Wrestlingworth; Potton=Potton
+444,East of England,Cambridgeshire,"Wimpole, Wrestlingworth and Potton Turnpike Trust",1826,"Wimpole and Potton Road (Cambridgeshire, Bedfordshire) Act 1826",web reader,3,3,Wimpole=Wimpole; Wrestlingworth=Wrestlingworth; Potton=Potton
+445,East of England,Essex,Barking and Tibury Fort Road Turnpike Trust,1808,Tilbury Fort Road Act 1808,web reader,2,0,
+446,East of England,Essex,Chelmsford Turnpike Trust,1695,London to Harwich Roads Act 1695,web reader,1,1,Chelmsford=Chelmsford
+447,East of England,Essex,Coggeshall and Bocking Turnpike Trust,1765,"Essex, Suffolk, and Hertford Roads Act 1765",web reader,2,2,Coggeshall=Coggeshall; Bocking=Bocking
+448,East of England,Essex,Colchester Turnpike Trust,1695,London to Harwich Roads Act 1695,web reader,1,1,Colchester=Colchester
+449,East of England,Essex,Dunmow Turnpike Trust,1725,Essex Roads Act 1725,web reader,1,0,
+450,East of England,Essex,Epping and Ongar Turnpike Trust,1787,Epping and Ongar Road Act 1787,web reader,2,1,Epping=Epping
+451,East of England,Essex,Essex Second District Turnpike Trust,1695,London to Harwich Roads Act 1695,web reader,1,0,
+452,East of England,Essex,Halsted Turnpike Trust,1725,Essex Roads Act 1725,web reader,1,1,Halsted=Halstead
+453,East of England,Essex,Hockerill Turnpike Trust,1743,Essex and Hertfordshire Roads Act 1743,web reader,1,1,Hockerill=Hockerill
+454,East of England,Essex,Middlesex and Essex Turnpike Trust,1721,Whitechapel Highways Act 1721,web reader,2,0,
+455,East of England,Essex,Notley Turnpike Trust,1725,Essex Roads Act 1725,web reader,1,0,
+456,East of England,Essex,Rochford Hundred Turnpike Trust,1746,Essex Roads Act 1746,web reader,1,0,
+457,East of England,Essex,Shenfield to Harwich Turnpike Trust,1695,London to Harwich Roads Act 1695,web reader,2,2,Shenfield=Shenfield; Harwich=Harwich
+458,East of England,Essex,Thundersley to Hornden Turnpike Trust,1793,Essex Roads (No. 2) Act 1793,web reader,2,1,Thundersley=Thundersley
+459,East of England,Hertfordshire,Baldock and Bournbridge Turnpike Trust,1769,Hertford and Cambridge Roads Act 1769,web reader,2,1,Baldock=Baldock
+460,East of England,Hertfordshire,Cheshunt Turnpike Trust,1724,Hertford and Ware Roads Act 1724,web reader,1,1,Cheshunt=Cheshunt
+461,East of England,Hertfordshire,Dunstable Turnpike Trust,1722,Dunstable Roads Act 1722,web reader,1,1,Dunstable=Dunstable
+462,East of England,Hertfordshire,Galley Corner to Lemsford Turnpike Trust,1730,Middlesex and Hertford Roads Act 1729,web reader,2,1,Lemsford=Lemsford
+463,East of England,Hertfordshire,Enfield Chase or Galley Corner Turnpike Trust,1730,Middlesex and Hertford Roads Act 1729,web reader,2,0,
+464,East of England,Hertfordshire,Pondyards and Barnet Turnpike Trust,1714,Hertford and Middlesex Highways Act 1715,web reader,2,1,Barnet=Barnet
+465,East of England,Hertfordshire,St Albans (Pondyards and Barnet) Turnpike Trust,1714,Hertford and Middlesex Highways Act 1715,web reader,1,1,St Albans=St Albans
+466,East of England,Hertfordshire,Reading and Hatfield Turnpike Trust,1768,Reading and Hatfield Road Act 1768,web reader,2,2,Reading=Reading; Hatfield=Hatfield
+467,East of England,Hertfordshire,Sparrows Herne Turnpike Trust,1762,Hertford and Bucks Roads Act 1762,web reader,1,0,
+468,East of England,Hertfordshire,Stevenage and Biggleswade Turnpike Trust,1719,Stevenage and Biggleswade Road Act 1719,web reader,2,2,Stevenage=Stevenage; Biggleswade=Biggleswade
+469,East of England,Hertfordshire,Wadesmill Turnpike Trust,1663,"Road Repair (Hertfordshire, Cambridgeshire, and Huntingdonshire) Act 1663",web reader,1,1,Wadesmill=Wadesmill
+470,East of England,Hertfordshire,Wadesmill Turnpike Trust,1732,Hertfordshire Roads Act 1732,web reader,1,1,Wadesmill=Wadesmill
+471,East of England,Hertfordshire,Watton Turnpike Trust,1757,Hertford and Broadwater Road Act 1757,web reader,1,1,Watton=Watton
+472,East of England,Hertfordshire,Welwyn Turnpike Trust,1725,Hertfordshire Roads Act 1725,web reader,1,1,Welwyn=Welwyn
+473,East of England,Huntingdonshire,Bury and Stratton Turnpike Trust,1755,Bury and Stratton Road Act 1755,web reader,2,1,Bury=Bury
+474,East of England,Huntingdonshire,Godmanchester and Hartford Turnpike Trust,1765,Herts and Hunts Roads Act 1765,web reader,2,2,Godmanchester=Godmanchester; Hartford=Hartford
+475,East of England,Huntingdonshire,Godmanchester to Cambridge Turnpike Trust,1744,Huntingdonshire and Cambridgeshire Roads Act 1744,web reader,2,2,Godmanchester=Godmanchester; Cambridge=Cambridge
+476,East of England,Huntingdonshire,Kimbolton Turnpike Trust,1755,Kimbolton Road Act 1755,web reader,1,1,Kimbolton=Kimbolton
+477,East of England,Huntingdonshire,Oundle to Alconbury Turnpike Trust,1753,Northampton Roads Act 1753,web reader,2,2,Oundle=Oundle; Alconbury=Alconbury
+478,East of England,Huntingdonshire,Ramsey to Huntingdon Turnpike Trust,1755,Huntingdon Roads Act 1755,web reader,2,2,Ramsey=Ramsey; Huntingdon=Huntingdon
+479,East of England,Huntingdonshire,Somersham Turnpike Trust,1727,Huntingdonshire Roads Act 1727,web reader,1,0,
+480,East of England,Huntingdonshire,Stilton Turnpike Trust,1710,Hertford and Huntingdon Roads Act 1710,web reader,1,1,Stilton=Stilton
+481,East of England,Norfolk,Aylsham and Cromer Turnpike Trust,1794,Norfolk Roads Act 1794,web reader,2,2,Aylsham=Aylsham; Cromer=Cromer
+482,East of England,Norfolk,Downham and Fincham Turnpike Trust,1772,Norfolk Roads Act 1772,web reader,2,2,Fincham=Fincham; Downham=Downham
+483,East of England,Norfolk,Ely to Downham Turnpike Trust,1770,Cambridge and Norfolk Roads Act 1770,web reader,2,1,Ely=Ely
+484,East of England,Norfolk,Great Yarmouth to Acle and Branches Turnpike Trust,1830,Great Yarmouth and Acle Turnpike Road Act 1830,web reader,2,2,Great Yarmouth=Great Yarmouth; Acle=Acle
+485,East of England,Norfolk,Yarmouth to Acle Turnpike Trust,1830,Great Yarmouth and Acle Turnpike Road Act 1830,web reader,2,2,Yarmouth=Yarmouth; Acle=Acle
+486,East of England,Norfolk,"Lynn, East Gate (Dersingham and Hillington) Turnpike Trust",1770,Norfolk Roads (No. 3) Act 1770,web reader,2,1,Lynn=King's Lynn
+487,East of England,Norfolk,King's Lynn to Hillington Turnpike Trust,1770,Norfolk Roads (No. 3) Act 1770,web reader,2,2,King's Lynn=King's Lynn; Hillington=Hillington
+488,East of England,Norfolk,"Lynn, South Gate Turnpike Trust",1770,Norfolk Roads (No. 2) Act 1770,web reader,2,1,Lynn=King's Lynn
+489,East of England,Norfolk,Lynn and Wisbech Turnpike Trust,1765,Norfolk Roads (No. 2) Act 1765,web reader,2,2,Lynn=King's Lynn; Wisbech=Wisbech
+490,East of England,Norfolk,New Buckenham Turnpike Trust,1772,Norwich to New Buckenham Road Act 1772,web reader,1,1,New Buckenham=New Buckenham
+491,East of England,Norfolk,North Walsham Turnpike Trust,1797,Norwich and North Walsham Road Act 1797,web reader,1,0,
+492,East of England,Norfolk,Norwich and Fakenham Turnpike Trust,1823,Road from Norwich to Fakenham Act 1823,web reader,2,2,Norwich=Norwich; Fakenham=Fakenham
+493,East of England,Norfolk,Norwich and Scole Turnpike Trust,1769,Norwich to Scole Bridge Road Act 1769,web reader,2,2,Norwich=Norwich; Scole=Scole
+494,East of England,Norfolk,Norwich and Swaffham Turnpike Trust,1770,Norwich and Swaffham Road Act 1770,web reader,2,2,Norwich=Norwich; Swaffham=Swaffham
+495,East of England,Norfolk,"Norwich, Mattishall and Swaffham Turnpike Trust",1770,Norwich and Swaffham Road Act 1770,web reader,3,3,Norwich=Norwich; Mattishall=Mattishall; Swaffham=Swaffham
+496,East of England,Norfolk,Norwich and Watton Turnpike Trust,1770,Norwich and Watton Road Act 1770,web reader,2,2,Norwich=Norwich; Watton=Watton
+497,East of England,Norfolk,Norwich and Yarmouth Turnpike Trust,1769,Norwich to Yarmouth Road Act 1769,web reader,2,2,Norwich=Norwich; Yarmouth=Yarmouth
+498,East of England,Norfolk,Norwich to Block Hill Turnpike Trust,1770,Norwich to Trowse Road Act 1770,web reader,2,1,Norwich=Norwich
+499,East of England,Norfolk,Stoke Ferry Turnpike Trust,1770,Stoke Ferry Roads Act 1770,web reader,1,1,Stoke Ferry=Stoke Ferry
+500,East of England,Norfolk,Thetford (to Norwich) Turnpike Trust,1695,Norfolk Roads Act 1695,web reader,1,1,Thetford=Thetford
+501,East of England,Norfolk,Wells to Fakenham Turnpike Trust,1826,Wells next the Sea and Fakenham Turnpike Road Act 1826,web reader,2,1,Fakenham=Fakenham
+502,East of England,Suffolk,Aldeburgh to Yoxford Turnpike Trust,1792,Suffolk Roads Act 1792,web reader,2,2,Aldeburgh=Aldeburgh; Yoxford=Yoxford
+503,East of England,Suffolk,"Aldburgh to Yoxford, Saxmundham and Benhall Turnpike Trust",1792,Suffolk Roads Act 1792,web reader,4,3,Aldburgh=Aldeburgh; Yoxford=Yoxford; Saxmundham=Saxmundham
+504,East of England,Suffolk,Brandon and Barton Turnpike Trust,1770,Barton and Brandon Road Act 1770,web reader,2,2,Brandon=Brandon; Barton=Barton
+505,East of England,Suffolk,Bury St Edmunds and Newmarket Turnpike Trust,1770,Suffolk and Cambridge Roads Act 1770,web reader,2,2,Bury St Edmunds=Bury St Edmunds; Newmarket=Newmarket
+506,East of England,Suffolk,Bury St Edmunds to Cranwich Turnpike Trust,1792,Norfolk Roads Act 1792,web reader,2,2,Bury St Edmunds=Bury St Edmunds; Cranwich=Cranwich
+507,East of England,Suffolk,"Claydon, Blakenham, Brockford and Stowmarket Turnpike Trust",1711,Suffolk Roads Act 1711,web reader,4,2,Claydon=Claydon; Stowmarket=Stowmarket
+508,East of England,Suffolk,Ipswich to Helmingham and Debenham Turnpike Trust,1812,"Ipswich and Debenham, and Hemingston and Otley Bottom Roads Act 1812",web reader,3,3,Ipswich=Ipswich; Helmingham=Helmingham; Debenham=Debenham
+509,East of England,Suffolk,Ipswich to Debenham Turnpike Trust,1812,"Ipswich and Debenham, and Hemingston and Otley Bottom Roads Act 1812",web reader,2,2,Ipswich=Ipswich; Debenham=Debenham
+510,East of England,Suffolk,Ipswich to Helmingham Turnpike Trust,1812,"Ipswich and Debenham, and Hemingston and Otley Bottom Roads Act 1812",web reader,2,2,Ipswich=Ipswich; Helmingham=Helmingham
+511,East of England,Suffolk,"Ipswich to South Town, and Darsham to Bungay Turnpike Trust",1785,Ipswich to South Town Road Act 1785,web reader,4,3,Ipswich=Ipswich; Darsham=Darsham; Bungay=Bungay
+512,East of England,Suffolk,Ipswich to Stratford St Mary Turnpike Trust,1812,Road from Ipswich to Stratford St. Mary Act 1812,web reader,2,2,Ipswich=Ipswich; Stratford St Mary=Stratford St Mary
+513,East of England,Suffolk,Ipswich to Stratford Turnpike Trust,1812,Road from Ipswich to Stratford St. Mary Act 1812,web reader,2,1,Ipswich=Ipswich
+514,East of England,Suffolk,Lakenheath and Hockwold Turnpike Trust,1828,Mildenhall and Littleport Road over River Ouse Act 1828,web reader,2,1,Lakenheath=Lakenheath
+515,East of England,Suffolk,Mildenhall to Littleport Turnpike Trust (Second District),1828,Mildenhall and Littleport Road over River Ouse Act 1828,web reader,2,2,Mildenhall=Mildenhall; Littleport=Littleport
+516,East of England,Suffolk,Little Yarmouth Turnpike Trust,1796,Little Yarmouth and Blytheburgh Road Act 1796,web reader,1,0,
+517,East of England,Suffolk,Mildenhall Burntfen Turnpike Trust,1828,Mildenhall and Littleport Road over River Ouse Act 1828,web reader,1,0,
+518,East of England,Suffolk,Mildenhall to Littleport Turnpike Trust (First District),1828,Mildenhall and Littleport Road over River Ouse Act 1828,web reader,2,2,Mildenhall=Mildenhall; Littleport=Littleport
+519,East of England,Suffolk,Scole Bridge to Bury St Edmunds Turnpike Trust,1769,Scole Bridge to Bury St. Edmunds Road Act 1769,web reader,2,1,Bury St Edmunds=Bury St Edmunds
+520,East of England,Suffolk,South Town Turnpike Trust,1775,Yarmouth to Gorleston Road Act 1775,web reader,1,0,
+521,East of England,Suffolk,Sudbury to Bury St Edmunds Turnpike Trust,1762,Sudbury to Bury St. Edmunds Road Act 1762,web reader,2,2,Sudbury=Sudbury; Bury St Edmunds=Bury St Edmunds
+522,East of England,Suffolk,Thetford and Newmarket Turnpike Trust,1768,Thetford and Newmarket Road Act 1768,web reader,2,2,Thetford=Thetford; Newmarket=Newmarket
+523,East of England,Suffolk,Woodbridge to Eye Turnpike Trust,1802,Woodbridge and Eye Road Act 1802,web reader,2,2,Woodbridge=Woodbridge; Eye=Eye
+524,West Midlands,Herefordshire,Blue Mantle Hall Turnpike Trust,1758,Hereford and Salop Roads Act 1758,web reader,1,0,
+525,West Midlands,Herefordshire,Bromyard Turnpike Trust; Hope to Bromyard Turnpike Trust,1751,Hereford Roads Act 1751,web reader,2,2,Bromyard=Bromyard; Hope=Hope
+526,West Midlands,Herefordshire,Clifford to Dewchurch Turnpike Trust,1782,Hereford Roads Act 1782,web reader,2,1,Clifford=Clifford
+527,West Midlands,Herefordshire,Hereford Turnpike Trust,1729,Hereford Roads Act 1729,web reader,1,1,Hereford=Hereford
+528,West Midlands,Herefordshire,"Kingsham, Kington, Radnor Turnpike Trust",1788,Radnor Roads Act 1788,web reader,3,2,Kington=Kington; Radnor=Radnor
+529,West Midlands,Herefordshire,Kington Turnpike Trust,1756,Hereford Roads Act 1756,web reader,1,1,Kington=Kington
+530,West Midlands,Herefordshire,Ledbury Turnpike Trust,1720,Ledbury Highways Act 1720,web reader,1,1,Ledbury=Ledbury
+531,West Midlands,Herefordshire,Leominster Turnpike Trust,1728,Leominster Roads Act 1728,web reader,1,1,Leominster=Leominster
+532,West Midlands,Herefordshire,Leominster and Ledbury Turnpike Trust,1825,Leominster and Ledbury Road Act 1825,web reader,2,2,Leominster=Leominster; Ledbury=Ledbury
+533,West Midlands,Herefordshire,Madeley Turnpike Trust,1764,Salop Roads (No. 2) Act 1764,web reader,1,1,Madeley=Madeley
+534,West Midlands,Herefordshire,Monkland and Parton Turnpike Trust,1782,Hereford and Worcester Roads Act 1782,web reader,2,1,Monkland=Monkland
+535,West Midlands,Herefordshire,Presteigne Turnpike Trust,1756,Presteigne Road Act 1756,web reader,1,1,Presteigne=Llanandras
+536,West Midlands,Herefordshire,Presteigne to Knighton Turnpike Trust,1767,Hereford Roads Act 1766,web reader,2,1,Presteigne=Llanandras
+537,West Midlands,Herefordshire,Ross Turnpike Trust,1725,Gloucester and Hereford Roads Act 1725,web reader,1,0,
+538,West Midlands,Herefordshire,"Ross, Abergavenny, Gosmont and Hay Turnpike Trust; Crickhowell to New Inn Turnpike Trust",1772,Brecon Roads Act 1772,web reader,6,3,Abergavenny=Abergavenny; Crickhowell=Crughywel; New Inn=New Inn
+539,West Midlands,Herefordshire,Whitchurch and Llangarren Turnpike Trust,1819,Hereford Roads Act 1819,web reader,2,1,Whitchurch=Whitchurch
+540,West Midlands,Herefordshire,Whitney and Brewardine Turnpike Trust,1759,"Hereford Roads, etc. Act 1759",web reader,2,0,
+541,West Midlands,Herefordshire,Wyeside Turnpike Trust,1767,Hereford Roads Act 1766,web reader,1,0,
+542,West Midlands,Shropshire,Atcham to Dorrington Turnpike Trust,1797,Salop Roads Act 1797,web reader,2,2,Atcham=Atcham; Dorrington=Dorrington
+543,West Midlands,Shropshire,Audlem and Woore Turnpike Trust,1767,Roads from Whitchurch and Hinstock Act 1766,web reader,2,2,Audlem=Audlem; Woore=Woore
+544,West Midlands,Shropshire,Bishop's Castle Turnpike Trust,1768,"Salop, Radnor and Montgomery Roads Act 1768",web reader,1,1,Bishop's Castle=Bishop's Castle
+545,West Midlands,Shropshire,Bridgnorth and Shifnal Turnpike Trust,1763,"Stafford, Sandon and Eccleshall Road Act 1763",web reader,2,2,Bridgnorth=Bridgnorth; Shifnal=Shifnal
+546,West Midlands,Shropshire,Bridgnorth to Black Brook Turnpike Trust,1751,Shropshire Roads Act 1751,web reader,2,1,Bridgnorth=Bridgnorth
+547,West Midlands,Shropshire,Bridgnorth Morvill Turnpike Trust,1751,Shropshire Roads Act 1751,web reader,1,0,
+548,West Midlands,Shropshire,Bridgnorth Smithy Brook Turnpike Trust,1751,Shropshire Roads Act 1751,web reader,1,0,
+549,West Midlands,Shropshire,Burlton and Llanymynech Turnpike Trust,1772,Salop Roads Act 1772,web reader,2,2,Burlton=Burlton; Llanymynech=Llanymynech
+550,West Midlands,Shropshire,Cleobury Mortimer District Turnpike Trust,,,web reader,1,1,Cleobury Mortimer=Cleobury Mortimer
+551,West Midlands,Shropshire,Cleobury North and Ditton Priors Turnpike Trust,1825,Roads from Bridgnorth to Cleobury Mortimer Act 1825,web reader,2,1,Ditton Priors=Ditton Priors
+552,West Midlands,Shropshire,Coalbrookdale and Wellington Turnpike Trust,1817,Madeley and Wellington Turnpike Road Act 1817,web reader,2,2,Coalbrookdale=Coalbrookdale; Wellington=Wellington
+553,West Midlands,Shropshire,"Ellesmere District of Shrewsbury and Wrexham, and Harmer Hill Branch Turnpike Trust",1751,Shrewsbury and Wrexham Road Act 1751,web reader,3,2,Wrexham=Wrexham; Harmer Hill=Harmer Hill
+554,West Midlands,Shropshire,Honington and Hilton Turnpike Trust,1763,"Stafford, Sandon and Eccleshall Road Act 1763",web reader,2,1,Honington=Honington
+555,West Midlands,Shropshire,Ironbridge (Buildwas to Tern Bridges) Turnpike Trust; Leighton and Buildwas Turnpike Trust,1778,Salop Roads Act 1778,web reader,3,3,Ironbridge=Ironbridge; Leighton=Leighton; Buildwas=Buildwas
+556,West Midlands,Shropshire,Kelsall to Whiston Cross Turnpike Trust,1762,Salop and Stafford Roads Act 1762,web reader,2,2,Kelsall=Kelsall; Whiston Cross=Whiston Cross
+557,West Midlands,Shropshire,King-Street Turnpike Trust,1797,Salop Roads Act 1797,web reader,1,0,
+558,West Midlands,Shropshire,Ludlow Turnpike Trust,1750,Ludlow and Monk's Bridge Road Act 1750,web reader,1,1,Ludlow=Ludlow
+559,West Midlands,Shropshire,"Marchwiaill, Bangor and Whitchurch Turnpike Trust; Whitchurch and Marchwiaill Turnpike Trust",1767,"Denbigh, Flint, Salop and Chester Roads Act 1766",web reader,3,2,Bangor=Bangor; Whitchurch=Whitchurch
+560,West Midlands,Shropshire,Ministerley to Churchstoke Turnpike Trust,1834,"Minsterly and Churchstoke Turnpike Road (Salop., Montgomery) Act 1834",web reader,2,2,Ministerley=Minsterley; Churchstoke=Churchstoke
+561,West Midlands,Shropshire,Much Wenlock to Church Stretton Turnpike Trust,1756,Much Wenlock Roads Act 1756,web reader,2,2,Much Wenlock=Much Wenlock; Church Stretton=Church Stretton
+562,West Midlands,Shropshire,Newport and Ternhill Turnpike Trust,1759,Chester to Birmingham Road Act 1759,web reader,2,2,Newport=Newport; Ternhill=Ternhill
+563,West Midlands,Shropshire,Oswestry Turnpike Trust,1756,Denbigh Roads Act 1756,web reader,1,1,Oswestry=Oswestry
+564,West Midlands,Shropshire,Preston Brockhurst Turnpike Trust,1756,Shropshire Roads (No. 2) Act 1756,web reader,1,1,Preston Brockhurst=Preston Brockhurst
+565,West Midlands,Shropshire,Shawbury Turnpike Trust,1769,Salop Roads Act 1769,web reader,1,1,Shawbury=Shawbury
+566,West Midlands,Shropshire,Shifnal District of Holyhead Road Turnpike Trust,1725,Shropshire Roads Act 1725,web reader,1,0,
+567,West Midlands,Shropshire,Shrewsbury to Baschurch Turnpike Trust,1757,"Shrewsbury, etc. Roads Act 1757",web reader,2,2,Shrewsbury=Shrewsbury; Baschurch=Baschurch
+568,West Midlands,Shropshire,Shrewsbury to Bridgnorth Turnpike Trust,1751,Shropshire Roads Act 1751,web reader,2,2,Shrewsbury=Shrewsbury; Bridgnorth=Bridgnorth
+569,West Midlands,Shropshire,Shrewsbury to Church Stretton and Condover Turnpike Trust,1756,Shropshire Roads Act 1756,web reader,3,3,Shrewsbury=Shrewsbury; Church Stretton=Church Stretton; Condover=Condover
+570,West Midlands,Shropshire,Shrewsbury to Longden and Castle Pulverbach Turnpike Trust,1785,"Salop, Radnor and Montgomery Roads Act 1785",web reader,3,2,Shrewsbury=Shrewsbury; Longden=Longden
+571,West Midlands,Shropshire,Shrewsbury to Minsterley Turnpike Trust,1757,"Shrewsbury, etc. Roads Act 1757",web reader,2,2,Shrewsbury=Shrewsbury; Minsterley=Minsterley
+572,West Midlands,Shropshire,Shrewsbury to Welshpool Turnpike Trust,1757,"Shrewsbury, etc. Roads Act 1757",web reader,2,2,Shrewsbury=Shrewsbury; Welshpool=Y Trallwng
+573,West Midlands,Shropshire,Shrewsbury to Westbury Turnpike Trust,1757,"Shrewsbury, etc. Roads Act 1757",web reader,2,2,Shrewsbury=Shrewsbury; Westbury=Westbury
+574,West Midlands,Shropshire,Wall under Heywood to Blackwood Turnpike Trust; Wall-under-Eyewood to Blackwood Turnpike Trust,1751,Shropshire Roads Act 1751,web reader,3,2,Wall under Heywood=Wall under Heywood; Blackwood=Y Coed Duon
+575,West Midlands,Shropshire,"Watling Street, By Road Turnpike Trust",1764,Salop Roads (No. 2) Act 1764,web reader,1,0,
+576,West Midlands,Shropshire,"Watling Street, Shrewsbury District and Branch Turnpike Trust",1725,Shropshire Roads Act 1725,web reader,2,1,Shrewsbury=Shrewsbury
+577,West Midlands,Shropshire,"Watling Street, Wellington District Turnpike Trust",1725,Shropshire Roads Act 1725,web reader,2,0,
+578,West Midlands,Shropshire,Welch Gate and Cotton Hill to Shrewsbury Turnpike Trust,1757,"Shrewsbury, etc. Roads Act 1757",web reader,3,1,Shrewsbury=Shrewsbury
+579,West Midlands,Shropshire,Wem Turnpike Trust; Wem to Sandford Turnpike Trust,1811,Road from Wem and Whitchurch Road to Sandford and Hodnet Road Act 1811,web reader,2,2,Wem=Wem; Sandford=Sandford
+580,West Midlands,Shropshire,Wem to Bron y Garth Turnpike Trust,1771,Salop and Denbigh Roads Act 1771,web reader,2,1,Wem=Wem
+581,West Midlands,Shropshire,Wenlock Turnpike Trust,1778,Much Wenlock Roads Act 1778,web reader,1,0,
+582,West Midlands,Shropshire,Whitchurch to Madeley etc Turnpike Trust,1767,Roads from Whitchurch and Hinstock Act 1766,web reader,2,2,Whitchurch=Whitchurch; Madeley=Madeley
+583,West Midlands,Shropshire,Whitchurch to Ternhill Turnpike Trust,1759,Chester to Birmingham Road Act 1759,web reader,2,2,Whitchurch=Whitchurch; Ternhill=Ternhill
+584,West Midlands,Staffordshire,Ashbourne to Leek and Congleton Turnpike Trust,1762,"Stafford, Chester and Derby Roads Act 1762",web reader,3,3,Ashbourne=Ashbourne; Leek=Leek; Congleton=Congleton
+585,West Midlands,Staffordshire,Ashby de la Zouch to Tutbury Turnpike Trust,1753,Leicester and Stafford Roads Act 1753,web reader,2,2,Ashby de la Zouch=Ashby-de-la-Zouch; Tutbury=Tutbury
+586,West Midlands,Staffordshire,Bilston Turnpike Trust,1766,Stafford Roads (No. 3) Act 1766,web reader,1,1,Bilston=Bilston
+587,West Midlands,Staffordshire,Birmingham and Wednesbury Turnpike Trust,1726,Birmingham and Wednesbury Roads Act 1726,web reader,2,2,Birmingham=Birmingham; Wednesbury=Wednesbury
+588,West Midlands,Staffordshire,Burton on Trent (Alrewas and Shenstone) Turnpike Trust,1762,,web reader,1,1,Burton on Trent=Burton upon Trent
+589,West Midlands,Staffordshire,Burton on Trent to Abbots Bromley Turnpike Trust,1809,Road to Abbott's Bromley Act 1809,web reader,2,2,Burton on Trent=Burton upon Trent; Abbots Bromley=Abbots Bromley
+590,West Midlands,Staffordshire,"Butterton, Warslow, Hartington and Longnor Turnpike Trust",1770,Stafford Roads Act 1770,web reader,4,4,Warslow=Warslow; Hartington=Hartington; Butterton=Butterton; Longnor=Longnor
+591,West Midlands,Staffordshire,Cheadle Turnpike Trust,1831,Roads in the Neighbourhood of Cheadle Act 1831,web reader,1,1,Cheadle=Cheadle
+592,West Midlands,Staffordshire,Cheadle to Butterton Moor Turnpike Trust,1769,Cheadle to Butterton Moor Road Act 1769,web reader,2,1,Cheadle=Cheadle
+593,West Midlands,Staffordshire,Cheadle to Rocester Turnpike Trust,1799,Cheadle and Quickshill Bank and Bear's Brook and Rocester Roads Act 1799,web reader,2,2,Cheadle=Cheadle; Rocester=Rocester
+594,West Midlands,Staffordshire,Darlaston Turnpike Trust; Tittensor Turnpike Trust,1713,Tittensor Turnpike Act 1713,web reader,2,2,Darlaston=Darlaston; Tittensor=Tittensor
+595,West Midlands,Staffordshire,Darley Moor and Ellaston Turnpike Trust,1769,Darley Moor and Ellaston Road Act 1769,web reader,2,0,
+596,West Midlands,Staffordshire,Dudley and Wolverhampton Turnpike Trust,1761,"Stafford, Worcester and Warwick Roads Act 1760",web reader,2,2,Dudley=Dudley; Wolverhampton=Wolverhampton
+597,West Midlands,Staffordshire,"Eccleshall, Newport and Watling Street Turnpike Trust",1763,"Stafford, Sandon and Eccleshall Road Act 1763",web reader,3,2,Eccleshall=Eccleshall; Newport=Newport
+598,West Midlands,Staffordshire,Featherbed Lane Kings Bromley Turnpike Trust,1762,Lichfield Roads Act 1728,web reader,1,0,
+599,West Midlands,Staffordshire,Filleybrook Lane Branch of Rugeley Stone and Stafford Turnpike Trust,1790,Stafford and Warwick Roads Act 1789,web reader,2,1,Stafford=Stafford
+600,West Midlands,Staffordshire,Great Chell and Shelton Turnpike Trust,1770,Stafford and Cheshire Roads Act 1770,web reader,2,2,Great Chell=Great Chell; Shelton=Shelton
+601,West Midlands,Staffordshire,Handsworth Turnpike Trust,1809,Road from Handsworth to Hamstead Bridge (Staffordshire) Act 1809,web reader,1,1,Handsworth=Handsworth
+602,West Midlands,Staffordshire,Hanley and Bucknall Turnpike Trust,1771,Staffordshire Roads (No. 2) Act 1771,web reader,2,2,Hanley=Hanley; Bucknall=Bucknall
+603,West Midlands,Staffordshire,High Bridges to Uttoxeter Turnpike Trust,1766,Stafford Roads (No. 2) Act 1766,web reader,2,1,Uttoxeter=Uttoxeter
+604,West Midlands,Staffordshire,Lawton to Burslem and Newcastle Turnpike Trust,1763,"Lawton, Burslem and Newcastle-under-Lyme Road Act 1763",web reader,3,3,Lawton=Lawton; Burslem=Burslem; Newcastle=Newcastle
+605,West Midlands,Staffordshire,"Leek and Hassop, Middlehills and Buxton Turnpike Trust",1765,Stafford Roads Act 1765,web reader,4,3,Leek=Leek; Hassop=Hassop; Buxton=Buxton
+606,West Midlands,Staffordshire,Lichfield Turnpike Trust,1789,Stafford and Warwick Roads Act 1789,web reader,1,1,Lichfield=Lichfield
+607,West Midlands,Staffordshire,New Biddulph Turnpike Trust,1819,Biddulph and Dane-in-Shaw Road and Branch Act 1819,web reader,1,0,
+608,West Midlands,Staffordshire,Newcastle and Eccleshall Turnpike Trust,1823,Three Districts of Road in Staffordshire and Salop Act 1823,web reader,2,2,Newcastle=Newcastle; Eccleshall=Eccleshall
+609,West Midlands,Staffordshire,Newcastle to Derby Turnpike Trust,1759,Derby to Newcastle-under-Lyne Road Act 1758,web reader,2,2,Newcastle=Newcastle; Derby=Derby
+610,West Midlands,Staffordshire,Newcastle under Lyme and Drayton Turnpike Trust,1769,Salop Roads Act 1769,web reader,2,1,Newcastle under Lyme=Newcastle-under-Lyme
+611,West Midlands,Staffordshire,Newcastle under Lyme and Leek Turnpike Trust,1765,Stafford Roads Act 1765,web reader,2,2,Newcastle under Lyme=Newcastle-under-Lyme; Leek=Leek
+612,West Midlands,Staffordshire,Newcastle under Lyme and Nantwich Turnpike Trust,1766,Stafford and Chester Roads Act 1766,web reader,2,2,Newcastle under Lyme=Newcastle-under-Lyme; Nantwich=Nantwich
+613,West Midlands,Staffordshire,Newport and Stonnall Turnpike Trust,1766,Chester to Birmingham Road Act 1759,web reader,2,2,Newport=Newport; Stonnall=Stonnall
+614,West Midlands,Staffordshire,Penkridge and Cannock Turnpike Trust,1827,Cannock and Penkridge Turnpike (Staffordshire) Act 1826,web reader,2,2,Penkridge=Penkridge; Cannock=Cannock
+615,West Midlands,Staffordshire,Perry Bar to Birmingham Turnpike Trust,1831,Perry Barr and Aston juxta Birmingham Turnpike Road Act 1831,web reader,2,1,Birmingham=Birmingham
+616,West Midlands,Staffordshire,Rugeley and Alrewas Turnpike Trust,1824,Rugeley and Alrewas Turnpike Road Act 1824,web reader,2,2,Rugeley=Rugeley; Alrewas=Alrewas
+617,West Midlands,Staffordshire,Rugeley and Stone Turnpike Trust,1728,Lichfield Roads Act 1728,web reader,2,2,Rugeley=Rugeley; Stone=Stone
+618,West Midlands,Staffordshire,"Sandon, Hugbridge, Hilderstone etc. Turnpike Trust",1762,Stafford and Chester Roads Act 1762,web reader,3,2,Sandon=Sandon; Hilderstone=Hilderstone
+619,West Midlands,Staffordshire,Soho Hill to Hamstead Bridge Turnpike Trust,1809,Road from Handsworth to Hamstead Bridge (Staffordshire) Act 1809,web reader,2,0,
+620,West Midlands,Staffordshire,Spath to Hanging Bridge Turnpike Trust,1766,Stafford Roads (No. 2) Act 1766,web reader,2,1,Spath=Spath
+621,West Midlands,Staffordshire,"Stafford, Church Bridge, Uttoxeter and Newport Turnpike Trust",1793,Stafford and Salop Roads Act 1793,web reader,4,3,Stafford=Stafford; Uttoxeter=Uttoxeter; Newport=Newport
+622,West Midlands,Staffordshire,"Stafford, Sandon, Eccleshall Turnpike Trust",1763,"Stafford, Sandon and Eccleshall Road Act 1763",web reader,3,3,Stafford=Stafford; Sandon=Sandon; Eccleshall=Eccleshall
+623,West Midlands,Staffordshire,"Stone, Lane End, Blythe Bridge etc. Turnpike Trust",1771,Staffordshire Roads Act 1771,web reader,3,3,Stone=Stone; Lane End=Lane End; Blythe Bridge=Blythe Bridge
+624,West Midlands,Staffordshire,"Stone, Stafford and Penkridge Turnpike Trust",1760,"Stafford, Worcester and Warwick Roads Act 1760",web reader,3,3,Stone=Stone; Stafford=Stafford; Penkridge=Penkridge
+625,West Midlands,Staffordshire,Stourbridge and Bridgnorth Turnpike Trust,1816,Stourbridge and Bridgnorth Boundary Stone Road Act 1816,web reader,2,2,Stourbridge=Stourbridge; Bridgnorth=Bridgnorth
+626,West Midlands,Staffordshire,Streetway and Wordsley Green Turnpike Trust; Streetway and Wordsley Green and Wolverhampton Turnpike Trust,1760,"Stafford, Worcester and Warwick Roads Act 1760",web reader,3,1,Wolverhampton=Wolverhampton
+627,West Midlands,Staffordshire,Sutton Coldfield to Walsall Turnpike Trust,1747,Wolverhampton Roads Act 1747,web reader,2,1,Walsall=Walsall
+628,West Midlands,Staffordshire,Tamworth Turnpike Trust; Tamworth to Lichfield Turnpike Trust,1770,Tamworth Roads Act 1770,web reader,2,2,Tamworth=Tamworth; Lichfield=Lichfield
+629,West Midlands,Staffordshire,Tunstall and Bosley Turnpike Trust,1770,Stafford and Cheshire Roads Act 1770,web reader,2,2,Bosley=Bosley; Tunstall=Tunstall
+630,West Midlands,Staffordshire,Uttoxeter and Blythe Marsh Turnpike Trust,1823,Uttoxeter District of Roads Act 1823,web reader,2,1,Uttoxeter=Uttoxeter
+631,West Midlands,Staffordshire,Uttoxeter and Callingwood Plain Turnpike Trust,1809,"Ashbourne and Yoxall, and Hatton Moor and Tutbury Roads and Branches Act 1809",web reader,2,1,Uttoxeter=Uttoxeter
+632,West Midlands,Staffordshire,Uttoxeter to Stoke and Stone Turnpike Trust,1793,Uttoxeter to Stoke Road Act 1793,web reader,3,3,Uttoxeter=Uttoxeter; Stoke=Stoke; Stone=Stone
+633,West Midlands,Staffordshire,Walsall Turnpike Trust,1766,Stafford Roads (No. 4) Act 1766,web reader,1,1,Walsall=Walsall
+634,West Midlands,Staffordshire,Walsall and Hamstead Turnpike Trust,1788,Stafford Roads Act 1788,web reader,2,2,Walsall=Walsall; Hamstead=Hamstead
+635,West Midlands,Staffordshire,Walton in Stone to Eccleshall Turnpike Trust,1792,Stafford Roads Act 1792,web reader,2,1,Eccleshall=Eccleshall
+636,West Midlands,Staffordshire,West Bromwich to Sutton Coldfield Turnpike Trust,1804,West Bromwich and Sutton Coldfield Road Act 1804,web reader,2,0,
+637,West Midlands,Staffordshire,Wolverhampton Turnpike Trust,1747,Wolverhampton Roads Act 1747,web reader,1,1,Wolverhampton=Wolverhampton
+638,West Midlands,Staffordshire,"Wombourne, Sedgley to Bilston Turnpike Trust",1793,Stafford Roads (No. 2) Act 1793,web reader,3,3,Wombourne=Wombourne; Sedgley=Sedgley; Bilston=Bilston
+639,West Midlands,Warwickshire,Alcester and Wootton Turnpike Trust,1814,Alcester to Birmingham and Stratford-upon-Avon Road at Woolton Wawen Act 1814,web reader,2,1,Alcester=Alcester
+640,West Midlands,Warwickshire,Allesley to Canwell Turnpike Trust,1830,"Allesley and Canwell Gate Turnpike Road (Warwickshire, Staffordshire) Act 1830",web reader,2,1,Allesley=Allesley
+641,West Midlands,Warwickshire,Ansley and Whitacre Turnpike Trust,1762,Hinckley and Coventry Road Act 1762,web reader,2,1,Ansley=Ansley
+642,West Midlands,Warwickshire,"Arrow, Pot Hook's End, Dunnington and Crabb's Cross Turnpike Trust",1826,"Arrow and Pot Hooks End, and Dunnington and Crabs Cross Roads (Warwickshire and Worcestershire) Act 1826",web reader,4,3,Arrow=Arrow; Dunnington=Dunnington; Crabb's Cross=Crabbs Cross
+643,West Midlands,Warwickshire,Bentley Branch Turnpike Trust,1762,"Leicester, Warwick and Coventry Roads Act 1762",web reader,1,0,
+644,West Midlands,Warwickshire,Bentley Lane Turnpike Trust,1762,"Leicester, Warwick and Coventry Roads Act 1762",web reader,1,0,
+645,West Midlands,Warwickshire,Birmingham to Blakedown Pool Turnpike Trust,1753,Hagley and Birmingham Road Act 1753,web reader,2,1,Birmingham=Birmingham
+646,West Midlands,Warwickshire,Birmingham to Stonebridge Turnpike Trust,1744,Warwickshire Roads Act 1744,web reader,2,2,Birmingham=Birmingham; Stonebridge=Stonebridge
+647,West Midlands,Warwickshire,Birmingham to Stratford Turnpike Trust,1725,Birmingham to Edgehill Road Act 1725,web reader,2,2,Birmingham=Birmingham; Stratford=Stratford
+648,West Midlands,Warwickshire,Birmingham to Watford Gap Turnpike Trust,1807,Birmingham and Shenstone Road Act 1807,web reader,2,1,Birmingham=Birmingham
+649,West Midlands,Warwickshire,"Birmingham, Warwick and Warmington Turnpike Trust",1725,Birmingham to Edgehill Road Act 1725,web reader,3,3,Birmingham=Birmingham; Warwick=Warwick; Warmington=Warmington
+650,West Midlands,Warwickshire,Broad Campden Hill to Halford Bridge Turnpike Trust,1817,Road from Cross Hands to Halford Bridge Act 1817,web reader,2,0,
+651,West Midlands,Warwickshire,Castle Bromwich and Birmingham Turnpike Trust,1759,Chester to Birmingham Road Act 1759,web reader,2,2,Castle Bromwich=Castle Bromwich; Birmingham=Birmingham
+652,West Midlands,Warwickshire,Coventry Turnpike Trust,1812,Roads through Coventry Act 1812,web reader,1,1,Coventry=Coventry
+653,West Midlands,Warwickshire,Coventry and Over Whiteacre Turnpike Trust; Fillongley and Over Whiteacre Turnpike Trust,1762,Hinckley and Coventry Road Act 1762,web reader,3,2,Coventry=Coventry; Fillongley=Fillongley
+654,West Midlands,Warwickshire,Coventry and Stoney Stanton Turnpike Trust,1831,Coventry and Stoney Stanton Turnpike Road Act 1831,web reader,2,2,Coventry=Coventry; Stoney Stanton=Stoney Stanton
+655,West Midlands,Warwickshire,"Coventry and Warwick Turnpike Trust; Warwick, Coventry and Leamington Turnpike Trust",1754,Leicester and Warwick Roads Act 1754,web reader,3,2,Coventry=Coventry; Warwick=Warwick
+656,West Midlands,Warwickshire,Coventry and Wolvey Turnpike Trust,1813,Road from Coventry to Rugby Act 1813,web reader,2,2,Coventry=Coventry; Wolvey=Wolvey
+657,West Midlands,Warwickshire,Dunchurch and Southam Turnpike Trust,1794,Dunchurch to Southam Road Act 1794,web reader,2,2,Dunchurch=Dunchurch; Southam=Southam
+658,West Midlands,Warwickshire,Dunchurch and Stonebridge Turnpike Trust,1723,Warwick Roads Act 1723,web reader,2,2,Dunchurch=Dunchurch; Stonebridge=Stonebridge
+659,West Midlands,Warwickshire,Evesham and Alcester Turnpike Trust,1778,Evesham Roads Act 1778,web reader,2,2,Evesham=Evesham; Alcester=Alcester
+660,West Midlands,Warwickshire,Finford Bridge and Banbury Turnpike Trust,1755,Warwick and Oxford Roads Act 1755,web reader,2,0,
+661,West Midlands,Warwickshire,Hatton Turnpike Trust,,,web reader,1,0,
+662,West Midlands,Warwickshire,Hinckley and Coventry Turnpike Trust,1754,Leicester and Warwick Roads Act 1754,web reader,2,2,Hinckley=Hinckley; Coventry=Coventry
+663,West Midlands,Warwickshire,Mancetter to Wolvey Heath Turnpike Trust,1762,Hinckley and Coventry Road Act 1762,web reader,2,2,Mancetter=Mancetter; Wolvey Heath=Wolvey Heath
+664,West Midlands,Warwickshire,Northfield to Wootton Turnpike Trust,1767,Worcester and Warwick Roads Act 1766,web reader,2,1,Northfield=Northfield
+665,West Midlands,Warwickshire,Rugby to Hinckley Turnpike Trust,1812,Rugby Bridge and Hinckley Road Act 1812,web reader,2,2,Rugby=Rugby; Hinckley=Hinckley
+666,West Midlands,Warwickshire,Rugby to Kilworth Turnpike Trust,1801,Road from Rugby to the Lutterworth and Market Harborough Turnpike Road Act 1801,web reader,2,1,Rugby=Rugby
+667,West Midlands,Warwickshire,Rugby to Lutterworth Turnpike Trust,1785,Warwick Roads Act 1785,web reader,2,2,Rugby=Rugby; Lutterworth=Lutterworth
+668,West Midlands,Warwickshire,Rugby to Warwick Turnpike Trust,1818,Rugby and Warwick Road Act 1818,web reader,2,2,Rugby=Rugby; Warwick=Warwick
+669,West Midlands,Warwickshire,Southam to Kineton Turnpike Trust,1852,Southam and Kineton Turnpike Road Act 1852,web reader,2,2,Southam=Southam; Kineton=Kineton
+670,West Midlands,Warwickshire,Spernal Ash Turnpike Trust; Birmingham and Spernal Ash Turnpike Trust,1767,Warwick Roads Act 1766,web reader,2,1,Birmingham=Birmingham
+671,West Midlands,Warwickshire,Stonebridge to Kenilworth Turnpike Trust,1772,Warwick Roads Act 1772,web reader,2,2,Stonebridge=Stonebridge; Kenilworth=Kenilworth
+672,West Midlands,Warwickshire,Stratford to Bromsgrove Turnpike Trust,1754,Warwick and Worcester Roads Act 1754,web reader,2,2,Stratford=Stratford; Bromsgrove=Bromsgrove
+673,West Midlands,Warwickshire,Stratford to Edgehill Turnpike Trust,1725,Birmingham to Edgehill Road Act 1725,web reader,2,2,Stratford=Stratford; Edgehill=Edgehill
+674,West Midlands,Warwickshire,Stratford to Long Compton Turnpike Trust,1729,Warwick Roads Act 1729,web reader,2,2,Stratford=Stratford; Long Compton=Long Compton
+675,West Midlands,Warwickshire,"Upton, Great Kington and Wellesbourne Turnpike Trust",1770,"Upton, Great Kington and Wellesbourne Hastings Road Act 1770",web reader,3,2,Upton=Upton; Wellesbourne=Wellesbourne
+676,West Midlands,Warwickshire,Warwick to Paddle Brook and Stratford Turnpike Trust,1754,Leicester and Warwick Roads Act 1754,web reader,3,2,Warwick=Warwick; Stratford=Stratford
+677,West Midlands,Warwickshire,Watling Street Turnpike Trust,1762,"Leicester, Warwick and Coventry Roads Act 1762",web reader,1,0,
+678,West Midlands,Warwickshire,Wellesbourne and Stratford Turnpike Trust,1770,Wellesbourne Mountfort and Stratford-upon-Avon Road Act 1770,web reader,2,2,Wellesbourne=Wellesbourne; Stratford=Stratford
+679,West Midlands,Worcestershire,Birmingham to Bromsgrove Turnpike Trust,1726,Bromsgrove and Birmingham Roads Act 1726,web reader,2,2,Birmingham=Birmingham; Bromsgrove=Bromsgrove
+680,West Midlands,Worcestershire,Dog Lane Gate (Bewdley) Turnpike Trust,1753,Bewdley Roads Act 1753,web reader,1,0,
+681,West Midlands,Worcestershire,Droitwich Turnpike Trust,1713,Worcester Highways Act 1713,web reader,1,0,
+682,West Midlands,Worcestershire,Dudley and Brettell Lane Turnpike Trust,1726,Birmingham and Wednesbury Roads Act 1726,web reader,2,1,Dudley=Dudley
+683,West Midlands,Worcestershire,Dudley and New Inn Turnpike Trust,1790,Worcester Salop and Stafford Roads Act 1790,web reader,2,1,Dudley=Dudley
+684,West Midlands,Worcestershire,Dudley and Pedmore Turnpike Trust,1762,Worcester and Salop Roads Act 1762,web reader,2,2,Dudley=Dudley; Pedmore=Pedmore
+685,West Midlands,Worcestershire,Dudley and Rowley Regis Turnpike Trust,1762,Worcester and Salop Roads Act 1762,web reader,2,2,Dudley=Dudley; Rowley Regis=Rowley Regis
+686,West Midlands,Worcestershire,"Dudley, Halesowen and Bromsgrove Turnpike Trust; Dudley and Halesowen Turnpike Trust",1726,Bromsgrove and Birmingham Roads Act 1726,web reader,3,3,Dudley=Dudley; Halesowen=Halesowen; Bromsgrove=Bromsgrove
+687,West Midlands,Worcestershire,Evesham Turnpike Trust,1727,Evesham Roads Act 1727,web reader,1,1,Evesham=Evesham
+688,West Midlands,Worcestershire,Evesham Second District Turnpike Trust,1727,Evesham Roads Act 1727,web reader,1,1,Evesham=Evesham
+689,West Midlands,Worcestershire,Hatton to Bromsgrove Turnpike Trust,1767,Warwick and Worcester Roads Act 1766,web reader,2,2,Bromsgrove=Bromsgrove; Hatton=Hatton
+690,West Midlands,Worcestershire,Hundred House Turnpike Trust,1753,Worcester Roads Act 1753,web reader,1,1,Hundred House=Hundred House
+691,West Midlands,Worcestershire,Inning's Lane (from Kidderminster) Turnpike Trust; Inning's Lane Turnpike Trust,1777,Kidderminster Roads Act 1777,web reader,1,0,
+692,West Midlands,Worcestershire,Kidderminster Turnpike Trust,1759,Worcester Roads Act 1759,web reader,1,1,Kidderminster=Kidderminster
+693,West Midlands,Worcestershire,Mickleton and Broadway and Chipping Campden Turnpike Trust; Mickleton and Broadway Turnpike Trust,1824,Broadway and Mickleton Road Act 1824,web reader,3,3,Mickleton=Mickleton; Broadway=Broadway; Chipping Campden=Chipping Campden
+694,West Midlands,Worcestershire,Overbury to London Road Turnpike Trust,,,web reader,2,1,Overbury=Overbury
+695,West Midlands,Worcestershire,"Pershore Turnpike Trust; Birmingham, Redditch and Pershore Turnpike Trust",1825,Birmingham and Pershore Turnpike Road Act 1825,web reader,3,3,Pershore=Pershore; Birmingham=Birmingham; Redditch=Redditch
+696,West Midlands,Worcestershire,Stourbridge Turnpike Trust,1753,Hagley and Birmingham Road Act 1753,web reader,1,1,Stourbridge=Stourbridge
+697,West Midlands,Worcestershire,Stourbridge to Worfield Turnpike Trust,1816,Stourbridge and Bridgnorth Boundary Stone Road Act 1816,web reader,2,2,Stourbridge=Stourbridge; Worfield=Worfield
+698,West Midlands,Worcestershire,Tenbury Turnpike Trust,1757,Tenbury Roads Act 1757,web reader,1,0,
+699,West Midlands,Worcestershire,Tinker's Gate (Bewdley) Turnpike Trust,1753,Bewdley Roads Act 1753,web reader,1,0,
+700,West Midlands,Worcestershire,Upton-upon-Severn Turnpike Trust,1751,Worcestershire Roads Act 1751,web reader,1,1,Upton-upon-Severn=Upton upon Severn
+701,West Midlands,Worcestershire,Welch Gate (Bewdley) Turnpike Trust,1753,Bewdley Roads Act 1753,web reader,1,0,
+702,West Midlands,Worcestershire,Worcester Turnpike Trust,1725,Worcester Roads Act 1725,web reader,1,1,Worcester=Worcester
+703,North East,County Durham,Berwick and North Durham Turnpike Trust; Berwick and Norham and Islandshires Turnpike Trust,1753,Berwick Roads Act 1753,web reader,4,2,Durham=Durham; Norham=Norham
+704,North East,County Durham,Bishopswearmouth and Norton Turnpike Trust,1789,Bishop Wearmouth and Norton Road Act 1789,web reader,2,1,Norton=Norton
+705,North East,County Durham,Boroughbridge and Durham Turnpike Trust,1744,Boroughbridge and Darlington Road Act 1744,web reader,2,2,Boroughbridge=Boroughbridge; Durham=Durham
+706,North East,County Durham,Bowes and Sunderland Bridge Turnpike Trust,1747,Durham Roads Act 1747,web reader,2,2,Bowes=Bowes; Sunderland Bridge=Sunderland Bridge
+707,North East,County Durham,Catterick Bridge to Durham Turnpike Trust,1746,Yorkshire and Durham Roads Act 1746,web reader,2,2,Catterick Bridge=Catterick Bridge; Durham=Durham
+708,North East,County Durham,Cockerton Bridge and Staindrop Turnpike Trust; Darlington and Cockerton Bridge Turnpike Trust,1793,Cockerton Bridge to Staindrop Road Act 1793,web reader,3,2,Staindrop=Staindrop; Darlington=Darlington
+709,North East,County Durham,Cows Hill to Calton Turnpike Trust; Allendale Turnpike Trust,1826,"Branch End, Allendale and Cows Hill Turnpike Road Act 1826",web reader,3,0,
+710,North East,County Durham,Darlington and West Auckland Turnpike Trust,1750,Durham Roads Act 1750,web reader,2,1,Darlington=Darlington
+711,North East,County Durham,Darlington to Middleton Tyas Turnpike Trust; Angel Inn and Barton Lane End Turnpike Trust,1831,Darlington and Barton Lane End Turnpike Road Act 1831,web reader,4,2,Darlington=Darlington; Middleton Tyas=Middleton Tyas
+712,North East,County Durham,Derwent and Shotley Bridge Turnpike Trust; Winlaton to Shotley Bridge Turnpike Trust,1833,Road from Axwell Park Gate to Shotley Bridge (Durham) Act 1833,web reader,3,2,Shotley Bridge=Shotley Bridge; Winlaton=Winlaton
+713,North East,County Durham,Durham and Shotley Bridge Turnpike Trust,1810,Road between Durham and Shotley Bridge Act 1810,web reader,2,2,Durham=Durham; Shotley Bridge=Shotley Bridge
+714,North East,County Durham,Durham and Sunderland Turnpike Trust; Sunderland and Durham Turnpike Trust,1746,Sunderland to Durham Road Act 1746,web reader,2,2,Durham=Durham; Sunderland=Sunderland
+715,North East,County Durham,Durham and Tyne Bridge Turnpike Trust,1746,Durham to Tyne Bridge Road Act 1746,web reader,2,1,Durham=Durham
+716,North East,County Durham,Edmondbyers Turnpike Trust; Stanhope to Shotley Turnpike Trust,1815,Road from Stanhope to Shotley Act 1815,web reader,3,1,Stanhope=Stanhope
+717,North East,County Durham,Eggleston Coal Road Turnpike Trust,1792,Durham Roads Act 1792,web reader,1,0,
+718,North East,County Durham,Gateshead and Hexham Turnpike Trust,1777,Durham Roads Act 1777,web reader,2,2,Gateshead=Gateshead; Hexham=Hexham
+719,North East,County Durham,Lobley Hill and Branches Turnpike Trust,1793,Durham Roads Act 1793,web reader,1,1,Lobley Hill=Lobley Hill
+720,North East,County Durham,Middleton to Staindrop Turnpike Trust; Brough and Middleton Turnpike Trust,1817,Road to Middleton Bridge Act 1817,web reader,3,3,Staindrop=Staindrop; Middleton=Middleton; Brough=Brough
+721,North East,County Durham,Ovingham to Bywell Turnpike Trust,1777,Durham Roads Act 1777,web reader,2,2,Ovingham=Ovingham; Bywell=Bywell
+722,North East,County Durham,Piercebridge to Kirkmellington Turnpike Trust,1747,Durham Roads (No. 2) Act 1747,web reader,2,1,Piercebridge=Piercebridge
+723,North East,County Durham,South Shields Turnpike Trust,1826,South Shields and Vigo Lane Turnpike Road Act 1826,web reader,1,0,
+724,North East,County Durham,Stockton and Barnard Castle Turnpike Trust,1746,Stockton to Barnard Castle Road Act 1746,web reader,2,1,Barnard Castle=Barnard Castle
+725,North East,County Durham,Wearmouth Bridge and Tyne Bridge and Branches Turnpike Trust,1796,Wearmouth and Tyne Bridge Road Act 1796,web reader,2,0,
+726,North East,County Durham,West Auckland Turnpike Trust,1792,Durham and Northumberland Roads Act 1792,web reader,1,0,
+727,North East,Northumberland,Allendale Turnpike Trust,1826,"Branch End, Allendale and Cows Hill Turnpike Road Act 1826",web reader,1,0,
+728,North East,Northumberland,Alnmouth and Hexham Turnpike Trust,1751,Northumberland Roads (No. 2) Act 1751,web reader,2,2,Alnmouth=Alnmouth; Hexham=Hexham
+729,North East,Northumberland,Alnwick to Eddlingham Turnpike Trust,1826,"Alnwick, Eglingham and Chatton Road Act 1826",web reader,2,2,Alnwick=Alnwick; Eddlingham=Edlingham
+730,North East,Northumberland,Bartry Ford to Burnstones Turnpike Trust,1794,Burtry Ford to Burnstone Road Act 1794,web reader,2,1,Burnstones=Burnstones
+731,North East,Northumberland,Belford to Ford Bridge Turnpike Trust,,,web reader,2,1,Belford=Belford
+732,North East,Northumberland,Cow-causey and Buckton-Burn Turnpike Trust,1746,Northumberland Roads Act 1746,web reader,2,0,
+733,North East,Northumberland,"Deanburn Bridge, Berwick, Cornhill Turnpike Trust",1759,Durham Roads Act 1759,web reader,3,0,
+734,North East,Northumberland,Elsdon and Rudwater Turnpike Trust; Elsdon and Reedwater Turnpike Trust,1776,Northumberland Roads Act 1776,web reader,3,1,Elsdon=Elsdon
+735,North East,Northumberland,"Ford, Lowick and Redscar Turnpike Trust; Ford and Lowick Turnpike Trust",1792,Northumberland and Durham Roads Act 1792,web reader,3,2,Lowick=Lowick; Ford=Ford
+736,North East,Northumberland,Hexham Turnpike Trust; Glenwilt to Shildon Common Turnpike Trust,1751,Northumberland Roads (No. 3) Act 1751,web reader,3,1,Hexham=Hexham
+737,North East,Northumberland,Hexham to Alston Turnpike Trust,1778,Hexham to Alston Road Act 1778,web reader,2,2,Hexham=Hexham; Alston=Alston
+738,North East,Northumberland,Kelso to Cornhill Turnpike Trust,1793,Berwick and Durham Roads Act 1793,web reader,2,1,Kelso=Kelso
+739,North East,Northumberland,Newcastle upon Tyne to Carlisle Turnpike Trust,1750,Carlisle and Newcastle Road Act 1750,web reader,2,2,Newcastle upon Tyne=Newcastle upon Tyne; Carlisle=Carlisle
+740,North East,Northumberland,Newcastle upon Tyne to River Wanspeck Turnpike Trust,,,web reader,2,1,Newcastle upon Tyne=Newcastle upon Tyne
+741,North East,Northumberland,North Shields and Newcastle upon Tyne Turnpike Trust,1749,Northumberland Roads (No. 2) Act 1748,web reader,2,1,Newcastle upon Tyne=Newcastle upon Tyne
+742,North East,Northumberland,Percy's Cross to Millfield Turnpike Trust,1807,Roads from Percy's Cross and from Wooler (Northumberland) Act 1807,web reader,2,1,Millfield=Millfield
+743,North East,Northumberland,Ponteland Turnpike Trust,1748,Northumberland Roads Act 1748,web reader,1,1,Ponteland=Ponteland
+744,North East,Northumberland,Shields and Morpeth Turnpike Trust,1814,Turnpike Road between North Shields and Morpeth Castle Act 1814,web reader,2,1,Morpeth=Morpeth
+745,North East,Northumberland,Wooler and Adderstone Turnpike Trust,1825,Wooler and Adderstone Lane Road (Northumberland) Act 1825,web reader,2,1,Wooler=Wooler
+746,North East,Northumberland,Wooler and Beamish Turnpike Trust,1751,Northumberland Roads Act 1751,web reader,2,2,Wooler=Wooler; Beamish=Beamish
+747,Yorkshire,East Riding,Beverley to Kendal House Turnpike Trust,1764,Beverley and Kexby Bridge Road Act 1764,web reader,2,1,Beverley=Beverley
+748,Yorkshire,East Riding,Beverley to Kexby Bridge Turnpike Trust,1764,Beverley and Kexby Bridge Road Act 1764,web reader,2,1,Beverley=Beverley
+749,Yorkshire,East Riding,"Beverley, Hessle and North Cave Turnpike Trust",1769,Beverley to Hessle Ferry Turnpike Act 1769,web reader,3,2,Beverley=Beverley; Hessle=Hessle
+750,Yorkshire,East Riding,Brough Turnpike Trust,1771,Yorkshire Roads (No. 3) Act 1771,web reader,1,1,Brough=Brough
+751,Yorkshire,East Riding,Brough Ferry Turnpike Trust,1771,Yorkshire Roads (No. 3) Act 1771,web reader,1,0,
+752,Yorkshire,East Riding,Elloughton to Coney Clappers Turnpike Trust,1771,Yorkshire Roads (No. 3) Act 1771,web reader,2,1,Elloughton=Elloughton
+753,Yorkshire,East Riding,Hull and Beverley Turnpike Trust,1743,Kingston-upon-Hull and Beverley Road Act 1743,web reader,2,2,Hull=Kingston upon Hull; Beverley=Beverley
+754,Yorkshire,East Riding,Hull and Hedon Turnpike Trust,1744,Hedon and Hull Road Act 1744,web reader,2,2,Hull=Kingston upon Hull; Hedon=Hedon
+755,Yorkshire,East Riding,Hull and Hessle and Ferriby Turnpike Trust,1825,Kingston-upon-Hull and Ferriby Road Act 1825,web reader,3,2,Hull=Kingston upon Hull; Hessle=Hessle
+756,Yorkshire,East Riding,Hull and Kirk Ella Turnpike Trust,1744,Kingston-upon-Hull Roads Act 1744,web reader,2,2,Hull=Kingston upon Hull; Kirk Ella=Kirk Ella
+757,Yorkshire,East Riding,Molescroft Turnpike Trust,1766,"Beverley and Kendell House, and Molescroft and Bainton Balk Roads Act 1766",web reader,1,1,Molescroft=Molescroft
+758,Yorkshire,East Riding,"Beverley, Molesworth and Kendale House Turnpike Trust",1766,"Beverley and Kendell House, and Molescroft and Bainton Balk Roads Act 1766",web reader,3,1,Beverley=Beverley
+759,Yorkshire,East Riding,Ottringham to Sunk Island Turnpike Trust,1836,Road from Sunk Island to Ottringham Act 1836,web reader,2,2,Ottringham=Ottringham; Sunk Island=Sunk Island
+760,Yorkshire,East Riding,Patrington Turnpike Trust,1760,Sacred Gate and Patrington Creek Road Act 1760,web reader,1,1,Patrington=Patrington
+761,Yorkshire,East Riding,Hedon and Patrington Haven Turnpike Trust,1760,Sacred Gate and Patrington Creek Road Act 1760,web reader,2,2,Hedon=Hedon; Patrington Haven=Patrington Haven
+762,Yorkshire,East Riding,White-Cross Turnpike Trust,1760,White Cross and Beverley Roads Act 1760,web reader,1,0,
+763,Yorkshire,East Riding,Leven to Beverley Turnpike Trust,1760,White Cross and Beverley Roads Act 1760,web reader,2,2,Leven=Leven; Beverley=Beverley
+764,Yorkshire,East Riding,Wyton and Flinton Turnpike Trust,1767,Hedon and Hull Road Act 1766,web reader,2,2,Wyton=Wyton; Flinton=Flinton
+765,Yorkshire,East Riding,"York to Kexby Bridge, Grimston and Stonedale End Turnpike Trust",1765,Roads from York and from Grimston Act 1765,web reader,4,2,York=York; Grimston=Grimston
+766,Yorkshire,North Riding,Boroughbridge to Catterick Turnpike Trust,1742,"Boroughbridge, Catterick and Piersebridge Road Act 1742",web reader,2,2,Boroughbridge=Boroughbridge; Catterick=Catterick
+767,Yorkshire,North Riding,Boroughbridge to Catterick and Piercebridge,1742,"Boroughbridge, Catterick and Piersebridge Road Act 1742",web reader,3,3,Boroughbridge=Boroughbridge; Catterick=Catterick; Piercebridge=Piercebridge
+768,Yorkshire,North Riding,Malton and Pickering Turnpike Trust,1765,Malton and Pickering Road Act 1765,web reader,2,2,Malton=Malton; Pickering=Pickering
+769,Yorkshire,North Riding,Middleton-tyas Lane to Greta Bridge and Bowes Turnpike Trust,1743,Middleton and Bowes Road Act 1743,web reader,3,2,Greta Bridge=Greta Bridge; Bowes=Bowes
+770,Yorkshire,North Riding,Red House and Crofton Turnpike Trust,1740,"Wakefield, etc., Roads Act 1740",web reader,2,1,Crofton=Crofton
+771,Yorkshire,North Riding,Reeth and Tan Hill Turnpike Trust,1769,Yorkshire Roads (No. 2) Act 1769,web reader,2,1,Reeth=Reeth
+772,Yorkshire,North Riding,Richmond and Lancaster Turnpike Trust,1750,Richmond and Lancaster Road Act 1750,web reader,2,2,Richmond=Richmond; Lancaster=Lancaster
+773,Yorkshire,North Riding,Richmond to Lucy Cross Turnpike Trust,1756,Richmond to Lancaster Road Act 1756,web reader,2,1,Richmond=Richmond
+774,Yorkshire,North Riding,Richmond to Lucy Cross and Gilling Turnpike Trust,1756,Richmond to Lancaster Road Act 1756,web reader,3,1,Richmond=Richmond
+775,Yorkshire,North Riding,Richmond to Reeth Turnpike Trust,1836,Richmond and Reeth Road Act 1836,web reader,2,2,Richmond=Richmond; Reeth=Reeth
+776,Yorkshire,North Riding,Thirsk Turnpike Trust,1753,Thirsk Roads Act 1753,web reader,1,1,Thirsk=Thirsk
+777,Yorkshire,North Riding,Thirsk and Masham Turnpike Trust,1755,"Thirsk, Hutton Moor and Masham Road Act 1755",web reader,2,2,Thirsk=Thirsk; Masham=Masham
+778,Yorkshire,North Riding,Thirsk and Yarm Turnpike Trust,1802,Thirsk and Yarm Road Act 1802,web reader,2,2,Thirsk=Thirsk; Yarm=Yarm
+779,Yorkshire,North Riding,Whitby and Middleton Turnpike Trust,1764,Whitby and Middleton Road Act 1764,web reader,2,2,Whitby=Whitby; Middleton=Middleton
+780,Yorkshire,North Riding,Winston Bridge Turnpike Trust,1760,Yorkshire and Durham Roads Act 1760,web reader,1,0,
+781,Yorkshire,North Riding,Gatherby Moor to Staindrop Turnpike Trust,1760,Yorkshire and Durham Roads Act 1760,web reader,2,1,Staindrop=Staindrop
+782,Yorkshire,North Riding,York to Oswaldkirk Bank Top Turnpike Trust,1768,Yorkshire Roads Act 1768,web reader,2,1,York=York
+783,Yorkshire,North Riding,York to Oswaldkirk Bank Turnpike Trust,1768,Yorkshire Roads Act 1768,web reader,2,1,York=York
+784,Yorkshire,North Riding,York to Scarborough Turnpike Trust,1751,Yorkshire Roads Act 1751,web reader,2,2,York=York; Scarborough=Scarborough
+785,Yorkshire,North Riding,York and Scarborough Turnpike Trust,1751,Yorkshire Roads Act 1751,web reader,2,2,York=York; Scarborough=Scarborough
+786,Yorkshire,West Riding,Almondbury to Austonley Turnpike Trust,1825,Meltham and Austonley Turnpike Road Act 1825,web reader,2,1,Almondbury=Almondbury
+787,Yorkshire,West Riding,Meltham and Wessenden Head Turnpike Trust,1825,Meltham and Austonley Turnpike Road Act 1825,web reader,2,1,Meltham=Meltham
+788,Yorkshire,West Riding,Balby to Worksop Turnpike Trust,1765,Balby to Worksop Road Act 1765,web reader,2,2,Balby=Balby; Worksop=Worksop
+789,Yorkshire,West Riding,Bampton to Mexborough Turnpike Trust,,,web reader,2,2,Bampton=Bampton; Mexborough=Mexborough
+790,Yorkshire,West Riding,Barnby Moor to Rotherham Turnpike Trust,1826,Rotherham and Barnby Moor Road Act 1826,web reader,2,2,Barnby Moor=Barnby Moor; Rotherham=Rotherham
+791,Yorkshire,West Riding,Barnsdale and Leeds Turnpike Trust,1819,Barnsdale and Thwaite Gate Turnpike Road Act 1819,web reader,2,2,Barnsdale=Barnsdale; Leeds=Leeds
+792,Yorkshire,West Riding,Barnsley and Grange Moor Turnpike Trust,1758,Yorkshire Roads Act 1758,web reader,2,2,Barnsley=Barnsley; Grange Moor=Grange Moor
+793,Yorkshire,West Riding,Barnsley and Pontefract Turnpike Trust,1825,Barnsley and Pontefract Turnpike Road Act 1825,web reader,2,2,Barnsley=Barnsley; Pontefract=Pontefract
+794,Yorkshire,West Riding,Barnsley and Shepley Lane Head Turnpike Trust,,,web reader,2,1,Barnsley=Barnsley
+795,Yorkshire,West Riding,Barnsley to Cudworth Bridge Turnpike Trust,,,web reader,2,1,Barnsley=Barnsley
+796,Yorkshire,West Riding,Bawtry and Selby Turnpike Trust,1793,Bawtry by Selby Road Act 1793,web reader,2,2,Bawtry=Bawtry; Selby=Selby
+797,Yorkshire,West Riding,Bawtry and Tinsley Turnpike Trust,1759,Yorkshire Roads Act 1759,web reader,2,2,Bawtry=Bawtry; Tinsley=Tinsley
+798,Yorkshire,West Riding,Birstall and Huddersfield Turnpike Trust,1765,Yorks Roads Act 1765,web reader,2,2,Birstall=Birstall; Huddersfield=Huddersfield
+799,Yorkshire,West Riding,Bradford and Eccleshill Turnpike Trust,1825,Eccleshill and Bradford Turnpike Road Act 1825,web reader,2,2,Bradford=Bradford; Eccleshill=Eccleshill
+800,Yorkshire,West Riding,Bradford and Thornton Turnpike Trust,1825,Leeds and Halifax Turnpike Roads and Branches Act 1825,web reader,2,2,Bradford=Bradford; Thornton=Thornton
+801,Yorkshire,West Riding,Bradford and Wakefield Turnpike Trust,1753,Bradford and Wakefield Road Act 1753,web reader,2,2,Bradford=Bradford; Wakefield=Wakefield
+802,Yorkshire,West Riding,Bradford to Colne Turnpike Trust,,,web reader,2,2,Bradford=Bradford; Colne=Colne
+803,Yorkshire,West Riding,Bradford to Heckmondwyke Turnpike Trust,,,web reader,2,2,Bradford=Bradford; Heckmondwyke=Heckmondwike
+804,Yorkshire,West Riding,Brighouse Turnpike Trust,,,web reader,1,1,Brighouse=Brighouse
+805,Yorkshire,West Riding,Brighouse and Denholme Gate Turnpike Trust,1825,Halifax and Bradford Turnpike Road Act 1825,web reader,2,2,Brighouse=Brighouse; Denholme Gate=Denholme Gate
+806,Yorkshire,West Riding,Chadderton to Huddersfield Turnpike Trust,,,web reader,2,2,Chadderton=Chadderton; Huddersfield=Huddersfield
+807,Yorkshire,West Riding,Collingham and York Turnpike Trust,1771,Collingham to York Road Act 1771,web reader,2,2,Collingham=Collingham; York=York
+808,Yorkshire,West Riding,Colne to Broughton Turnpike Trust,1824,Road from Colne to Clithero Act 1824,web reader,2,2,Colne=Colne; Broughton=Broughton
+809,Yorkshire,West Riding,Dewsbury and Elland Turnpike Trust,1758,Dewsbury to Elland Road Act 1758,web reader,2,2,Dewsbury=Dewsbury; Elland=Elland
+810,Yorkshire,West Riding,Dewsbury and Leeds Turnpike Trust,1816,Road from Dewsbury to Leeds Act 1816,web reader,2,2,Dewsbury=Dewsbury; Leeds=Leeds
+811,Yorkshire,West Riding,Doncaster and Bawtry Turnpike Trust,,,web reader,2,2,Doncaster=Doncaster; Bawtry=Bawtry
+812,Yorkshire,West Riding,Doncaster and Salter's Brook Turnpike Trust,1740,Doncaster to Salter's Brook Road Act 1740,web reader,2,1,Doncaster=Doncaster
+813,Yorkshire,West Riding,Doncaster and Selby Turnpike Trust,1832,Road from Doncaster to Selby Act 1832,web reader,2,2,Doncaster=Doncaster; Selby=Selby
+814,Yorkshire,West Riding,Doncaster and Tadcaster Turnpike Trust,1740,Doncaster and Tadcaster Road Act 1740,web reader,2,2,Doncaster=Doncaster; Tadcaster=Tadcaster
+815,Yorkshire,West Riding,Doncaster and Thorne Turnpike Trust,1825,Road from Doncaster to Baln Croft Barn Act 1825,web reader,2,2,Doncaster=Doncaster; Thorne=Thorne
+816,Yorkshire,West Riding,Doncaster to Boroughbridge Turnpike Trust,1740,Doncaster and Tadcaster Road Act 1740,web reader,2,2,Doncaster=Doncaster; Boroughbridge=Boroughbridge
+817,Yorkshire,West Riding,Doncaster to Boroughbridge and Tadcaster Turnpike Trust,1740,Doncaster and Tadcaster Road Act 1740,web reader,3,3,Doncaster=Doncaster; Boroughbridge=Boroughbridge; Tadcaster=Tadcaster
+818,Yorkshire,West Riding,Doncaster to Wakefield Turnpike Trust,,,web reader,2,2,Doncaster=Doncaster; Wakefield=Wakefield
+819,Yorkshire,West Riding,"Dudley Hill, Killinghall and Harrogate Turnpike Trust",,,web reader,3,3,Dudley Hill=Dudley Hill; Killinghall=Killinghall; Harrogate=Harrogate
+820,Yorkshire,West Riding,Ecclesall to Dore Turnpike Trust,1812,Banner Cross and Fox House Turnpike Road and Branch Act 1812,web reader,2,2,Ecclesall=Ecclesall; Dore=Dore
+821,Yorkshire,West Riding,Ecclesall and Fox House Turnpike Trust,1812,Banner Cross and Fox House Turnpike Road and Branch Act 1812,web reader,2,1,Ecclesall=Ecclesall
+822,Yorkshire,West Riding,Elland and Saddleworth Turnpike Trust,1825,Road from Huddersfield to Rochdale Act 1825,web reader,2,1,Elland=Elland
+823,Yorkshire,West Riding,Ferrybridge and Boroughbridge Turnpike Trust,1740,Doncaster and Tadcaster Road Act 1740,web reader,2,2,Ferrybridge=Ferrybridge; Boroughbridge=Boroughbridge
+824,Yorkshire,West Riding,Godley Lane Turnpike Trust,1824,"Road from Godley Lane Head (Yorkshire, West Riding) Act 1824",web reader,1,0,
+825,Yorkshire,West Riding,Gomersal and Dewsbury Turnpike Trust,1826,Gomersal and Dewsbury Roads (Yorks. West Riding) Act 1826,web reader,2,2,Gomersal=Gomersal; Dewsbury=Dewsbury
+826,Yorkshire,West Riding,Greenfield and Shepley Lane Head Turnpike Trust,1823,"Greenfield and Shepley Lane Head Road (Yorkshire, West Riding) Act 1823",web reader,2,1,Greenfield=Greenfield
+827,Yorkshire,West Riding,Halifax and Huddersfield Turnpike Trust,1777,Halifax to Sheffield Road Act 1777,web reader,2,2,Halifax=Halifax; Huddersfield=Huddersfield
+828,Yorkshire,West Riding,Halifax and Sheffield Turnpike Trust,1777,Halifax to Sheffield Road Act 1777,web reader,2,2,Halifax=Halifax; Sheffield=Sheffield
+829,Yorkshire,West Riding,Halifax to Dewsbury Turnpike Trust,,,web reader,2,2,Halifax=Halifax; Dewsbury=Dewsbury
+830,Yorkshire,West Riding,Harrogate and Boroughbridge Turnpike Trust,1751,Yorkshire Roads (No. 3) Act 1751,web reader,2,2,Harrogate=Harrogate; Boroughbridge=Boroughbridge
+831,Yorkshire,West Riding,Harrogate and Hewick Turnpike Trust,1751,Yorkshire Roads (No. 3) Act 1751,web reader,2,1,Harrogate=Harrogate
+832,Yorkshire,West Riding,Haworth and Two Laws Turnpike Trust,1755,Yorkshire Roads Act 1755,web reader,2,1,Haworth=Haworth
+833,Yorkshire,West Riding,Holme Lane End and Heckmondwyke Turnpike Trust,1824,"Holme Lane End and Heckmondwike Road (Yorkshire, West Riding) Act 1824",web reader,2,1,Heckmondwyke=Heckmondwike
+834,Yorkshire,West Riding,Huddersfield and New Hey Turnpike Trust,1806,Road from Huddersfield to Rochdale Act 1806,web reader,2,1,Huddersfield=Huddersfield
+835,Yorkshire,West Riding,Huddersfield and Penistone Turnpike Trust,1777,Halifax to Sheffield Road Act 1777,web reader,2,2,Huddersfield=Huddersfield; Penistone=Penistone
+836,Yorkshire,West Riding,Huddersfield and Woodhead Turnpike Trust,1768,Yorks and Derby Roads Act 1768,web reader,2,2,Huddersfield=Huddersfield; Woodhead=Woodhead
+837,Yorkshire,West Riding,Hunslet and Leeds Turnpike Trust,1828,Road from Hunslet to Leeds Act 1828,web reader,2,2,Hunslet=Hunslet; Leeds=Leeds
+838,Yorkshire,West Riding,Keighley and Bradford Turnpike Trust,1753,Bradford and Wakefield Road Act 1753,web reader,2,2,Keighley=Keighley; Bradford=Bradford
+839,Yorkshire,West Riding,Keighley and Halifax Turnpike Trust,1753,Bradford and Wakefield Road Act 1753,web reader,2,2,Keighley=Keighley; Halifax=Halifax
+840,Yorkshire,West Riding,Keighley and Kendal Turnpike Trust,1753,Yorkshire and Westmorland Roads Act 1753,web reader,2,2,Keighley=Keighley; Kendal=Kendal
+841,Yorkshire,West Riding,Kirkgate to Westgate in Wakefield Turnpike Trust,,,web reader,2,0,
+842,Yorkshire,West Riding,"Kirkstall, Ilkley and Shipley Turnpike Trust",1825,Leeds and Halifax Turnpike Roads and Branches Act 1825,web reader,3,3,Kirkstall=Kirkstall; Ilkley=Ilkley; Shipley=Shipley
+843,Yorkshire,West Riding,"Kirkstall, Otley and Shipley Turnpike Trust",1825,Leeds and Halifax Turnpike Roads and Branches Act 1825,web reader,3,3,Kirkstall=Kirkstall; Otley=Otley; Shipley=Shipley
+844,Yorkshire,West Riding,Knaresborough and Pateley Bridge Turnpike Trust,1758,Wetherby to Grassington Road Act 1758,web reader,2,2,Knaresborough=Knaresborough; Pateley Bridge=Pateley Bridge
+845,Yorkshire,West Riding,Knaresborough to Green Hammerton Turnpike Trust,1751,Knaresborough and Green Hammerton Road Act 1751,web reader,2,2,Knaresborough=Knaresborough; Green Hammerton=Green Hammerton
+846,Yorkshire,West Riding,Leeds and Birstall Turnpike Trust,1825,Road from Leeds to Whitehall (Yorkshire) Act 1825,web reader,2,2,Leeds=Leeds; Birstall=Birstall
+847,Yorkshire,West Riding,Leeds and Collingham Turnpike Trust,1824,Leeds and Collingham Turnpike Act 1824,web reader,2,2,Leeds=Leeds; Collingham=Collingham
+848,Yorkshire,West Riding,Leeds and Elland Turnpike Trust,1740,Elland to Leeds Road Act 1740,web reader,2,2,Leeds=Leeds; Elland=Elland
+849,Yorkshire,West Riding,Leeds and Halifax Turnpike Trust,1740,Leeds and Halifax Roads Act 1740,web reader,2,2,Leeds=Leeds; Halifax=Halifax
+850,Yorkshire,West Riding,Leeds and Harrogate Turnpike Trust,1751,Yorkshire Roads (No. 3) Act 1751,web reader,2,2,Leeds=Leeds; Harrogate=Harrogate
+851,Yorkshire,West Riding,Leeds and Hebdon Bridge Turnpike Trust,,,web reader,2,1,Leeds=Leeds
+852,Yorkshire,West Riding,Leeds and Holmfield Lane End Turnpike Trust,1817,Leeds and Homefield Lane End Road Act 1817,web reader,2,1,Leeds=Leeds
+853,Yorkshire,West Riding,Leeds and Otley Turnpike Trust,1755,Leeds to Otley Road Act 1755,web reader,2,2,Leeds=Leeds; Otley=Otley
+854,Yorkshire,West Riding,Leeds and Roundhay Turnpike Trust,1808,Road from Leeds to Roundhay Act 1808,web reader,2,2,Leeds=Leeds; Roundhay=Roundhay
+855,Yorkshire,West Riding,Leeds and Selby Turnpike Trust,,,web reader,2,2,Leeds=Leeds; Selby=Selby
+856,Yorkshire,West Riding,Leeds and Tong Lane End Turnpike Trust,,,web reader,2,1,Leeds=Leeds
+857,Yorkshire,West Riding,Leeds and Wakefield Turnpike Trust,1757,Leeds and Wakefield Road Act 1757,web reader,2,2,Leeds=Leeds; Wakefield=Wakefield
+858,Yorkshire,West Riding,Leeds and Whitehall Turnpike Trust,1825,Road from Leeds to Whitehall (Yorkshire) Act 1825,web reader,2,2,Leeds=Leeds; Whitehall=Whitehall
+859,Yorkshire,West Riding,Leeds to Sheffield Turnpike Trust,1757,Leeds and Wakefield Road Act 1757,web reader,2,2,Leeds=Leeds; Sheffield=Sheffield
+860,Yorkshire,West Riding,"Leeds, Woodhouse Carr and Meanwoodside Turnpike Trust",1829,Road from Sheepscar to Meanwoodside Act 1829,web reader,3,2,Leeds=Leeds; Woodhouse Carr=Woodhouse Carr
+861,Yorkshire,West Riding,Liversedge to Cleckheaton Turnpike Trust,1806,Millbridge and Cleckheaton Road Act 1806,web reader,2,2,Liversedge=Liversedge; Cleckheaton=Cleckheaton
+862,Yorkshire,West Riding,Lockwood and Meltham Turnpike Trust,1818,Road from Lockwood to Meltham Act 1818,web reader,2,2,Lockwood=Lockwood; Meltham=Meltham
+863,Yorkshire,West Riding,Long Preston to Sawley Turnpike Trust,1811,Long Preston and Sawley Road Act 1811,web reader,2,2,Long Preston=Long Preston; Sawley=Sawley
+864,Yorkshire,West Riding,Maltby to Barnby Moor Turnpike Trust,,,web reader,2,2,Maltby=Maltby; Barnby Moor=Barnby Moor
+865,Yorkshire,West Riding,Mytholmroyd and Blackstone-edge Turnpike Trust,1815,Mytholmroyd Bridge Turnpike Road Act 1815,web reader,2,1,Mytholmroyd=Mytholmroyd
+866,Yorkshire,West Riding,Penistone to Grindleford (Mortimer Road) Turnpike Trust,,,web reader,2,2,Penistone=Penistone; Grindleford=Grindleford
+867,Yorkshire,West Riding,Ripon and Pateley Bridge Turnpike Trust,1756,Ripon and Pateley Bridge Road Act 1756,web reader,2,2,Ripon=Ripon; Pateley Bridge=Pateley Bridge
+868,Yorkshire,West Riding,Rochdale to Halifax and Elland Turnpike Trust,1734,"Rochdale, Halifax and Ealand Road Act 1734",web reader,3,3,Rochdale=Rochdale; Halifax=Halifax; Elland=Elland
+869,Yorkshire,West Riding,Rotherham and Four Lane Ends Turnpike Trust,1740,Doncaster to Salter's Brook Road Act 1740,web reader,2,2,Rotherham=Rotherham; Four Lane Ends=Four Lane Ends
+870,Yorkshire,West Riding,Rotherham and Pleasley Turnpike Trust,1764,Derby and Yorkshire Roads Act 1764,web reader,2,2,Rotherham=Rotherham; Pleasley=Pleasley
+871,Yorkshire,West Riding,Rotherham and Swinton Turnpike Trust,1809,Rotherham and Swinton Road Act 1809,web reader,2,2,Rotherham=Rotherham; Swinton=Swinton
+872,Yorkshire,West Riding,Rotherham and Wentworth Turnpike Trust,1764,Derby and Yorkshire Roads Act 1764,web reader,2,2,Rotherham=Rotherham; Wentworth=Wentworth
+873,Yorkshire,West Riding,Roundhay to Collingham Turnpike Trust,,,web reader,2,2,Roundhay=Roundhay; Collingham=Collingham
+874,Yorkshire,West Riding,Saddleworth to Thornsett Turnpike Trust,,,web reader,2,1,Thornsett=Thornsett
+875,Yorkshire,West Riding,"Salterhebble, Stainland and Sowerby Bridge Turnpike Trust",,,web reader,3,3,Salterhebble=Salterhebble; Stainland=Stainland; Sowerby Bridge=Sowerby Bridge
+876,Yorkshire,West Riding,Sedbergh Turnpike Trust,1762,Lancaster and Westmorland Roads Act 1762,web reader,1,1,Sedbergh=Sedbergh
+877,Yorkshire,West Riding,Selby and Market Weighton Turnpike Trust,,,web reader,2,2,Selby=Selby; Market Weighton=Market Weighton
+878,Yorkshire,West Riding,Sheepscar to Leeds Turnpike Trust,,,web reader,2,2,Sheepscar=Sheepscar; Leeds=Leeds
+879,Yorkshire,West Riding,Sheffield to Hathersage Turnpike Trust,1818,Sheffield and Glossop Road Act 1818,web reader,2,2,Sheffield=Sheffield; Hathersage=Hathersage
+880,Yorkshire,West Riding,Shipley and Bramley Turnpike Trust,1826,Shipley and Bramley Road (Yorkshire) Act 1826,web reader,2,2,Shipley=Shipley; Bramley=Bramley
+881,Yorkshire,West Riding,Shipley to Caisthorne Turnpike Trust,,,web reader,2,1,Shipley=Shipley
+882,Yorkshire,West Riding,Skipton and Clitheroe Turnpike Trust,1755,Leeds to Otley Road Act 1755,web reader,2,2,Skipton=Skipton; Clitheroe=Clitheroe
+883,Yorkshire,West Riding,Skipton and Knaresborough Turnpike Trust,1777,Yorks Roads (No. 5) Act 1777,web reader,2,2,Skipton=Skipton; Knaresborough=Knaresborough
+884,Yorkshire,West Riding,Skipton and Otley Turnpike Trust,1755,Leeds to Otley Road Act 1755,web reader,2,2,Skipton=Skipton; Otley=Otley
+885,Yorkshire,West Riding,Standedge and Oldham Turnpike Trust,,,web reader,2,1,Oldham=Oldham
+886,Yorkshire,West Riding,"Swinton, Rawmarsh and Hooton Roberts Turnpike Trust",,,web reader,3,3,Rawmarsh=Rawmarsh; Hooton Roberts=Hooton Roberts; Swinton=Swinton
+887,Yorkshire,West Riding,Tadcaster Bridge to Hob-moor Lane End Turnpike Trust,1744,Tadcaster Bridge and Hob Moor Lane Road Act 1744,web reader,2,0,
+888,Yorkshire,West Riding,Tadcaster and Halton Dial Turnpike Trust,1750,"Tadcaster, etc., Roads Act 1750",web reader,2,1,Tadcaster=Tadcaster
+889,Yorkshire,West Riding,Tadcaster and Otley Turnpike Trust,1753,Tadcaster and Otley Road Act 1753,web reader,2,2,Tadcaster=Tadcaster; Otley=Otley
+890,Yorkshire,West Riding,Tinsley and Doncaster Turnpike Trust,1764,Tinsley and Doncaster Road Act 1764,web reader,2,2,Tinsley=Tinsley; Doncaster=Doncaster
+891,Yorkshire,West Riding,Todmorden Turnpike Trust,1759,Yorks and Lancaster Roads Act 1759,web reader,1,1,Todmorden=Todmorden
+892,Yorkshire,West Riding,Halifax to Littleborough Turnpike Trust,1759,Yorks and Lancaster Roads Act 1759,web reader,2,2,Halifax=Halifax; Littleborough=Littleborough
+893,Yorkshire,West Riding,Wadsley and Langsett Turnpike Trust,1805,Wadsley and Langset Road Act 1805,web reader,2,2,Wadsley=Wadsley; Langsett=Langsett
+894,Yorkshire,West Riding,"Wadsley, Langsett and Sheffield Turnpike Trust",1805,Wadsley and Langset Road Act 1805,web reader,3,3,Wadsley=Wadsley; Langsett=Langsett; Sheffield=Sheffield
+895,Yorkshire,West Riding,Wakefield and Aberford Turnpike Trust,1789,Wakefield to Abberford Road Act 1789,web reader,2,2,Wakefield=Wakefield; Aberford=Aberford
+896,Yorkshire,West Riding,Wakefield and Austerlands Turnpike Trust,1758,Wakefield to Austerlands Road Act 1758,web reader,2,2,Wakefield=Wakefield; Austerlands=Austerlands
+897,Yorkshire,West Riding,Wakefield and Denby Dale Turnpike Trust,1825,Wakefield and Denby Dale Turnpike Road Act 1825,web reader,2,2,Wakefield=Wakefield; Denby Dale=Denby Dale
+898,Yorkshire,West Riding,Wakefield and Halifax Turnpike Trust,1740,"Wakefield, etc., Roads Act 1740",web reader,2,2,Wakefield=Wakefield; Halifax=Halifax
+899,Yorkshire,West Riding,Wakefield and Sheffield Turnpike Trust,1757,Leeds and Wakefield Road Act 1757,web reader,2,2,Wakefield=Wakefield; Sheffield=Sheffield
+900,Yorkshire,West Riding,Wakefield and Weeland Turnpike Trust,1740,Yorkshire Roads Act 1740,web reader,2,1,Wakefield=Wakefield
+901,Yorkshire,West Riding,Wakefield to Pontefract Turnpike Trust,,,web reader,2,2,Wakefield=Wakefield; Pontefract=Pontefract
+902,Yorkshire,West Riding,Wellington to Tong Lane End Turnpike Trust,1825,Road from Wellington Bridge Road to Tong Lane End (Yorkshire) Act 1825,web reader,2,1,Wellington=Wellington
+903,Yorkshire,West Riding,Wetherby and Knaresborough Turnpike Trust,1758,Wetherby to Grassington Road Act 1758,web reader,2,2,Wetherby=Wetherby; Knaresborough=Knaresborough
+904,Yorkshire,West Riding,"Wibsey, Low Moor and Huddersfield Turnpike Trust",1823,Bradford and Huddersfield Road and Branches Act 1823,web reader,3,3,Wibsey=Wibsey; Low Moor=Low Moor; Huddersfield=Huddersfield
+905,Yorkshire,West Riding,Bradford and Huddersfield Turnpike Trust,1823,Bradford and Huddersfield Road and Branches Act 1823,web reader,2,2,Bradford=Bradford; Huddersfield=Huddersfield
+906,Yorkshire,West Riding,Worksop and Attercliffe Turnpike Trust,1764,Worksop and Attercliffe Road Act 1764,web reader,2,2,Worksop=Worksop; Attercliffe=Attercliffe
+907,Yorkshire,West Riding,York and Boroughbridge Turnpike Trust,1749,York and Boroughbridge Road Act 1749,web reader,2,2,York=York; Boroughbridge=Boroughbridge
+908,North West,Cheshire,Ashton Lane End and Frodsham Turnpike Trust,1786,Cheshire Roads Act 1786,web reader,2,1,Frodsham=Frodsham
+909,North West,Cheshire,Chester and Frodsham Turnpike Trust,1786,Cheshire Roads Act 1786,web reader,2,2,Chester=Chester; Frodsham=Frodsham
+910,North West,Cheshire,Chester and Tarvin Turnpike Trust,1769,Stafford and Chester Roads Act 1769,web reader,2,2,Chester=Chester; Tarvin=Tarvin
+911,North West,Cheshire,Chester and Whitchurch Turnpike Trust,1759,Chester to Birmingham Road Act 1759,web reader,2,2,Chester=Chester; Whitchurch=Whitchurch
+912,North West,Cheshire,Chester and Wrexham Turnpike Trust,1751,Shrewsbury and Wrexham Road Act 1751,web reader,2,2,Chester=Chester; Wrexham=Wrexham
+913,North West,Cheshire,"Chester, Neston and Woodside Ferry Turnpike Trust",1787,Chester Roads Act 1787,web reader,3,2,Chester=Chester; Neston=Neston
+914,North West,Cheshire,Congleton and Buxton Turnpike Trust,1789,Chester and Derby Roads Act 1789,web reader,2,2,Congleton=Congleton; Buxton=Buxton
+915,North West,Cheshire,Congleton to Prestbury Turnpike Trust,1789,Chester and Derby Roads Act 1789,web reader,2,2,Congleton=Congleton; Prestbury=Prestbury
+916,North West,Cheshire,Cranage and Warrington Turnpike Trust,1753,Cheshire Roads Act 1753,web reader,2,2,Cranage=Cranage; Warrington=Warrington
+917,North West,Cheshire,Frodsham and Wilderspool Turnpike Trust,1786,Cheshire Roads Act 1786,web reader,2,2,Frodsham=Frodsham; Wilderspool=Wilderspool
+918,North West,Cheshire,Hinderton and Birkenhead Turnpike Trust,1826,"Little Neston and Hoose, and Upton and Birkenhead Roads (Cheshire) Act 1826",web reader,2,2,Hinderton=Hinderton; Birkenhead=Birkenhead
+919,North West,Cheshire,Little Neston to Hoose Turnpike Trust,1826,"Little Neston and Hoose, and Upton and Birkenhead Roads (Cheshire) Act 1826",web reader,2,1,Little Neston=Little Neston
+920,North West,Cheshire,Holmes Chapel and Chelford Turnpike Trust,1797,Hulmes Chapel and Chelford Road Act 1797,web reader,2,2,Holmes Chapel=Holmes Chapel; Chelford=Chelford
+921,North West,Cheshire,Hyde and Mottram Turnpike Trust,1818,Manchester and Hyde Turnpike Road Act 1818,web reader,2,1,Hyde=Hyde
+922,North West,Cheshire,"Manchester, Hyde and Mottram Turnpike Trust",1818,Manchester and Hyde Turnpike Road Act 1818,web reader,3,2,Manchester=Manchester; Hyde=Hyde
+923,North West,Cheshire,Lawton and Cranage Turnpike Trust,1730,Cheshire Roads Act 1730,web reader,2,2,Lawton=Lawton; Cranage=Cranage
+924,North West,Cheshire,Macclesfield and Buxton Turnpike Trust,1758,Macclesfield and Buxton Road Act 1758,web reader,2,2,Macclesfield=Macclesfield; Buxton=Buxton
+925,North West,Cheshire,Macclesfield and Congleton Turnpike Trust,1796,Macclesfield and Congleton Road Act 1796,web reader,2,2,Macclesfield=Macclesfield; Congleton=Congleton
+926,North West,Cheshire,Macclesfield and Nether Tabley Turnpike Trust,1769,Macclesfield and Nether Tabley Road Act 1769,web reader,2,1,Macclesfield=Macclesfield
+927,North West,Cheshire,Macclesfield District of Sandon Turnpike Trust,1762,Stafford and Chester Roads Act 1762,web reader,1,0,
+928,North West,Cheshire,Manchester and Buxton Turnpike Trust,1758,Macclesfield and Buxton Road Act 1758,web reader,2,2,Manchester=Manchester; Buxton=Buxton
+929,North West,Cheshire,Nantwich and Congleton Turnpike Trust,1835,Sandbach and Congleton Turnpike Road (Cheshire) Act 1835,web reader,2,2,Nantwich=Nantwich; Congleton=Congleton
+930,North West,Cheshire,Nantwich and Middlewich Turnpike Trust,1835,Sandbach and Congleton Turnpike Road (Cheshire) Act 1835,web reader,2,2,Nantwich=Nantwich; Middlewich=Middlewich
+931,North West,Cheshire,Nantwich and Weelock Road Turnpike Trust,1816,Nantwich to Wheelock Wharf Turnpike Road Act 1816,web reader,2,1,Nantwich=Nantwich
+932,North West,Cheshire,Nantwich and Woore Turnpike Trust,1743,Litchfield Roads Act 1743,web reader,2,2,Nantwich=Nantwich; Woore=Woore
+933,North West,Cheshire,Northwich and Kensall Turnpike Trust,1769,Stafford and Chester Roads Act 1769,web reader,2,1,Northwich=Northwich
+934,North West,Cheshire,Runcorn and Northwich Turnpike Trust,1819,Runcorn and Northwich Turnpike Road Act 1819,web reader,2,2,Runcorn=Runcorn; Northwich=Northwich
+935,North West,Cheshire,Sandbach and Congleton Turnpike Trust,1835,Sandbach and Congleton Turnpike Road (Cheshire) Act 1835,web reader,2,2,Sandbach=Sandbach; Congleton=Congleton
+936,North West,Cheshire,"Spann Smithy, Booth Lane and Winsford Turnpike Trust",1753,"Span Smithy, Winsford Bridge and Northwich Roads Act 1753",web reader,3,1,Winsford=Winsford
+937,North West,Cheshire,"Spann Smithy, Linley Lane Turnpike Trust",1788,Chester and Stafford Roads Act 1788,web reader,2,0,
+938,North West,Cheshire,Stayley Turnpike Trust,1793,Yorkshire Derby and Chester Roads Act 1793,web reader,1,0,
+939,North West,Cheshire,Stockport and Ashton Turnpike Trust,1765,"Chester, Lancaster and Yorks Roads Act 1765",web reader,2,1,Stockport=Stockport
+940,North West,Cheshire,Stockport and Warrington Turnpike Trust,1820,Stockport and Warrington Road Act 1820,web reader,2,2,Stockport=Stockport; Warrington=Warrington
+941,North West,Cheshire,Stockport to Marple Bridge Turnpike Trust,1801,Stockport and Marple Bridge Road Act 1801,web reader,2,2,Stockport=Stockport; Marple Bridge=Marple Bridge
+942,North West,Cheshire,Tarporley and Whitchurch Turnpike Trust,1829,"Tarporley and Whitchurch Turnpike Road (Cheshire, Salop.) Act 1829",web reader,2,2,Tarporley=Tarporley; Whitchurch=Whitchurch
+943,North West,Cheshire,Tarporley to Acton Forge Turnpike Trust,1782,Tarporley to Weverham Road Act 1782,web reader,2,1,Tarporley=Tarporley
+944,North West,Cheshire,Thornset Turnpike Trust,1831,"Thornset and Disley Road (Derbyshire, Cheshire) Act 1831",web reader,1,0,
+945,North West,Cheshire,Washway (Crossford Bridge to Altringham) Turnpike Trust,1796,Crossford Bridge and Altrincham Road Act 1796,web reader,1,0,
+946,North West,Cheshire,Wilmslow Turnpike Trust,1793,Manchester to Wilmslow Road Act 1793,web reader,1,1,Wilmslow=Wilmslow
+947,North West,Cheshire,Manchester and Wilmslow Turnpike Trust,1793,Manchester to Wilmslow Road Act 1793,web reader,2,2,Manchester=Manchester; Wilmslow=Wilmslow
+948,North West,Cheshire,Wilmslow to Church Lawton Turnpike Trust,1781,Cheshire Roads Act 1781,web reader,2,1,Wilmslow=Wilmslow
+949,North West,Cheshire,Wrexham to Barnhill Turnpike Trust,,,web reader,2,2,Wrexham=Wrexham; Barnhill=Barnhill
+950,North West,Cumberland,Alston Turnpike Trust,1778,Hexham to Alston Road Act 1778,web reader,1,1,Alston=Alston
+951,North West,Cumberland,Burtryford Road (Alston New Road) Turnpike Trust,1778,Hexham to Alston Road Act 1778,web reader,1,0,
+952,North West,Cumberland,Brampton and Longtown Turnpike Trust,1807,Road from Brampton to Longtown (Cumberland) Act 1807,web reader,2,2,Brampton=Brampton; Longtown=Longtown
+953,North West,Cumberland,Brougham Bridge Turnpike Trust,1812,Brougham and Penrith Road Act 1812,web reader,1,0,
+954,North West,Cumberland,Carlisle and Brampton Turnpike Trust,1828,Road from Carlisle to Brampton Act 1828,web reader,2,2,Carlisle=Carlisle; Brampton=Brampton
+955,North West,Cumberland,Carlisle and Eamont Bridge Turnpike Trust,1753,Carlisle and Eamont Bridge Road Act 1753,web reader,2,2,Carlisle=Carlisle; Eamont Bridge=Eamont Bridge
+956,North West,Cumberland,Carlisle and Temon (Military Road) Turnpike Trust,1750,Carlisle and Newcastle Road Act 1750,web reader,2,1,Carlisle=Carlisle
+957,North West,Cumberland,Carlisle to Skillbeck Turnpike Trust,1767,Cumberland Roads Act 1766,web reader,2,1,Carlisle=Carlisle
+958,North West,Cumberland,Cockermouth and Carlisle Turnpike Trust,1824,Carlisle and Cockermouth Roads Act 1824,web reader,2,2,Cockermouth=Cockermouth; Carlisle=Carlisle
+959,North West,Cumberland,Cockermouth and Maryport Turnpike Trust,1825,Road from Cockermouth to Maryport Act 1825,web reader,2,2,Cockermouth=Cockermouth; Maryport=Maryport
+960,North West,Cumberland,Cockermouth and Workington Turnpike Trust,1753,Cockermouth and Workington Road Act 1753,web reader,2,2,Cockermouth=Cockermouth; Workington=Workington
+961,North West,Cumberland,Egremont to Salthouse Turnpike Trust,1749,Cumberland Roads Act 1749,web reader,2,1,Egremont=Egremont
+962,North West,Cumberland,Keswick Turnpike Trust,,,web reader,1,1,Keswick=Keswick
+963,North West,Cumberland,Kingstown and Westlinton Bridge Turnpike Trust,1806,Road from Carlisle to Westlinton Bridge Act 1806,web reader,2,1,Kingstown=Kingstown
+964,North West,Cumberland,Carlisle to Westleton Turnpike Trust,1806,Road from Carlisle to Westlinton Bridge Act 1806,web reader,2,1,Carlisle=Carlisle
+965,North West,Cumberland,"Longtown, Snab and Haithwaite Bridge Turnpike Trust",1794,Cumberland Roads Act 1794,web reader,3,1,Longtown=Longtown
+966,North West,Cumberland,Longtown Turnpike Trust,1794,Cumberland Roads Act 1794,web reader,1,1,Longtown=Longtown
+967,North West,Cumberland,Penrith to Chalk Beck Turnpike Trust,1753,Cumberland Roads Act 1753,web reader,2,1,Penrith=Penrith
+968,North West,Cumberland,Whitehaven Turnpike Trust,1739,Whitehaven Harbour Improvement Act 1739,web reader,1,1,Whitehaven=Whitehaven
+969,North West,Lancashire,Addington and Westhoughton Turnpike Trust,1817,West Houghton and Duxbury Stocks Road Act 1817,web reader,2,1,Westhoughton=Westhoughton
+970,North West,Lancashire,Agecroft District Turnpike Trust,1784,Lancashire Roads Act 1784,web reader,1,0,
+971,North West,Lancashire,Ashton and Platt Bridge Turnpike Trust,1800,Ince and Ashton in Mackerfield Road Act 1800,web reader,2,1,Platt Bridge=Platt Bridge
+972,North West,Lancashire,Balderston and Burscough Bridge Turnpike Trust,1814,Balderston and Walton-in-le-Dale Road Act 1814,web reader,2,1,Burscough Bridge=Burscough Bridge
+973,North West,Lancashire,Barton Bridge and Moses Gate Turnpike Trust,1804,Barton Bridge and Farnworth Road Act 1804,web reader,2,1,Moses Gate=Moses Gate
+974,North West,Lancashire,Eccles to Farnworth Turnpike Trust,1804,Barton Bridge and Farnworth Road Act 1804,web reader,2,2,Eccles=Eccles; Farnworth=Farnworth
+975,North West,Lancashire,Worsley Turnpike Trust,1804,Barton Bridge and Farnworth Road Act 1804,web reader,1,1,Worsley=Worsley
+976,North West,Lancashire,Barton Bridge and Stretford Turnpike Trust,1811,Barton Bridge and Stretford Road Act 1811,web reader,2,1,Stretford=Stretford
+977,North West,Lancashire,Blackburn and Preston Turnpike Trust,1824,Blackburn and Preston Road and Ribble Bridge Act 1824,web reader,2,2,Blackburn=Blackburn; Preston=Preston
+978,North West,Lancashire,Blackburn to Addingham and Cocking End Turnpike Trust,1755,Yorkshire and Lancaster Roads Act 1755,web reader,3,2,Blackburn=Blackburn; Addingham=Addingham
+979,North West,Lancashire,Blackburn to Walton Cop Turnpike Trust,1755,Yorkshire and Lancaster Roads Act 1755,web reader,2,1,Blackburn=Blackburn
+980,North West,Lancashire,Bolee Turnpike Trust,1789,Heywood and Prestwich Road Act 1789,web reader,1,0,
+981,North West,Lancashire,Rochdale Lane End to Land's End in Heaton Turnpike Trust,1789,Heywood and Prestwich Road Act 1789,web reader,2,0,
+982,North West,Lancashire,Heywood to Heaton Turnpike Trust,1789,Heywood and Prestwich Road Act 1789,web reader,2,2,Heywood=Heywood; Heaton=Heaton
+983,North West,Lancashire,Bolton and Blackburn Turnpike Trust,1797,Bolton Blackburn and Twisey Roads Act 1797,web reader,2,2,Bolton=Bolton; Blackburn=Blackburn
+984,North West,Lancashire,Bolton and Nightingale Turnpike Trust,1763,Bolton and Nightingale's Road Act 1763,web reader,2,1,Bolton=Bolton
+985,North West,Lancashire,Heath Charnock to Bolton Turnpike Trust,1763,Bolton and Nightingale's Road Act 1763,web reader,2,2,Heath Charnock=Heath Charnock; Bolton=Bolton
+986,North West,Lancashire,Bolton and St Helens Turnpike Trust,1762,Lancaster Roads Act 1762,web reader,2,2,Bolton=Bolton; St Helens=St Helens
+987,North West,Lancashire,Bolton to Leigh Turnpike Trust,1762,Lancaster Roads Act 1762,web reader,2,2,Bolton=Bolton; Leigh=Leigh
+988,North West,Lancashire,Bolton and Westhoughton Turnpike Trust,1800,Great Bolton and Westhoughton Chapel Road Act 1800,web reader,2,2,Bolton=Bolton; Westhoughton=Westhoughton
+989,North West,Lancashire,Bolton to Haslingden Turnpike Trust,1825,Bolton-le-Moors and Haslingden Road and Branches Act 1825,web reader,2,2,Bolton=Bolton; Haslingden=Haslingden
+990,North West,Lancashire,Burnley to Edenfield Chapel Turnpike Trust,1795,Burnley Roads Act 1795,web reader,2,1,Burnley=Burnley
+991,North West,Lancashire,Burnley to Tottington Turnpike Trust,1795,Burnley Roads Act 1795,web reader,2,2,Burnley=Burnley; Tottington=Tottington
+992,North West,Lancashire,Bury and Bolton Turnpike Trust,1821,Road from Bury to Little Bolton Act 1821,web reader,2,2,Bury=Bury; Bolton=Bolton
+993,North West,Lancashire,"Bury to Blackburn, Whalley etc. Turnpike Trust",1789,Lancaster Roads Act 1789,web reader,3,3,Bury=Bury; Blackburn=Blackburn; Whalley=Whalley
+994,North West,Lancashire,Clitheroe to Blackburn and Mellor Brook Turnpike Trust,1755,Leeds to Otley Road Act 1755,web reader,3,3,Clitheroe=Clitheroe; Blackburn=Blackburn; Mellor Brook=Mellor Brook
+995,North West,Lancashire,"Dryclough, Shaw and Rochdale Turnpike Trust",1805,Road from Hollinwood to Featherstall Act 1805,web reader,3,2,Shaw=Shaw; Rochdale=Rochdale
+996,North West,Lancashire,Edenfield Chapel and Bury Bridge Turnpike Trust,1797,Bury and Bolton Roads Act 1797,web reader,2,0,
+997,North West,Lancashire,Edenfield Chapel to Little Bolton Turnpike Trust,1797,Bury and Bolton Roads Act 1797,web reader,2,1,Little Bolton=Little Bolton
+998,North West,Lancashire,Elton and Blackburn Turnpike Trust,1810,Road from Elton to Blackburn Act 1810,web reader,2,2,Blackburn=Blackburn; Elton=Elton
+999,North West,Lancashire,Garstang and Herring-syke Turnpike Trust,1750,Preston and Lancaster Road Act 1750,web reader,2,1,Garstang=Garstang
+1000,North West,Lancashire,Garstang and Heronsyke Turnpike Trust,1750,Preston and Lancaster Road Act 1750,web reader,2,1,Garstang=Garstang
+1001,North West,Lancashire,Gilda Brook and Irlam Turnpike Trust,1793,Lancaster Roads Act 1793,web reader,2,1,Irlam=Irlam
+1002,North West,Lancashire,Gisburne and Long Preston Turnpike Trust,1803,"Road from Marsden to Gisburne (Lancashire, Yorkshire) Act 1803",web reader,2,1,Long Preston=Long Preston
+1003,North West,Lancashire,Haslingden and Todmorden Turnpike Trust,1789,Lancaster Roads Act 1789,web reader,2,2,Haslingden=Haslingden; Todmorden=Todmorden
+1004,North West,Lancashire,Hulme and Eccles Turnpike Trust,1806,Road from Manchester through Salford to Eccles Act 1806,web reader,2,2,Eccles=Eccles; Hulme=Hulme
+1005,North West,Lancashire,Hulme and Stretford Turnpike Trust,1750,Crossford Bridge and Manchester Road Act 1750,web reader,2,2,Stretford=Stretford; Hulme=Hulme
+1006,North West,Lancashire,Hulton Turnpike Trust,1753,Lancashire Roads Act 1753,web reader,1,0,
+1007,North West,Lancashire,"Ince, Hindley and Westhoughton Turnpike Trust",1753,Lancashire Roads Act 1753,web reader,3,3,Ince=Ince; Hindley=Hindley; Westhoughton=Westhoughton
+1008,North West,Lancashire,Irlam Turnpike Trust,1753,Lancashire Roads Act 1753,web reader,1,1,Irlam=Irlam
+1009,North West,Lancashire,Irlam's-o'-th'-Height Turnpike Trust,1753,Lancashire Roads Act 1753,web reader,1,1,Irlam's-o'-th'-Height=Irlams o' th' Height
+1010,North West,Lancashire,Kirby Kendall and Kirby Ireleth Turnpike Trust,1763,Kirby Kendal and Kirby Ireleth Road Act 1763,web reader,2,1,Kirby Kendall=Kendal
+1011,North West,Lancashire,Liverpool and Preston Turnpike Trust,1771,Liverpool and Preston Road Act 1771,web reader,2,2,Liverpool=Liverpool; Preston=Preston
+1012,North West,Lancashire,"Liverpool, Prescot, Ashton and Warrington Turnpike Trust",1725,Liverpool to Prescot Road Act 1725,web reader,4,3,Liverpool=Liverpool; Prescot=Prescot; Warrington=Warrington
+1013,North West,Lancashire,Livesey Branch Turnpike Trust,1830,Road from Bolton-le-Moors to Blackburn Act 1830,web reader,1,0,
+1014,North West,Lancashire,Manchester and Ashton under Lyne Turnpike Trust,1825,Manchester and Ashton-under-Lyne Road Act 1825,web reader,2,2,Manchester=Manchester; Ashton under Lyne=Ashton-under-Lyne
+1015,North West,Lancashire,Manchester and Bury Turnpike Trust,1826,Manchester and Bury Turnpike Road Act 1826,web reader,2,2,Manchester=Manchester; Bury=Bury
+1016,North West,Lancashire,Manchester and Bury New Road Turnpike Trust,1826,Manchester and Bury Turnpike Road Act 1826,web reader,2,2,Manchester=Manchester; Bury=Bury
+1017,North West,Lancashire,Manchester to Pilkington Turnpike Trust,1826,Manchester and Bury Turnpike Road Act 1826,web reader,2,1,Manchester=Manchester
+1018,North West,Lancashire,Manchester and Oldham and Austerlands Turnpike Trust,1734,Yorkshire and Lancashire Roads Act 1734,web reader,3,3,Manchester=Manchester; Oldham=Oldham; Austerlands=Austerlands
+1019,North West,Lancashire,Manchester to Bolton Turnpike Trust,1821,Moses Gate District of Road (Lancashire) Act 1821,web reader,2,2,Manchester=Manchester; Bolton=Bolton
+1020,North West,Lancashire,Manchester to Newton Chapel Turnpike Trust,1817,Manchester to Newton Road Act 1817,web reader,2,1,Manchester=Manchester
+1021,North West,Lancashire,"Manchester to Rochdale, Bury etc. Turnpike Trust",1755,Lancashire Roads Act 1755,web reader,3,3,Manchester=Manchester; Rochdale=Rochdale; Bury=Bury
+1022,North West,Lancashire,Manchester to Saltersbrook Turnpike Trust,1731,Manchester Roads Act 1731,web reader,2,1,Manchester=Manchester
+1023,North West,Lancashire,"Manchester, Denton, Stockport Turnpike Trust",,,web reader,3,3,Manchester=Manchester; Denton=Denton; Stockport=Stockport
+1024,North West,Lancashire,Matherfold and Hardman's Turnpike Trust,1810,Road from Bolton-Le-Moors to Blackburn Act 1810,web reader,2,0,
+1025,North West,Lancashire,Oldham and Ripponden Turnpike Trust,1795,Oldham and Saddleworth Roads Act 1795,web reader,2,2,Oldham=Oldham; Ripponden=Ripponden
+1026,North West,Lancashire,Pendleton District Turnpike Trust,1753,Lancashire Roads Act 1753,web reader,1,0,
+1027,North West,Lancashire,Penwortham and Wrightington Turnpike Trust,1825,Penwortham Bridge Road (Lancashire) Act 1825,web reader,2,2,Penwortham=Penwortham; Wrightington=Wrightington
+1028,North West,Lancashire,Preston and Garstang Turnpike Trust,1750,Preston and Lancaster Road Act 1750,web reader,2,2,Preston=Preston; Garstang=Garstang
+1029,North West,Lancashire,Prestwick and Bury Turnpike Trust,1832,Road from Prestwich to Bury and Ratcliffe Act 1832,web reader,2,2,Prestwick=Prestwich; Bury=Bury
+1030,North West,Lancashire,Richmond and Lancaster Turnpike Trust,1751,Richmond and Lancaster Road Act 1750,web reader,2,2,Richmond=Richmond; Lancaster=Lancaster
+1031,North West,Lancashire,Ridghill and Lanes and Holehouse Turnpike Trust,1826,"Ridgehill and Lanes and Holehouse Road (Lancashire, Yorkshire) Act 1826",web reader,3,0,
+1032,North West,Lancashire,Ashton under Lyne to Saddleworth Turnpike Trust,1826,"Ridgehill and Lanes and Holehouse Road (Lancashire, Yorkshire) Act 1826",web reader,2,1,Ashton under Lyne=Ashton-under-Lyne
+1033,North West,Lancashire,Rochdale and Burnley Turnpike Trust,1755,Rochdale to Burnley Road Act 1755,web reader,2,2,Rochdale=Rochdale; Burnley=Burnley
+1034,North West,Lancashire,Rochdale and Edenfield Turnpike Trust,1794,Rochdale to Bury Road Act 1794,web reader,2,2,Rochdale=Rochdale; Edenfield=Edenfield
+1035,North West,Lancashire,Rochdale and Manchester Turnpike Trust,1755,Lancashire Roads Act 1755,web reader,2,2,Rochdale=Rochdale; Manchester=Manchester
+1036,North West,Lancashire,"Rochdale, Bamford and Bury Turnpike Trust",1797,Rochdale and Bury Road Act 1797,web reader,3,3,Rochdale=Rochdale; Bamford=Bamford; Bury=Bury
+1037,North West,Lancashire,Salford to Wigan Turnpike Trust,1753,Lancashire Roads Act 1753,web reader,2,2,Salford=Salford; Wigan=Wigan
+1038,North West,Lancashire,Sharples and Houghton Turnpike Trust,1801,Bolton and Leyland Road Act 1801,web reader,2,2,Sharples=Sharples; Houghton=Houghton
+1039,North West,Lancashire,Standedge and Oldham Turnpike Trust,1792,Lancaster Roads Act 1792,web reader,2,1,Oldham=Oldham
+1040,North West,Lancashire,Saddleworth to Oldham Turnpike Trust,1792,Lancaster Roads Act 1792,web reader,2,1,Oldham=Oldham
+1041,North West,Lancashire,Stretford to Manchester Turnpike Trust,1751,Crossford Bridge and Manchester Road Act 1750,web reader,2,2,Stretford=Stretford; Manchester=Manchester
+1042,North West,Lancashire,Sudden Bridge to Bury Turnpike Trust,1797,Rochdale and Bury and Sudden Roads Act 1797,web reader,2,1,Bury=Bury
+1043,North West,Lancashire,Swinton District Turnpike Trust,1753,Lancashire Roads Act 1753,web reader,1,1,Swinton=Swinton
+1044,North West,Lancashire,Ulverston and Carnforth Turnpike Trust,1818,"Ulverstone, Millthorpe and Carnforth Turnpike Road Act 1818",web reader,2,2,Ulverston=Ulverston; Carnforth=Carnforth
+1045,North West,Lancashire,Warrington and Lower Irlam Turnpike Trust,1753,Lancashire Roads Act 1753,web reader,2,2,Warrington=Warrington; Irlam=Irlam
+1046,North West,Lancashire,Warrington and Wigan Turnpike Trust,1726,Warrington and Wigan Road Act 1726,web reader,2,2,Warrington=Warrington; Wigan=Wigan
+1047,North West,Lancashire,Werneth and Littleborough Turnpike Trust,1830,Road from Werneth to Littleborough (Lancashire) Act 1830,web reader,2,2,Werneth=Werneth; Littleborough=Littleborough
+1048,North West,Lancashire,Wigan and Preston Turnpike Trust,1726,Wigan to Preston Road Act 1726,web reader,2,2,Wigan=Wigan; Preston=Preston
+1049,North West,Westmorland,Ambleside Turnpike Trust,1824,Keswick and Plumbgarth's Cross and Windermere Roads Act 1824,web reader,1,1,Ambleside=Ambleside
+1050,North West,Westmorland,Appleby and Kendal Turnpike Trust,1760,Westmorland Roads Act 1760,web reader,2,2,Appleby=Appleby; Kendal=Kendal
+1051,North West,Westmorland,Brough and Bowes Turnpike Trust,1742,Westmorland Roads Act 1742,web reader,2,2,Brough=Brough; Bowes=Bowes
+1052,North West,Westmorland,Brough and Eamont Bridge Turnpike Trust,1753,Brough and Eamont Bridge Road Act 1753,web reader,2,2,Brough=Brough; Eamont Bridge=Eamont Bridge
+1053,North West,Westmorland,Brough and Middleton Turnpike Trust,1817,Road to Middleton Bridge Act 1817,web reader,2,2,Brough=Brough; Middleton=Middleton
+1054,North West,Westmorland,Brough Bowes and Maiden Castle Turnpike Trust,1769,Yorkshire Roads (No. 2) Act 1769,web reader,2,0,
+1055,North West,Westmorland,Heronsdyke and Eamont Bridge Turnpike Trust,1753,Lancaster and Westmorland Roads Act 1753,web reader,2,1,Eamont Bridge=Eamont Bridge
+1056,North West,Westmorland,"Ireby to Kirkby Lonsdale, Milnthorpe etc. Turnpike Trust",1753,Yorkshire and Westmorland Roads Act 1753,web reader,3,3,Kirkby Lonsdale=Kirkby Lonsdale; Milnthorpe=Milnthorpe; Ireby=Ireby
+1057,North West,Westmorland,Kirkby Stephen and Hawes Turnpike Trust,1825,Road from Kirkby Stephen to Sedburgh and Kirkby Kendal Act 1825,web reader,2,2,Kirkby Stephen=Kirkby Stephen; Hawes=Hawes
+1058,North West,Westmorland,Maiden Castle and Barrows Brow Turnpike Trust,1769,Yorkshire Roads (No. 2) Act 1769,web reader,2,0,
+1059,North West,Westmorland,Milnthorpe Turnpike Trust,1758,Westmorland Roads Act 1758,web reader,1,1,Milnthorpe=Milnthorpe
+1060,North West,Westmorland,Ulverston to Heversham Turnpike Trust,,,web reader,2,2,Ulverston=Ulverston; Heversham=Heversham
+1061,South West,Cornwall,Bodmin Turnpike Trust,1769,Bodmin Roads Act 1769,web reader,1,1,Bodmin=Bodmin
+1062,South West,Cornwall,Bodmin and Roche Turnpike Trust,1835,Bodmin Roads Act 1835,web reader,2,2,Bodmin=Bodmin; Roche=Roche
+1063,South West,Cornwall,Callington Turnpike Trust,1764,Callington Roads Act 1764,web reader,1,1,Callington=Callington
+1064,South West,Cornwall,"Camelford, Wadebridge and St Columb Turnpike Trust",1759,Cornwall Roads Act 1759,web reader,3,2,Camelford=Camelford; Wadebridge=Wadebridge
+1065,South West,Cornwall,Creed and St Just Turnpike Trust,1762,Cornwall Roads Act 1762,web reader,2,2,Creed=Creed; St Just=St Just
+1066,South West,Cornwall,Hayle Bridge Causeway Turnpike Trust,1825,"Grigg's Quay, Hayle Bridge and Phillack Road (Cornwall) Act 1825",web reader,1,0,
+1067,South West,Cornwall,Helston Turnpike Trust,1760,Cornwall Roads Act 1760,web reader,1,1,Helston=Helston
+1068,South West,Cornwall,Launceston Turnpike Trust,1759,Launceston Roads Act 1759,web reader,1,1,Launceston=Launceston
+1069,South West,Cornwall,Liskeard Turnpike Trust,1760,Cornwall and Devon Roads Act 1760,web reader,1,1,Liskeard=Liskeard
+1070,South West,Cornwall,Penryn and Redruth Turnpike Trust,1763,Cornwall Roads (No. 2) Act 1763,web reader,2,2,Penryn=Penryn; Redruth=Redruth
+1071,South West,Cornwall,Penzance to St Just Turnpike Trust,1863,Penzance and St. Just Turnpike Roads Act 1863,web reader,2,2,Penzance=Penzance; St Just=St Just
+1072,South West,Cornwall,Saltash Turnpike Trust,1762,Saltash Roads Act 1762,web reader,1,1,Saltash=Saltash
+1073,South West,Cornwall,St Austell and Lostwithiel Turnpike Trust,1760,Cornwall Roads Act 1760,web reader,2,2,St Austell=St Austell; Lostwithiel=Lostwithiel
+1074,South West,Cornwall,Trebarwith Sands Road Turnpike Trust,1825,Trebarwith Sands and Condolden Bridge Road Act 1825,web reader,1,0,
+1075,South West,Cornwall,Truro Turnpike Trust,1754,Truro Roads Act 1754,web reader,1,1,Truro=Truro
+1076,South West,Devon,Ashburton Turnpike Trust,1755,Devon Roads Act 1755,web reader,1,1,Ashburton=Ashburton
+1077,South West,Devon,Barnstaple Turnpike Trust,1763,Barnstaple Roads Act 1763,web reader,1,1,Barnstaple=Barnstaple
+1078,South West,Devon,Bideford Turnpike Trust,1764,Bideford Roads Act 1764,web reader,1,1,Bideford=Bideford
+1079,South West,Devon,Braunton Turnpike Trust; Braunton and New Road Turnpike Trust,1829,Road from Barnstaple to Braunton Act 1829,web reader,1,1,Braunton=Braunton
+1080,South West,Devon,Combe Martin Turnpike Trust,1838,Combe Martin and Bratton Down Turnpike Road (Devon) Act 1838,web reader,1,1,Combe Martin=Combe Martin
+1081,South West,Devon,Combe Martin and Ilfracombe Turnpike Trust,1866,Combemartin and Ilfracombe Turnpike Road Act 1866,web reader,2,2,Combe Martin=Combe Martin; Ilfracombe=Ilfracombe
+1082,South West,Devon,Countess Wear Bridge Turnpike Trust,1769,Exeter Roads Act 1769,web reader,1,0,
+1083,South West,Devon,Cullompton Turnpike Trust,1813,Road from Cullompton to Hazel Stone Act 1813,web reader,1,1,Cullompton=Cullompton
+1084,South West,Devon,Dartmoor and Roborough Turnpike Trust,1812,Roborough Down and Dartmoor Road Act 1812,web reader,2,0,
+1085,South West,Devon,"Dartmouth, Torquay and Shaldon Turnpike Trust",1765,Devon Roads Act 1765,web reader,3,3,Dartmouth=Dartmouth; Torquay=Torquay; Shaldon=Shaldon
+1086,South West,Devon,Devon and Dorset (Axminster) Turnpike Trust,1754,Axminster Roads Act 1754,web reader,2,0,
+1087,South West,Devon,Exeter Turnpike Trust,1753,Exeter Roads Act 1753,web reader,1,1,Exeter=Exeter
+1088,South West,Devon,Exmouth Turnpike Trust; Exmouth Road Turnpike Trust,1832,Lympstone and Exmouth Turnpike Road Act 1832,web reader,1,1,Exmouth=Exmouth
+1089,South West,Devon,Great Torrington Turnpike Trust,1765,Great Torrington Roads Act 1765,web reader,1,1,Great Torrington=Great Torrington
+1090,South West,Devon,Honiton Turnpike Trust,1757,Dorset and Devon Roads Act 1757,web reader,1,1,Honiton=Honiton
+1091,South West,Devon,Honiton and Ilminster Turnpike Trust,1807,Road from Upottery to Horton Act 1807,web reader,2,2,Honiton=Honiton; Ilminster=Ilminster
+1092,South West,Devon,Honiton and Sidmouth Turnpike Trust,1816,Gittisham and Sidmouth Road Act 1816,web reader,2,2,Honiton=Honiton; Sidmouth=Sidmouth
+1093,South West,Devon,Kingsbridge and Dartmouth Turnpike Trust,1824,Roads from Kingsbridge to Dartmouth Act 1824,web reader,2,2,Kingsbridge=Kingsbridge; Dartmouth=Dartmouth
+1094,South West,Devon,Modbury Turnpike Trust,1758,Devon Roads (No. 2) Act 1758,web reader,1,1,Modbury=Modbury
+1095,South West,Devon,Moretonhampstead Turnpike Trust,1772,Devon Roads (No.2) Act 1772,web reader,1,1,Moretonhampstead=Moretonhampstead
+1096,South West,Devon,Newton Bushell Turnpike Trust,1760,Devon Roads Act 1760,web reader,1,1,Newton Bushell=Newton Abbot
+1097,South West,Devon,Okehampton Turnpike Trust,1759,Okehampton Roads Act 1759,web reader,1,1,Okehampton=Okehampton
+1098,South West,Devon,Plymouth and Exeter Road Turnpike Trust,1820,Plymouth and Exeter Road Act 1820,web reader,2,2,Plymouth=Plymouth; Exeter=Exeter
+1099,South West,Devon,Plymouth and Tavistock Turnpike Trust,1804,Roads from Tavistock to Plymouth and from Manadon Gate Act 1804,web reader,2,2,Plymouth=Plymouth; Tavistock=Tavistock
+1100,South West,Devon,Plymouth Turnpike Trust; Plymouth (Eastern) Turnpike Trust,1757,Devon Roads Act 1757,web reader,1,1,Plymouth=Plymouth
+1101,South West,Devon,Sidmouth to Cullompton Turnpike Trust,1844,Sidmouth and Collumpton Turnpike Act 1844,web reader,2,2,Sidmouth=Sidmouth; Cullompton=Cullompton
+1102,South West,Devon,South Molton Turnpike Trust,1758,South Molton Roads Act 1758,web reader,1,0,
+1103,South West,Devon,Stonehouse Turnpike Trust,1784,Devon Roads (No. 2) Act 1784,web reader,1,1,Stonehouse=Stonehouse
+1104,South West,Devon,Taunton Turnpike Trust,1751,Taunton Roads Act 1751,web reader,1,1,Taunton=Taunton
+1105,South West,Devon,Tavistock Turnpike Trust,1762,Devon Roads Act 1762,web reader,1,1,Tavistock=Tavistock
+1106,South West,Devon,Tedburn St Mary to Chudleigh Turnpike Trust,1831,Crediton and Chudleigh Turnpike Road Act 1831,web reader,2,2,Tedburn St Mary=Tedburn St Mary; Chudleigh=Chudleigh
+1107,South West,Devon,Teignmouth and Dawlish Turnpike Trust,1823,East Teignmouth and Exminster Turnpike Road Act 1823,web reader,2,2,Teignmouth=Teignmouth; Dawlish=Dawlish
+1108,South West,Devon,Tiverton Turnpike Trust,1757,Tiverton Roads Act 1757,web reader,1,1,Tiverton=Tiverton
+1109,South West,Devon,Totnes and Bridgetown-Pomeroy Turnpike Trust,1758,Devon Roads Act 1758,web reader,2,1,Totnes=Totnes
+1110,South West,Dorset,Abbotsbury and Bridport Turnpike Trust,1777,Dorset Roads Act 1777,web reader,2,2,Bridport=Bridport; Abbotsbury=Abbotsbury
+1111,South West,Dorset,Blandford and Poole Turnpike Trust,1767,Dorset and Somerset Roads Act 1766,web reader,2,1,Poole=Poole
+1112,South West,Dorset,Blandford and Wimborne Turnpike Trust,1765,Dorset and Somerset Roads Act 1765,web reader,2,0,
+1113,South West,Dorset,Bridport Turnpike Trust,1754,Axminster Roads Act 1754,web reader,1,1,Bridport=Bridport
+1114,South West,Dorset,Bridport and Broadwindsor Turnpike Trust,1828,Roads to Join Crewkerne Turnpike Road (Dorset and Somerset) Act 1828,web reader,2,2,Bridport=Bridport; Broadwindsor=Broadwindsor
+1115,South West,Dorset,Cerne Abbas Turnpike Trust,1824,Roads to and from Cerne Abbas Act 1824,web reader,1,1,Cerne Abbas=Cerne Abbas
+1116,South West,Dorset,Dorchester and Wool Turnpike Trust,1769,Dorset Roads Act 1769,web reader,2,2,Dorchester=Dorchester; Wool=Wool
+1117,South West,Dorset,"Harnham, Blandford and Dorchester Turnpike Trust",1756,Wiltshire and Dorset Roads Act 1756,web reader,3,2,Harnham=Harnham; Dorchester=Dorchester
+1118,South West,Dorset,Lyme Regis Turnpike Trust,1757,Dorset and Devon Roads Act 1757,web reader,1,1,Lyme Regis=Lyme Regis
+1119,South West,Dorset,Maiden Newton Turnpike Trust,1778,Somerset and Dorset Roads Act 1778,web reader,1,1,Maiden Newton=Maiden Newton
+1120,South West,Dorset,Poole Turnpike Trust,1756,Poole Roads Act 1756,web reader,1,1,Poole=Poole
+1121,South West,Dorset,Puddletown and Wimborne Turnpike Trust; Wimborne and Puddletown Turnpike Trust,1841,Wimborne Minster and Piddletown Turnpike Road (Dorset) Act 1841,web reader,2,1,Puddletown=Puddletown
+1122,South West,Dorset,Shaftesbury and Blandford Turnpike Trust; Shaftesbury and New Road to Blandford Turnpike Trust,1753,"Wiltshire, Dorset and Somerset Roads Act 1753",web reader,3,1,Shaftesbury=Shaftesbury
+1123,South West,Dorset,Sherborne Turnpike Trust,1753,"Wiltshire, Dorset and Somerset Roads Act 1753",web reader,1,1,Sherborne=Sherborne
+1124,South West,Dorset,Vale of Blackmoor Turnpike Trust,1767,Dorset and Somerset Roads Act 1766,web reader,1,0,
+1125,South West,Dorset,Wareham Turnpike Trust,1766,Wareham and Purbeck Roads Act 1766,web reader,1,1,Wareham=Wareham
+1126,South West,Dorset,Weymouth Backwater Bridge and Road Turnpike Trust,1857,Backwater Bridge and Road Act 1857,web reader,1,0,
+1127,South West,Dorset,"Weymouth, Melcombe Regis and Dorchester Turnpike Trust",1760,Dorset Roads Act 1760,web reader,3,3,Weymouth=Weymouth; Melcombe Regis=Melcombe Regis; Dorchester=Dorchester
+1128,South West,Dorset,Yeovil Turnpike Trust,1753,Somerset Roads Act 1753,web reader,1,1,Yeovil=Yeovil
+1129,South West,Gloucestershire,Berkeley and Dursley Turnpike Trust,1725,Gloucestershire Roads Act 1725,web reader,2,2,Berkeley=Berkeley; Dursley=Dursley
+1130,South West,Gloucestershire,"Berkeley, Dursley, Wotton Under Edge, Frocester and Caincross Turnpike Trust",1779,Gloucester and Wilts Roads Act 1779,web reader,5,4,Berkeley=Berkeley; Dursley=Dursley; Wotton Under Edge=Wotton-under-Edge; Frocester=Frocester
+1131,South West,Gloucestershire,Bibury and Dancy's Fancy Turnpike Trust; Bibury Turnpike Trust,1753,Oxford and Gloucester Roads Act 1753,web reader,2,1,Bibury=Bibury
+1132,South West,Gloucestershire,Bristol Turnpike Trust,1726,Bristol Roads Act 1726,web reader,1,1,Bristol=Bristol
+1133,South West,Gloucestershire,Broadway to Mickleton Turnpike Trust; Mickleton and Broadway Turnpike Trust,1824,Broadway and Mickleton Road Act 1824,web reader,2,2,Broadway=Broadway; Mickleton=Mickleton
+1134,South West,Gloucestershire,Burford to Preston Turnpike Trust,,,web reader,2,2,Burford=Burford; Preston=Preston
+1135,South West,Gloucestershire,Cainscross Turnpike Trust,1725,Gloucestershire Roads Act 1725,web reader,1,1,Cainscross=Cainscross
+1136,South West,Gloucestershire,Campden and Clifford Turnpike Trust,1818,Road from Chipping Camden to Old Stratford Act 1818,web reader,2,1,Clifford=Clifford
+1137,South West,Gloucestershire,Chapel-on-the-Heath and Bourton-on-the-Hill Turnpike Trust,1730,Oxford and Gloucester Roads Act 1730,web reader,2,1,Bourton-on-the-Hill=Bourton-on-the-Hill
+1138,South West,Gloucestershire,Cheltenham Turnpike Trust,1785,Cheltenham Roads Act 1785,web reader,1,1,Cheltenham=Cheltenham
+1139,South West,Gloucestershire,Cheltenham and Gloucester Turnpike Trust,1809,Cheltenham to Gloucester Road Act 1809,web reader,2,2,Cheltenham=Cheltenham; Gloucester=Gloucester
+1140,South West,Gloucestershire,Cheltenham and Painswick Turnpike Trust,1820,Road from Cheltenham to Prinknash Act 1820,web reader,2,2,Cheltenham=Cheltenham; Painswick=Painswick
+1141,South West,Gloucestershire,Cheltenham and Tewkesbury Turnpike Trust,,,web reader,2,2,Cheltenham=Cheltenham; Tewkesbury=Tewkesbury
+1142,South West,Gloucestershire,Chipping Campden Turnpike Trust,1817,Road from Cross Hands to Halford Bridge Act 1817,web reader,1,1,Chipping Campden=Chipping Campden
+1143,South West,Gloucestershire,Cirencester Turnpike Trust; Cirencester Roads Turnpike Trust,1726,Cirencester Roads Act 1726,web reader,1,1,Cirencester=Cirencester
+1144,South West,Gloucestershire,Cirencester and Bath Turnpike Trust,1742,Gloucester Roads (No. 2) Act 1742,web reader,2,2,Cirencester=Cirencester; Bath=Bath
+1145,South West,Gloucestershire,Cirencester and Wootton Bassett Turnpike Trust,1810,Road from Cirencester to Wootton Bassett Act 1810,web reader,2,1,Cirencester=Cirencester
+1146,South West,Gloucestershire,Cirencester to Birdlip Turnpike Trust; Cirencester (Gloucester District) Turnpike Trust,1746,Gloucester Roads Act 1746,web reader,2,2,Cirencester=Cirencester; Birdlip=Birdlip
+1147,South West,Gloucestershire,Cirencester to Stroud Turnpike Trust; Cirencester (Stroud District) Turnpike Trust,1751,Gloucester Roads Act 1751,web reader,2,2,Cirencester=Cirencester; Stroud=Stroud
+1148,South West,Gloucestershire,Cirencester to Tetbury Turnpike Trust,,,web reader,2,2,Cirencester=Cirencester; Tetbury=Tetbury
+1149,South West,Gloucestershire,Cleeve and Evesham Turnpike Trust,1810,Road from Cheltenham to Bishop's Cleve Act 1810,web reader,2,2,Cleeve=Cleeve; Evesham=Evesham
+1150,South West,Gloucestershire,Coldharbour Turnpike Trust,1757,Gloucestershire Roads (No. 3) Act 1757,web reader,1,0,
+1151,South West,Gloucestershire,Crickley Hill to Frogg Mill Turnpike Trust,,,web reader,2,0,
+1152,South West,Gloucestershire,Elton Turnpike Trust,1725,Gloucester and Hereford Roads Act 1725,web reader,1,1,Elton=Elton
+1153,South West,Gloucestershire,Forest of Dean Turnpike Trust,1796,Dean Forest Roads Act 1796,web reader,1,0,
+1154,South West,Gloucestershire,Foss and Cross (Stow on the Wold) Turnpike Trust,1755,Gloucester and Warwick Roads Act 1755,web reader,2,0,
+1155,South West,Gloucestershire,Frocester Turnpike Trust,1725,Gloucestershire Roads Act 1725,web reader,1,1,Frocester=Frocester
+1156,South West,Gloucestershire,Haw Bridge and Roads Turnpike Trust,1823,Haw Passage (Gloucestershire) Severn Bridge and Roads Act 1823,web reader,1,0,
+1157,South West,Gloucestershire,Huntley and Mitcheldean Turnpike Trust,1725,Gloucester and Hereford Roads Act 1725,web reader,2,2,Huntley=Huntley; Mitcheldean=Mitcheldean
+1158,South West,Gloucestershire,Kingsholm Turnpike Trust; Cheltenham and Kingsholm Turnpike Trust,1756,Gloucester Roads Act 1756,web reader,2,2,Kingsholm=Kingsholm; Cheltenham=Cheltenham
+1159,South West,Gloucestershire,Kingswood Turnpike Trust,1827,"Wooton-under-edge and Wickwar Roads (Gloucestershire, Wiltshire) Act 1827",web reader,1,0,
+1160,South West,Gloucestershire,Lightpill and Birdlip Turnpike Trust,1800,Rodburgh and Birdlip Road Act 1800,web reader,2,2,Lightpill=Lightpill; Birdlip=Birdlip
+1161,South West,Gloucestershire,Maisemore Turnpike Trust,1725,Gloucester and Hereford Roads Act 1725,web reader,1,1,Maisemore=Maisemore
+1162,South West,Gloucestershire,Malmesbury Turnpike Trust,1798,"Roads from Tetbury, Malmesbury, Farringdon and Sherstone Act 1798",web reader,1,1,Malmesbury=Malmesbury
+1163,South West,Gloucestershire,Marshfield Turnpike Trust,1726,Chippenham Roads Act 1726,web reader,1,1,Marshfield=Marshfield
+1164,South West,Gloucestershire,"Minchinhampton, Tetbury and Bisley Turnpike Trust",1757,Gloucestershire Roads (No. 3) Act 1757,web reader,3,3,Minchinhampton=Minchinhampton; Tetbury=Tetbury; Bisley=Bisley
+1165,South West,Gloucestershire,"Nailsworth, Woodchester and Dudbridge Turnpike Trust",1780,Gloucester Roads (No. 2) Act 1780,web reader,3,3,Nailsworth=Nailsworth; Woodchester=Woodchester; Dudbridge=Dudbridge
+1166,South West,Gloucestershire,Newent Turnpike Trust,1802,Newent Roads Act 1802,web reader,1,1,Newent=Newent
+1167,South West,Gloucestershire,Newnham to Little Dean Turnpike Trust,1783,Gloucester Roads Act 1783,web reader,2,1,Newnham=Newnham
+1168,South West,Gloucestershire,Northgate Turnpike Trust,1697,Birdlip and Crickley Hill Road Act 1697,web reader,1,0,
+1169,South West,Gloucestershire,Over Turnpike Trust,1769,Gloucester and Hereford Roads Act 1769,web reader,1,0,
+1170,South West,Gloucestershire,Painswick Turnpike Trust,1778,Gloucester to Stroud Road Act 1778,web reader,1,1,Painswick=Painswick
+1171,South West,Gloucestershire,Pucklechurch Turnpike Trust,1756,Gloucester and Wiltshire Roads Act 1756,web reader,1,1,Pucklechurch=Pucklechurch
+1172,South West,Gloucestershire,Redbrook to St Arvans Turnpike Trust,,,web reader,2,1,St Arvans=St Arvans
+1173,South West,Gloucestershire,Sodbury Division Turnpike Trust,1751,Wiltshire and Gloucester Roads Act 1751,web reader,1,0,
+1174,South West,Gloucestershire,Southgate Turnpike Trust,1721,Gloucestershire Roads Act 1725,web reader,1,0,
+1175,South West,Gloucestershire,Stroud and Bisley Turnpike Trust,1823,Stroud and Bisley Turnpike Road Act 1823,web reader,2,2,Stroud=Stroud; Bisley=Bisley
+1176,South West,Gloucestershire,Stroud and Chalford Turnpike Trust; Stroud to Sapperton Turnpike Trust,1814,Roads from Stroud Act 1814,web reader,3,3,Stroud=Stroud; Sapperton=Sapperton; Chalford=Chalford
+1177,South West,Gloucestershire,Stroud and Gloucester (thru Pitchcombe) Turnpike Trust,1818,Stroud and Gloucester Road Act 1818,web reader,2,2,Stroud=Stroud; Gloucester=Gloucester
+1178,South West,Gloucestershire,"Stroud, Caincross and Minchinhampton Turnpike Trust; Stroud, Cainscross and Minchinhampton Turnpike Trust",1825,Cainscross and Minchinhampton Turnpike Road Act 1825,web reader,4,3,Stroud=Stroud; Minchinhampton=Minchinhampton; Cainscross=Cainscross
+1179,South West,Gloucestershire,"Stump Cross Turnpike Trust; Swell, Stump Cross, Winchcomb and Andover Turnpike Trust",1792,Gloucester Roads Act 1792,web reader,4,2,Swell=Swell; Andover=Andover
+1180,South West,Gloucestershire,Tewkesbury Turnpike Trust,1725,Tewkesbury Roads Act 1725,web reader,1,1,Tewkesbury=Tewkesbury
+1181,South West,Gloucestershire,Tewkesbury Severn Bridge and Roads Turnpike Trust,1823,Tewkesbury Severn Bridge and Roads Act 1823,web reader,1,0,
+1182,South West,Gloucestershire,Winchcombe Turnpike Trust,1792,Gloucester Roads Act 1792,web reader,1,1,Winchcombe=Winchcombe
+1183,South West,Gloucestershire,Wootton Under Edge Turnpike Trust,1725,Gloucestershire Roads Act 1725,web reader,1,0,
+1184,South West,Somerset,Allington to Crewkerne Turnpike Trust; Bridport and Broadwinsor Turnpike Trust,1828,Roads to Join Crewkerne Turnpike Road (Dorset and Somerset) Act 1828,web reader,4,3,Crewkerne=Crewkerne; Bridport=Bridport; Allington=Allington
+1185,South West,Somerset,Bath Turnpike Trust,1707,"Bath Highway, Streets, etc. Act 1707",web reader,1,1,Bath=Bath
+1186,South West,Somerset,Black Dog Turnpike Trust,1751,Wiltshire Roads (No. 2) Act 1751,web reader,1,1,Black Dog=Black Dog
+1187,South West,Somerset,Bridgwater Turnpike Trust,1729,Bridgwater Roads Act 1729,web reader,1,1,Bridgwater=Bridgwater
+1188,South West,Somerset,Bruton Turnpike Trust,1756,Bruton Roads Act 1756,web reader,1,1,Bruton=Bruton
+1189,South West,Somerset,Chard Turnpike Trust,1753,Somerset Roads Act 1753,web reader,1,1,Chard=Chard
+1190,South West,Somerset,Crewkerne Turnpike Trust,1765,Crewkerne Roads Act 1765,web reader,1,1,Crewkerne=Crewkerne
+1191,South West,Somerset,Frome Turnpike Trust,1757,Frome Roads Act 1757,web reader,1,1,Frome=Frome
+1192,South West,Somerset,High Ham Turnpike Trust; High Ham and Ashcott Turnpike Trust,1826,Roads through High Ham and Ashcott (Somerset) Act 1826,web reader,2,2,High Ham=High Ham; Ashcott=Ashcott
+1193,South West,Somerset,Honiton Turnpike Trust,1758,Dorset and Devon Roads Act 1757,web reader,1,1,Honiton=Honiton
+1194,South West,Somerset,Ilchester Turnpike Trust,1753,Somerset Roads (No. 2) Act 1753,web reader,1,1,Ilchester=Ilchester
+1195,South West,Somerset,Ilminster Turnpike Trust,1803,Road from Chard Act 1803,web reader,1,1,Ilminster=Ilminster
+1196,South West,Somerset,"Langport, Somerton and Castle Cary Turnpike Trust",1753,Somerset Roads (No. 3) Act 1753,web reader,3,3,Langport=Langport; Somerton=Somerton; Castle Cary=Castle Cary
+1197,South West,Somerset,Martock and South Petherton Turnpike Trust,1760,Somerset Roads Act 1760,web reader,2,1,Martock=Martock
+1198,South West,Somerset,Minehead Roads Turnpike Trust,1765,Somerset and Devon Roads Act 1765,web reader,1,1,Minehead=Minehead
+1199,South West,Somerset,Radstock Turnpike Trust,1768,Somerset Roads Act 1768,web reader,1,1,Radstock=Radstock
+1200,South West,Somerset,Shepton Mallet Turnpike Trust,1753,Somerset Roads (No. 2) Act 1753,web reader,1,1,Shepton Mallet=Shepton Mallet
+1201,South West,Somerset,Wedmore Turnpike Trust,1827,Ashcott and Rowberrow Hill Road (Somerset) Act 1827,web reader,1,1,Wedmore=Wedmore
+1202,South West,Somerset,Wells Turnpike Trust,1753,Wells Roads Act 1753,web reader,1,1,Wells=Wells
+1203,South West,Somerset,"Wells, Highbridge and Cheddar Turnpike Trust; Wells and Highbridge Turnpike Trust",1841,"Wells, Highbridge and Cheddar Road Act 1841",web reader,3,3,Wells=Wells; Highbridge=Highbridge; Cheddar=Cheddar
+1204,South West,Somerset,West Harptree Turnpike Trust,1793,Somerset Roads Act 1793,web reader,1,0,
+1205,South West,Somerset,Weston-super-Mare and Worle Turnpike Trust,1840,Weston-super-Mare and Worle Road Act 1840,web reader,2,2,Weston-super-Mare=Weston-super-Mare; Worle=Worle
+1206,South West,Somerset,Wincanton Turnpike Trust,1756,Wincanton Roads Act 1756,web reader,1,1,Wincanton=Wincanton
+1207,South West,Somerset,Wiveliscombe Turnpike Trust,1786,Wiveliscombe Roads Act 1786,web reader,1,1,Wiveliscombe=Wiveliscombe
+1208,South West,Wiltshire,Amesbury Turnpike Trust,1762,Southampton and Wilts Road Act 1762,web reader,1,1,Amesbury=Amesbury
+1209,South West,Wiltshire,Beckhampton Turnpike Trust,1742,Wiltshire Roads Act 1742,web reader,1,1,Beckhampton=Beckhampton
+1210,South West,Wiltshire,Blackdog Turnpike Trust,1751,Wiltshire Roads (No. 2) Act 1751,web reader,1,0,
+1211,South West,Wiltshire,Bradford Turnpike Trust,1751,Wiltshire and Somerset Roads (No. 3) Act 1751,web reader,1,0,
+1212,South West,Wiltshire,Calne Turnpike Trust,1707,Wiltshire Highways Act 1706,web reader,1,1,Calne=Calne
+1213,South West,Wiltshire,"Calne, Lyneham and Hillmartin Turnpike Trust",1791,"Swindon, Calne and Cricklade Roads Act 1791",web reader,3,2,Calne=Calne; Lyneham=Lyneham
+1214,South West,Wiltshire,Chippenham Turnpike Trust; Chippenham to Togg Hill Turnpike Trust; Draycot Turnpike Trust,1726,Chippenham Roads Act 1726,web reader,3,1,Chippenham=Chippenham
+1215,South West,Wiltshire,Christian Malford to Shillingford Turnpike Trust,1757,Wilts and Berks Roads Act 1757,web reader,2,2,Christian Malford=Christian Malford; Shillingford=Shillingford
+1216,South West,Wiltshire,Corsham Turnpike Trust; Bradford to Lacock Turnpike Trust,1725,Wiltshire Roads (No. 2) Act 1725,web reader,3,2,Corsham=Corsham; Lacock=Lacock
+1217,South West,Wiltshire,Crudwell and Minty Turnpike Trust,,,web reader,2,1,Crudwell=Crudwell
+1218,South West,Wiltshire,Devizes Turnpike Trust,1797,Devizes Roads Act 1797,web reader,1,1,Devizes=Devizes
+1219,South West,Wiltshire,Draycot or Upper District Turnpike Trust,1756,Gloucester and Wiltshire Roads Act 1756,web reader,1,0,
+1220,South West,Wiltshire,Everley Turnpike Trust,1762,Weyhill and Lyde Way Road Act 1762,web reader,1,0,
+1221,South West,Wiltshire,"Fisherton, Wilton etc. Turnpike Trust",1760,Wilts Roads Act 1760,web reader,2,1,Wilton=Wilton
+1222,South West,Wiltshire,Holt and Wraxall Turnpike Trust,1762,Wilts Roads (No. 3) Act 1762,web reader,2,0,
+1223,South West,Wiltshire,Lechlade to Swindon Turnpike Trust,1792,Gloucester and Wiltshire Roads Act 1792,web reader,2,1,Swindon=Swindon
+1224,South West,Wiltshire,Malmesbury Turnpike Trust,1756,Berkshire Roads Act 1756,web reader,1,1,Malmesbury=Malmesbury
+1225,South West,Wiltshire,Marlborough and Froxfield Turnpike Trust,1725,Newbury to Marlborough Road Act 1725,web reader,2,2,Marlborough=Marlborough; Froxfield=Froxfield
+1226,South West,Wiltshire,Marlborough and Sailsbury Turnpike Trust,1762,Wilts Roads Act 1762,web reader,2,2,Marlborough=Marlborough; Sailsbury=Salisbury
+1227,South West,Wiltshire,Marlborough and Swindon Turnpike Trust,1819,Road from Marlborough to Cote Act 1819,web reader,2,2,Marlborough=Marlborough; Swindon=Swindon
+1228,South West,Wiltshire,Meadbrook to Christian Malford Turnpike Trust,1756,Gloucester and Wiltshire Roads Act 1756,web reader,2,1,Christian Malford=Christian Malford
+1229,South West,Wiltshire,Melksham Turnpike Trust,1757,Wiltshire Roads Act 1757,web reader,1,1,Melksham=Melksham
+1230,South West,Wiltshire,New Sarum to Dorchester Turnpike Trust,1756,Wiltshire and Dorset Roads Act 1756,web reader,2,2,New Sarum=Salisbury; Dorchester=Dorchester
+1231,South West,Wiltshire,Sarum and Eling Turnpike Trust,1753,Wiltshire and Southampton Roads Act 1753,web reader,2,2,Sarum=Salisbury; Eling=Eling
+1232,South West,Wiltshire,Seend to Box Turnpike Trust,,,web reader,2,2,Seend=Seend; Box=Box
+1233,South West,Wiltshire,Swindon and Christian Malford Turnpike Trust,1791,"Swindon, Calne and Cricklade Roads Act 1791",web reader,2,2,Swindon=Swindon; Christian Malford=Christian Malford
+1234,South West,Wiltshire,Swindon and Cold Harbour Turnpike Trust,1791,"Swindon, Calne and Cricklade Roads Act 1791",web reader,2,2,Swindon=Swindon; Cold Harbour=Cold Harbour
+1235,South West,Wiltshire,Swindon and Hungerford Turnpike Trust,1814,Road from Swindon to Ramsbury Act 1814,web reader,2,2,Swindon=Swindon; Hungerford=Hungerford
+1236,South West,Wiltshire,Swindon and Marlborough Turnpike Trust,1762,Wilts Roads Act 1762,web reader,2,2,Swindon=Swindon; Marlborough=Marlborough
+1237,South West,Wiltshire,"Swindon, Calne and Cricklade Turnpike Trust",1791,"Swindon, Calne and Cricklade Roads Act 1791",web reader,3,3,Swindon=Swindon; Calne=Calne; Cricklade=Cricklade
+1238,South West,Wiltshire,Trowbridge Turnpike Trust; Seend to Trowbridge Turnpike Trust,1751,Wiltshire and Somerset Roads Act 1751,web reader,2,2,Trowbridge=Trowbridge; Seend=Seend
+1239,South West,Wiltshire,Warminster Turnpike Trust,1726,Warminster Roads Act 1726,web reader,1,1,Warminster=Warminster
+1240,South West,Wiltshire,Warminster to Beckington Turnpike Trust,,,web reader,2,2,Warminster=Warminster; Beckington=Beckington
+1241,South West,Wiltshire,"West Lavington to Seend Turnpike Trust; West Lavington, Devizes and Seend Turnpike Trust",1750,Wiltshire Roads Act 1750,web reader,3,2,Seend=Seend; Devizes=Devizes
+1242,South West,Wiltshire,Westbury Turnpike Trust,1757,Wilts Roads Act 1757,web reader,1,1,Westbury=Westbury
+1243,South West,Wiltshire,Whitesheet Turnpike Trust; Hurdcot to Barford Turnpike Trust,1788,Wiltshire Roads Act 1788,web reader,3,0,
+1244,South West,Wiltshire,Winterslow to Harnham Bridge Turnpike Trust,1753,Wiltshire and Southampton Roads Act 1753,web reader,2,0,
+1245,South West,Wiltshire,Wooton Basset and Marlborough Turnpike Trust,1809,Wootton Bassett Road Act 1809,web reader,2,1,Marlborough=Marlborough

@@ -1,0 +1,13 @@
+{
+ "fidelity": {
+  "n_checked": 89,
+  "n_disk_rows": 82,
+  "name_matched": 82,
+  "year_same": 82,
+  "act_same": 82,
+  "year_mismatches": []
+ },
+ "rows_read": 1265,
+ "rows_named": 1262,
+ "trusts": 1245
+}
